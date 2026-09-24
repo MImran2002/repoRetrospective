@@ -1,0 +1,1217 @@
+repo,sha,author,author_type,committer,date,message,html_url
+urcpp,633877c094e0a753a38615990b52a3fb4cba274e,hoerstl,User,hoerstl,2025-02-27T16:01:53Z,Changed permissions of the venv when running setup.sh,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/633877c094e0a753a38615990b52a3fb4cba274e
+urcpp,e3351f638b1e88aaf1fc719d3de76810d59991cf,hoerstl,User,hoerstl,2025-02-27T15:22:05Z,Changed line endings in the setup.sh file and for all .sh files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e3351f638b1e88aaf1fc719d3de76810d59991cf
+urcpp,ed1a208a3ec6ceab2c8816a44803a43af36b82dd,hoerstl,User,hoerstl,2025-02-27T15:02:31Z,Fixed the line endings in entrypoint.sh,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ed1a208a3ec6ceab2c8816a44803a43af36b82dd
+urcpp,c72dda9c682f0a2513951d9974a0dd4552ef3965,hoerstl,User,hoerstl,2025-02-25T16:42:05Z,Changed some line endings and fixed the devcontainer somewhat,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c72dda9c682f0a2513951d9974a0dd4552ef3965
+urcpp,c6c867eef90f81175dc2355bcc6e27a9b0ef466f,hoerstl,User,hoerstl,2025-02-06T16:22:39Z,Fixed the docker configuration so now the app will run as expected in the devcontainer.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c6c867eef90f81175dc2355bcc6e27a9b0ef466f
+urcpp,c67188e62b71c78bacf38be33631fe43bd732f14,hoerstl,User,hoerstl,2025-02-06T15:36:48Z,Fixed some issues with the devcontainer and made setup.sh run automatically on container start and when opening a bash terminal.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c67188e62b71c78bacf38be33631fe43bd732f14
+urcpp,162ca101defebb0b983e4d889694aa9606492cd0,hoerstl,User,hoerstl,2025-01-30T16:48:28Z,Modernized the dockerfile and started work on the devcontainer.json file.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/162ca101defebb0b983e4d889694aa9606492cd0
+urcpp,5efdff1c9607d7fde266075fcdd9520510c91bda,sheggen,User,sheggen,2025-01-16T17:18:53Z,Fixing end date UX,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5efdff1c9607d7fde266075fcdd9520510c91bda
+urcpp,4f5c1b3586500cdd9aaf0a09af2d718c8c4acac7,sheggen,User,sheggen,2025-01-14T19:11:32Z,Fixing Py2 problems and getting it all back to working,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4f5c1b3586500cdd9aaf0a09af2d718c8c4acac7
+urcpp,7d4675811be9635fdc4a0c3cf51d78872c96ff03,root,,root,2020-12-21T15:00:20Z,"Logging and special characters are conflicting, disabled logging",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7d4675811be9635fdc4a0c3cf51d78872c96ff03
+urcpp,776c136311982e9f41423357bd2b639aa16ec863,root,,root,2020-12-15T16:20:48Z,Fixed bug on dashboard where you can't upload a CV,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/776c136311982e9f41423357bd2b639aa16ec863
+urcpp,c21af9228adc856552a97631c250b64dd14bbeae,root,,root,2020-05-21T18:43:20Z,one more place for real prod data,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c21af9228adc856552a97631c250b64dd14bbeae
+urcpp,ae277ba1ccc2ae77fd4b6ee87282b600afb538d2,sheggen,User,sheggen,2020-02-14T21:22:09Z,Fixing small bug so it constructs email correctly,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ae277ba1ccc2ae77fd4b6ee87282b600afb538d2
+urcpp,2f4e334e689122a198552a8f23d48a5c1cff45fe,Ubuntu,,Ubuntu,2020-01-08T14:26:21Z,saving changes and merged fixes to the rubric:,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2f4e334e689122a198552a8f23d48a5c1cff45fe
+urcpp,e3c0e85f600698ec500b7d4eea0dc5236c66d7c0,Bria Williams,,Bria Williams,2020-01-08T14:02:43Z,"Merged in rubricFixes (pull request #72)
+
+Modifications in the Rubric and Voting",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e3c0e85f600698ec500b7d4eea0dc5236c66d7c0
+urcpp,c101357d674e75b8289c1d46611067b65ababeed,Ubuntu,,Ubuntu,2020-01-07T15:04:53Z,removing flask files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c101357d674e75b8289c1d46611067b65ababeed
+urcpp,8689ae22c0ad4bcc2b0155a21ea5d6664d169d70,Ubuntu,,Ubuntu,2020-01-06T18:23:08Z,fixing a miscalculation in allvotes page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8689ae22c0ad4bcc2b0155a21ea5d6664d169d70
+urcpp,98a98e294035558770e6dcb3221105a40e29d4c7,Ubuntu,,Ubuntu,2020-01-06T16:27:29Z,saving changes before server crashes again,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/98a98e294035558770e6dcb3221105a40e29d4c7
+urcpp,745961825c57be51a9dc926d9a7ca3064ef74ee1,Ubuntu,,Ubuntu,2020-01-06T16:21:00Z,saving changes before server crashes again,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/745961825c57be51a9dc926d9a7ca3064ef74ee1
+urcpp,533a5d78a8ca7f1ea1f3f122e3a1958bebd3d352,Ubuntu,,Ubuntu,2020-01-06T16:18:33Z,saving changes before server crashes again,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/533a5d78a8ca7f1ea1f3f122e3a1958bebd3d352
+urcpp,8451d6e51aa47ebaf1b39aa16a62274ecbdbe57b,Ubuntu,,Ubuntu,2020-01-06T16:16:58Z,saving changes before server crashes again,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8451d6e51aa47ebaf1b39aa16a62274ecbdbe57b
+urcpp,99fa2018a9e298d764212be25e302259e546ddf5,Ubuntu,,Ubuntu,2020-01-06T16:13:04Z,saving changes before server crashes again,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/99fa2018a9e298d764212be25e302259e546ddf5
+urcpp,d751bb3e3346e5304a43e77577deec00b29be656,Ubuntu,,Ubuntu,2020-01-06T15:00:59Z,saving changes so I can test stuff,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d751bb3e3346e5304a43e77577deec00b29be656
+urcpp,546db577e85e114df2070b5ecec8451e7c0b6ad1,Ubuntu,,Ubuntu,2020-01-06T14:03:25Z,saving changes because reasons,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/546db577e85e114df2070b5ecec8451e7c0b6ad1
+urcpp,ed21ab621a2d2a374ee55cf41135ff136c65b649,Ubuntu,,Ubuntu,2020-01-06T14:01:32Z,saving changes because reasons,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ed21ab621a2d2a374ee55cf41135ff136c65b649
+urcpp,63efacdac4b82f3ce5c49c55ff2a383f97d86af7,Ubuntu,,Ubuntu,2020-01-03T21:25:11Z,saving changes,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/63efacdac4b82f3ce5c49c55ff2a383f97d86af7
+urcpp,4a2acf9914a454469ab8e575f57e182f26bc4b41,Ubuntu,,Ubuntu,2020-01-03T20:48:27Z,saving changes to models and update the schema,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4a2acf9914a454469ab8e575f57e182f26bc4b41
+urcpp,a9d73df70877253f27586786334a5bd465e53af4,BriaW,,BriaW,2019-12-20T16:29:44Z,saving changes,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a9d73df70877253f27586786334a5bd465e53af4
+urcpp,97c9babf466303582d6bffc97acaba8509e07d19,BriaW,,BriaW,2019-12-17T21:18:12Z,Changes to corresponding voting files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/97c9babf466303582d6bffc97acaba8509e07d19
+urcpp,fa9c81afd9d1cef99d3b45dde61adba900a3bf4a,BriaW,,BriaW,2019-12-17T16:08:22Z,fixing merge conflict,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fa9c81afd9d1cef99d3b45dde61adba900a3bf4a
+urcpp,1a542262bf2a24d840b0f0653534366cb6128a97,sheggen,User,sheggen,2019-12-17T15:29:38Z,Editing config.yaml with new IRB chair,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1a542262bf2a24d840b0f0653534366cb6128a97
+urcpp,163ee6463497a4a57f69faa2c6e312ef81d03ebf,sheggen,User,sheggen,2019-12-17T15:14:06Z,Updating login handler and authUser to prevent student login and create users on the fly,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/163ee6463497a4a57f69faa2c6e312ef81d03ebf
+urcpp,4784b8dbe4654496dcebcf0899eb15407582d48f,sheggen,User,sheggen,2019-12-17T14:26:15Z,Merge branch 'development' of bitbucket.org:laborstudents/urcpp-flask into development,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4784b8dbe4654496dcebcf0899eb15407582d48f
+urcpp,97faf9d95c4ef8be84585b548ad9c21654d57e05,sheggen,User,sheggen,2019-12-17T14:23:14Z,Merge remote-tracking branch 'origin/auto-add-faculty' into development,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/97faf9d95c4ef8be84585b548ad9c21654d57e05
+urcpp,6949e73073e7e58cf0cf328da1b2d2a9338fa8ea,sheggen,User,sheggen,2019-12-17T14:20:34Z,Merge branch 'development' of bitbucket.org:laborstudents/urcpp-flask into development,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6949e73073e7e58cf0cf328da1b2d2a9338fa8ea
+urcpp,600c544d3b160594ce4ae3a0de3525569a987eef,BriaW,,BriaW,2019-12-11T22:24:19Z,"I broke it, will fix tomorrow",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/600c544d3b160594ce4ae3a0de3525569a987eef
+urcpp,c9825dac31bdf4210731b152bd9d44d9f0f61dfd,BriaW,,BriaW,2019-12-11T20:53:30Z,Making changes to criteria for voting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c9825dac31bdf4210731b152bd9d44d9f0f61dfd
+urcpp,3dee74288ffe9ef00d6af344d8b178d19260a635,Bria Williams,,Bria Williams,2019-12-11T18:27:18Z,README.md edited online with Bitbucket,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3dee74288ffe9ef00d6af344d8b178d19260a635
+urcpp,e33e4368200e5618c389b96732a5d1406a445516,sheggen,User,sheggen,2019-12-02T16:34:10Z,Merge branch 'development' of bitbucket.org:laborstudents/urcpp-flask into development,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e33e4368200e5618c389b96732a5d1406a445516
+urcpp,131385d601b069b2f7b2c72ad8ecad8d2fee23a3,sheggen,User,sheggen,2019-12-02T16:32:12Z,Updating upload.py to jsonify a dict,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/131385d601b069b2f7b2c72ad8ecad8d2fee23a3
+urcpp,656a6fc121c39e1fdf9a8e5dfa6d38aa662959ba,sheggen,User,sheggen,2019-12-02T16:30:38Z,Making all usernames lower case to prevent errors,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/656a6fc121c39e1fdf9a8e5dfa6d38aa662959ba
+urcpp,e26dfdd725996fb9d8eaef9ceabb047d968ed5fb,BriaW,,BriaW,2019-11-14T20:08:20Z,fixing bug,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e26dfdd725996fb9d8eaef9ceabb047d968ed5fb
+urcpp,76e255dd0690abd31999391dee7b82dd8986b63a,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-26T19:11:19Z,"resized form control to show whole option on /committee/allProjects
+'",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/76e255dd0690abd31999391dee7b82dd8986b63a
+urcpp,c7ed146ea4d3e6e5298a0065662f884aa878bb0f,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-26T17:24:20Z,Changing the format of date for emails and added required tags to inputs on setParameters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c7ed146ea4d3e6e5298a0065662f884aa878bb0f
+urcpp,e386cd7abea96a294650629fb2b7091c375e9d80,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-02T17:29:52Z,variables replacing in email! just need to format the abstract date,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e386cd7abea96a294650629fb2b7091c375e9d80
+urcpp,cd9ec7da511aab94f453d103cbc16b5aa25a702c,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-02T17:10:40Z,Merge branch 'development' of https://bitbucket.org/laborstudents/urcpp-flask into development,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cd9ec7da511aab94f453d103cbc16b5aa25a702c
+urcpp,0c266de1d9dcfa01cf5ccf90f5c6c910f3b196c8,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-02T17:10:05Z,all variables pulling to backend but not populating email yet :C,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0c266de1d9dcfa01cf5ccf90f5c6c910f3b196c8
+urcpp,d199329a30b813636d2bdd2b5d45be580f3bbde3,sheggen,User,sheggen,2019-08-02T15:57:11Z,Accordion'ed the setParameters form for better UI,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d199329a30b813636d2bdd2b5d45be580f3bbde3
+urcpp,2dd76d67c8a3d0e6b9ed8935e57e16acd00dc0b4,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-02T14:19:41Z,fixed IRB link in both spots,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2dd76d67c8a3d0e6b9ed8935e57e16acd00dc0b4
+urcpp,c016b661655fef555ffae4db8f05739fb24fa38c,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-02T14:13:55Z,no more narratives on /setparameters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c016b661655fef555ffae4db8f05739fb24fa38c
+urcpp,3d493237cce918828746a73cffb0a9a568549ae0,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-01T20:47:09Z,styling parameters table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3d493237cce918828746a73cffb0a9a568549ae0
+urcpp,5b5f334548aa0877d38dad2bfd9281529dab3696,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-01T20:27:21Z,styling parameters table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5b5f334548aa0877d38dad2bfd9281529dab3696
+urcpp,00d69667c93ebb47f26174dc86bc55e37549a79c,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-01T19:50:39Z,Added abstract column to All Files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/00d69667c93ebb47f26174dc86bc55e37549a79c
+urcpp,79571459ce4c7cf84bdb411553eb61eda73e9e5c,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-01T19:40:15Z,reordering of chairs in form and table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/79571459ce4c7cf84bdb411553eb61eda73e9e5c
+urcpp,f0b4f797c408f91750c2331b0f7d905289349575,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-01T19:37:46Z,Ordered chairs by lastname and made sure people with bnumber are not shown,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f0b4f797c408f91750c2331b0f7d905289349575
+urcpp,f0d0ad01468562f79ef0ac4bb9a7a215abcb17a6,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-01T19:21:44Z,"when user leaves create application, the dropdown for program now populates correctly when they reurn to it /create.html",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f0d0ad01468562f79ef0ac4bb9a7a215abcb17a6
+urcpp,eba41f86768eb72941078723261e4cb732f1adc8,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-01T19:04:45Z,"Fixing Manage Committe page (padding, datat live search, overlapping footer",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/eba41f86768eb72941078723261e4cb732f1adc8
+urcpp,fb9c9811487e068ffcc60ba2a77eb2efebfe818f,Kat Adams & Bria Williams,,Kat Adams & Bria Williams,2019-08-01T18:24:12Z,fixed teardown request to dynamicDB.close() since pointers were pointing at nothing.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fb9c9811487e068ffcc60ba2a77eb2efebfe818f
+urcpp,4db1c68668cf09555868353ef1b14f3d2de7d4a2,johnsonwe,User,johnsonwe,2019-07-16T20:17:34Z,Added Contributor names,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4db1c68668cf09555868353ef1b14f3d2de7d4a2
+urcpp,f2d8b0e6fe65c3c0a7209a4801ddd2b2f363fdc4,sheggen,User,sheggen,2019-07-01T20:25:57Z,Updating gitignore to ignore files with passwords in them.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f2d8b0e6fe65c3c0a7209a4801ddd2b2f363fdc4
+urcpp,2b0f6824f9a2f7f7e4c3db308f1c5f6d05f803d3,sheggen,User,sheggen,2019-07-01T20:19:03Z,Minor updates to config.yaml; created change_parameter_dates.py to insert empty records in parameters table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2b0f6824f9a2f7f7e4c3db308f1c5f6d05f803d3
+urcpp,ac1e32db5595e95cbeff9d23032462346ac54b1f,Jamaliela,User,johnsonwe,2019-06-26T18:36:05Z,"Merged in 79 (pull request #51)
+
+Different Stages though the Application Process
+
+Approved-by: Katelyn Adams <adamska@berea.edu>
+Approved-by: Evan Johnson <johnsone@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ac1e32db5595e95cbeff9d23032462346ac54b1f
+urcpp,a52f61e6d8dd1c74248161ea0e5cd4e52c63af01,johnsonwe,User,johnsonwe,2019-06-25T20:45:33Z,Further optimized incomplete projects handling,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a52f61e6d8dd1c74248161ea0e5cd4e52c63af01
+urcpp,a7d69e0fdcc0499faa0867071de94b650e126822,johnsonwe,User,johnsonwe,2019-06-25T19:32:22Z,Fixed 'Incomplete' project edge case,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a7d69e0fdcc0499faa0867071de94b650e126822
+urcpp,5941655000225d6b04ac91f378f47d5f325bb46f,johnsonwe,User,johnsonwe,2019-06-25T18:54:19Z,Changes to state machine,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5941655000225d6b04ac91f378f47d5f325bb46f
+urcpp,f686a316df60ea882a5eb14e74b6445949959dad,sheggen,User,sheggen,2019-06-25T16:19:12Z,Tested all states of dashboard and horizontalprogressbar,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f686a316df60ea882a5eb14e74b6445949959dad
+urcpp,425dcddc634620096d4426fe193a61bc7dd6487d,sheggen,User,sheggen,2019-06-25T03:06:55Z,Fixing state machine for dashboard with new dates,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/425dcddc634620096d4426fe193a61bc7dd6487d
+urcpp,81790185c3ea00de2d50fb2c63c88a6532da375d,sheggen,User,sheggen,2019-06-24T21:11:47Z,Fixing lots of issues on dashboard related to parameters; Fixed setParameters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/81790185c3ea00de2d50fb2c63c88a6532da375d
+urcpp,15d25d649d379ac05a0f5623c20471eaf5dc52a7,Jamaliela,User,sheggen,2019-06-20T20:51:37Z,"Merged in 95 (pull request #43)
+
+Award Letter Template and Email
+
+Approved-by: Katelyn Adams <adamska@berea.edu>
+Approved-by: Evan Johnson <johnsone@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/15d25d649d379ac05a0f5623c20471eaf5dc52a7
+urcpp,c8c9fc571214394e8c723d0c72f9372909485f84,sheggen,User,sheggen,2019-06-20T20:49:57Z,Fixing issues with emailer,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c8c9fc571214394e8c723d0c72f9372909485f84
+urcpp,245a9b069caf305a718fde0e0a81ae46bca99d74,Bria Williams,,sheggen,2019-06-20T19:36:54Z,"Merged in 170 (pull request #67)
+
+Create /collaborations page to replace /bnumbers page",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/245a9b069caf305a718fde0e0a81ae46bca99d74
+urcpp,9532f28c4f100c27ccc801fdd8b60724d96cc108,sheggen,User,sheggen,2019-06-20T19:36:30Z,"Fixed duplicate button, max/min, review and done page issues",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9532f28c4f100c27ccc801fdd8b60724d96cc108
+urcpp,35a69049914aec9e437a7121f663ef84537e2d64,Jamaliela,User,sheggen,2019-06-20T18:56:31Z,"Merged in 104 (pull request #64)
+
+Contributor list in footer
+
+Approved-by: Katelyn Adams <adamska@berea.edu>
+Approved-by: Evan Johnson <johnsone@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/35a69049914aec9e437a7121f663ef84537e2d64
+urcpp,38462a1066efb509f48afbf1375abe0ddddc648c,sheggen,User,sheggen,2019-06-20T18:56:06Z,Fixing merge conflict,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/38462a1066efb509f48afbf1375abe0ddddc648c
+urcpp,61321d1dbf35d241f25e82cd71cf72e006a5391c,sheggen,User,sheggen,2019-06-20T18:54:54Z,Merge branch 'development' into 104,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/61321d1dbf35d241f25e82cd71cf72e006a5391c
+urcpp,797db10b3a4dbe6e00ad80377f9ebb9f55fd4364,Jamaliela,User,sheggen,2019-06-20T12:22:38Z,"Merged in 173 (pull request #65)
+
+Having ""Back"" and ""Submit"" buttons in the blue area
+
+Approved-by: Katelyn Adams <adamska@berea.edu>
+Approved-by: Evan Johnson <johnsone@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/797db10b3a4dbe6e00ad80377f9ebb9f55fd4364
+urcpp,6df5296a271752287c9dd39d538562add6ea8337,sheggen,User,sheggen,2019-06-20T12:21:45Z,Fixed models.py to point to the localhost instead of unknown host 'db',https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6df5296a271752287c9dd39d538562add6ea8337
+urcpp,091bbe34981aa0576683fe926eaa4cc2ad0c6bbf,HaileyB0311,User,HaileyB0311,2019-06-19T16:51:25Z,saving progress,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/091bbe34981aa0576683fe926eaa4cc2ad0c6bbf
+urcpp,58b46a40837caac91514d6c5cfca393850d583a6,HaileyB0311,User,HaileyB0311,2019-06-18T21:31:22Z,Fixed merged conflict,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/58b46a40837caac91514d6c5cfca393850d583a6
+urcpp,e89c2154d2549cc817af06c0a80c19f7f1cc290f,HaileyB0311,User,HaileyB0311,2019-06-18T18:08:49Z,"fixed minor formatting, no biggie",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e89c2154d2549cc817af06c0a80c19f7f1cc290f
+urcpp,9df704c26827a8b117d025f8da9488b9d4ad9e57,HaileyB0311,User,HaileyB0311,2019-06-18T17:32:19Z,solved the support email issue,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9df704c26827a8b117d025f8da9488b9d4ad9e57
+urcpp,774872bcc25ee5ef57da651c4cc56102748dce08,wgs1862019,User,wgs1862019,2019-06-18T17:30:53Z,changing the strings to cfg,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/774872bcc25ee5ef57da651c4cc56102748dce08
+urcpp,a040d863ad737fb6d7af141f3edfd2604538c4b3,wgs1862019,User,wgs1862019,2019-06-18T17:17:24Z,just deleting the holding file as the dashboard.html is updated.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a040d863ad737fb6d7af141f3edfd2604538c4b3
+urcpp,06123bf5dea36b2756e6186f06a7d083b3c7a559,wgs1862019,User,wgs1862019,2019-06-18T15:12:53Z,Refactored into snips and all 6 cases workgit status! -Kat,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/06123bf5dea36b2756e6186f06a7d083b3c7a559
+urcpp,89bbfcd858aedb2a4972dc185678ff779656d72a,HaileyB0311,User,HaileyB0311,2019-06-18T14:22:53Z,"Revert ""saving progress, fixed timer problem on error messages""
+
+This reverts commit e9c5690295c7a8dccd70a5d69658c2eb4933ec44.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/89bbfcd858aedb2a4972dc185678ff779656d72a
+urcpp,e9c5690295c7a8dccd70a5d69658c2eb4933ec44,HaileyB0311,User,HaileyB0311,2019-06-18T14:06:57Z,"saving progress, fixed timer problem on error messages",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e9c5690295c7a8dccd70a5d69658c2eb4933ec44
+urcpp,f26c0f42906ceb06301a89e3a05d9c121e1fdfa6,HaileyB0311,User,HaileyB0311,2019-06-18T13:47:59Z,fixing merge conflicts,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f26c0f42906ceb06301a89e3a05d9c121e1fdfa6
+urcpp,b7e99605a7d2301ed3ddb37e7dfb669c63226a15,wgs1862019,User,wgs1862019,2019-06-18T12:48:09Z,Merge branch '79' of https://bitbucket.org/laborstudents/urcpp-flask into 79,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b7e99605a7d2301ed3ddb37e7dfb669c63226a15
+urcpp,20e788e355052296523a1bb5c682cb84f729c900,wgs1862019,User,wgs1862019,2019-06-18T12:46:37Z,Merge branch 'development' of https://bitbucket.org/laborstudents/urcpp-flask into 79,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/20e788e355052296523a1bb5c682cb84f729c900
+urcpp,76f09469915bd82d21779e62774d23b77354ffff,sheggen,User,sheggen,2019-06-17T21:15:24Z,Started refactoring dashboard.html to use snips,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/76f09469915bd82d21779e62774d23b77354ffff
+urcpp,ea3da66a4256463180fd905d29477dcc354c8572,sheggen,User,sheggen,2019-06-17T17:18:14Z,Merge branch 'development' into 79,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ea3da66a4256463180fd905d29477dcc354c8572
+urcpp,0ce54c12144db9a8205f173189bc998368e2dcc2,Jamaliela,User,sheggen,2019-06-17T17:13:54Z,"Merged in 134 (pull request #50)
+
+Incosistancy in Withdrawing Applications in Firefox
+
+Approved-by: Evan Johnson <johnsone@berea.edu>
+Approved-by: Katelyn Adams <adamska@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0ce54c12144db9a8205f173189bc998368e2dcc2
+urcpp,1a0b7ede431fe1d33aca9407201cd44f6e78620c,sheggen,User,sheggen,2019-06-17T17:11:43Z,Merge branch 'development' into 134,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1a0b7ede431fe1d33aca9407201cd44f6e78620c
+urcpp,f374fbdecf4e0b38fce184a28944f80f0ebc65ce,HaileyB0311,User,HaileyB0311,2019-06-14T20:33:57Z,Changed the formatting of the dropdown menu for accessibility reasons and to make it look pretty,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f374fbdecf4e0b38fce184a28944f80f0ebc65ce
+urcpp,a97015f168128bd0b2aa135824f6aefe835f14ac,HaileyB0311,User,HaileyB0311,2019-06-14T19:02:19Z,max collab faculty is now 4,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a97015f168128bd0b2aa135824f6aefe835f14ac
+urcpp,ba4766ad2155e78e3599fdc00421f3e7f5791e9d,HaileyB0311,User,HaileyB0311,2019-06-14T18:48:30Z,deleted all unnecessary code,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ba4766ad2155e78e3599fdc00421f3e7f5791e9d
+urcpp,3316197411330b14a1fc357b1423752922127cff,HaileyB0311,User,HaileyB0311,2019-06-14T18:36:50Z,"Required input and fixed same username issue, shows error msgs",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3316197411330b14a1fc357b1423752922127cff
+urcpp,6a0bcfb83567538a7003175480e0a511d9b46eaf,HaileyB0311,User,HaileyB0311,2019-06-14T14:55:01Z,Bria reworded the username not found error message,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6a0bcfb83567538a7003175480e0a511d9b46eaf
+urcpp,7bcc6c05a05f0765b27f37119a59722537573599,wgs1862019,User,wgs1862019,2019-06-14T13:26:31Z,Merge branch '79' of https://bitbucket.org/laborstudents/urcpp-flask into 79,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7bcc6c05a05f0765b27f37119a59722537573599
+urcpp,cd5d20c7dc96ae6b9c407bebf5584ee193a89c0c,wgs1862019,User,wgs1862019,2019-06-14T13:22:31Z,fixed case 5,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cd5d20c7dc96ae6b9c407bebf5584ee193a89c0c
+urcpp,4465e1503e0a394665fbc289fd7e3622c5c8e1bb,wgs1862019,User,wgs1862019,2019-06-14T13:21:34Z,Merge branch 'development' of https://bitbucket.org/laborstudents/urcpp-flask into 79,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4465e1503e0a394665fbc289fd7e3622c5c8e1bb
+urcpp,d6281643a9a215da477b19a08a35a1e11e8dbb7d,wgs1862019,User,wgs1862019,2019-06-14T13:17:39Z,fixed case 5,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d6281643a9a215da477b19a08a35a1e11e8dbb7d
+urcpp,34d663343894fcfa90e500a6b5482161d4807aac,HaileyB0311,User,HaileyB0311,2019-06-14T11:58:43Z,"saving progress, attempting to solve the same username problem",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/34d663343894fcfa90e500a6b5482161d4807aac
+urcpp,b26a4b4df79094025cc7129e8c91d0b9c5ea79be,wgs1862019,User,wgs1862019,2019-06-13T18:13:54Z,centering text,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b26a4b4df79094025cc7129e8c91d0b9c5ea79be
+urcpp,2a9a270b56d7ac2604a89448f73eb258d4df3df1,wgs1862019,User,wgs1862019,2019-06-13T17:21:46Z,successfully fixed the stages and the way they should behave based on proposal closed date.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2a9a270b56d7ac2604a89448f73eb258d4df3df1
+urcpp,e1fdd154fef812bc9507716770a9ad82e4c44db5,HaileyB0311,User,HaileyB0311,2019-06-13T15:57:08Z,got the collabs to work and submit to next page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e1fdd154fef812bc9507716770a9ad82e4c44db5
+urcpp,6a6dbc59da05de3f90000560a9011f76c77f6535,wgs1862019,User,wgs1862019,2019-06-12T20:24:08Z,changes for different stages that Kat suggested.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6a6dbc59da05de3f90000560a9011f76c77f6535
+urcpp,f7a39b52934762cc28cb804925567618a5f5debd,wgs1862019,User,wgs1862019,2019-06-12T18:11:04Z, color of the links are fixed.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f7a39b52934762cc28cb804925567618a5f5debd
+urcpp,9eec116ee13171a744e6483b5f32e55a10255ac0,wgs1862019,User,wgs1862019,2019-06-12T17:30:47Z,fixing the link /contributor,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9eec116ee13171a744e6483b5f32e55a10255ac0
+urcpp,1f933323ab1ce84c06214ce78d93d03559bed4d4,wgs1862019,User,wgs1862019,2019-06-12T17:20:15Z,Merge branch '104' of https://bitbucket.org/laborstudents/urcpp-flask into 104,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1f933323ab1ce84c06214ce78d93d03559bed4d4
+urcpp,9a0e43cb409bf43d83f2a432879e93e74ab9458f,wgs1862019,User,wgs1862019,2019-06-12T17:19:02Z,Merge branch '167' into 104,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9a0e43cb409bf43d83f2a432879e93e74ab9458f
+urcpp,2f770b44f3fcde4a177d5fd06446df9c079059a2,wgs1862019,User,wgs1862019,2019-06-12T15:53:16Z,deleting some comments,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2f770b44f3fcde4a177d5fd06446df9c079059a2
+urcpp,4faeea5791a30b28de50b02cb6f0d9d8e2a9feaa,wgs1862019,User,wgs1862019,2019-06-12T15:51:35Z,editing the table is now fixed and all the rows can be edited now.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4faeea5791a30b28de50b02cb6f0d9d8e2a9feaa
+urcpp,52a20a8095bc57792aaeae792acb03e95fe8688a,HaileyB0311,User,HaileyB0311,2019-06-12T12:41:17Z,saving minor changes,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/52a20a8095bc57792aaeae792acb03e95fe8688a
+urcpp,8510576eb6db00b4ebab48729d38572d1dfbfd08,wgs1862019,User,wgs1862019,2019-06-11T21:47:11Z,adding changes for now for editing - will be working more,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8510576eb6db00b4ebab48729d38572d1dfbfd08
+urcpp,b2a006650f49117eb3b9fb490700839c732ba6c3,HaileyB0311,User,HaileyB0311,2019-06-11T21:10:59Z,Got a working username dropdown that now has better formatting and checks the current user,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b2a006650f49117eb3b9fb490700839c732ba6c3
+urcpp,ccb7d0393506b66bcc6f5aeef183fdb199a98f5b,wgs1862019,User,wgs1862019,2019-06-11T17:23:20Z,buttons have pushed up in the blue background in different pages.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ccb7d0393506b66bcc6f5aeef183fdb199a98f5b
+urcpp,4d55a0318a28173c228eb96aa249a5f0a3a3551f,wgs1862019,User,wgs1862019,2019-06-11T15:34:28Z,fixing models.py which has wrong host,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4d55a0318a28173c228eb96aa249a5f0a3a3551f
+urcpp,fec29562b42945b2a869a0b7b2bd35161b50c7d9,wgs1862019,User,wgs1862019,2019-06-11T14:02:10Z,Merge branch '167' into 104,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fec29562b42945b2a869a0b7b2bd35161b50c7d9
+urcpp,778b33cc92fc9f8dc0c13d21d367b4fac82f9aa4,sheggen,User,sheggen,2019-06-11T14:01:33Z,Merge branch 'development' into 134,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/778b33cc92fc9f8dc0c13d21d367b4fac82f9aa4
+urcpp,9f1ab8a56a1193bba7c89db6475bb1a1eb1bdbe3,wgs1862019,User,wgs1862019,2019-06-11T13:55:28Z,finalized the footer issue with buttons.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9f1ab8a56a1193bba7c89db6475bb1a1eb1bdbe3
+urcpp,4aed9bafe8eb8711b2dc5e07f3f9f63d2b6fbe4e,memo330179,User,sheggen,2019-06-11T13:09:15Z,"Merged in use-containers (pull request #63)
+
+Use containers for development",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4aed9bafe8eb8711b2dc5e07f3f9f63d2b6fbe4e
+urcpp,3a33d45651e8802eba64128d68651f903d41a05d,sheggen,User,sheggen,2019-06-11T13:08:40Z,Fixing typos in README,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3a33d45651e8802eba64128d68651f903d41a05d
+urcpp,9ed6ac8cec74196eb22d648ac74a206073884870,sheggen,User,sheggen,2019-06-11T13:07:21Z,Updating README for containers,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9ed6ac8cec74196eb22d648ac74a206073884870
+urcpp,79b63bde9074787921131fa8cb150fddfcf96585,sheggen,User,sheggen,2019-06-11T13:03:25Z,reverting a few changes so things work on 8080,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/79b63bde9074787921131fa8cb150fddfcf96585
+urcpp,6ffbfb3ea2001c206fb990ed8a2b8bef9ac62669,sheggen,User,sheggen,2019-06-11T12:57:56Z,Merge branch 'use-containers' of https://bitbucket.org/laborstudents/urcpp-flask into use-containers,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6ffbfb3ea2001c206fb990ed8a2b8bef9ac62669
+urcpp,370a2acfa8d18ff66ab58429e6591bf3ee14f8f5,sheggen,User,sheggen,2019-06-11T12:57:27Z,Changing ports for mysql,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/370a2acfa8d18ff66ab58429e6591bf3ee14f8f5
+urcpp,710797136db435a30eae95ef29f826bfe4a0262b,HaileyB0311,User,HaileyB0311,2019-06-11T12:31:12Z,saving progress,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/710797136db435a30eae95ef29f826bfe4a0262b
+urcpp,af4bfed908e4921ca1ae51023ff6fd7b78abcf69,wgs1862019,User,wgs1862019,2019-06-10T21:39:30Z, the footer should be fixed now,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/af4bfed908e4921ca1ae51023ff6fd7b78abcf69
+urcpp,e42abf9c03fffb92bfc0f1c47b1f4c9f214bae5a,HaileyB0311,User,HaileyB0311,2019-06-10T21:23:10Z,Got the dropdown menu working for the username,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e42abf9c03fffb92bfc0f1c47b1f4c9f214bae5a
+urcpp,3dc0004bc8432751543cfd8d4df2810099a87827,sheggen,User,sheggen,2019-06-10T19:26:44Z,Fixed indenting in done.js for that one function that's acting weird,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3dc0004bc8432751543cfd8d4df2810099a87827
+urcpp,5bd22a4559cde73839438c32b6f0fa5b1ac79dbd,sheggen,User,sheggen,2019-06-10T19:05:15Z,"Updating docker files to work on port 80, which is required for CS servers. Can't have two web services running though",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5bd22a4559cde73839438c32b6f0fa5b1ac79dbd
+urcpp,bcf3ba4ec6bbc212d7bba87988287f4ca4db1408,wgs1862019,User,wgs1862019,2019-06-10T17:26:08Z,changes are mades to see if the footer looks the same in Kat's laptop.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bcf3ba4ec6bbc212d7bba87988287f4ca4db1408
+urcpp,ba07ff6df5b46c23c224a316b0f1b72f64a823d7,wgs1862019,User,wgs1862019,2019-06-10T17:09:42Z,changed the CV to Curriculum vitae and took put the final report button out.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ba07ff6df5b46c23c224a316b0f1b72f64a823d7
+urcpp,1f66f87d46ecc3af39354ed10d13995cc005772c,wgs1862019,User,wgs1862019,2019-06-10T15:20:17Z, updated the guidelines for abstract submission.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1f66f87d46ecc3af39354ed10d13995cc005772c
+urcpp,e34d7a6dbb695351d23794ec7e8a78fc394f815b,wgs1862019,User,wgs1862019,2019-06-10T12:49:49Z,Merge branch 'development' into 104,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e34d7a6dbb695351d23794ec7e8a78fc394f815b
+urcpp,7e93266bfd9cd650ee93a5d14c132d9b3837b7ff,memo330179,User,memo330179,2019-06-10T03:13:50Z,add docker files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7e93266bfd9cd650ee93a5d14c132d9b3837b7ff
+urcpp,1a41844f2e1a2e74fc4db285a89139a48e33ecd4,memo330179,User,memo330179,2019-06-10T01:07:16Z,user containers,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1a41844f2e1a2e74fc4db285a89139a48e33ecd4
+urcpp,379983d6d1bfa5eebb07d148d715cc8a07b249ae,HaileyB0311,User,HaileyB0311,2019-06-07T19:28:11Z,"saving progress, created new page and changed collabID to collaborations",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/379983d6d1bfa5eebb07d148d715cc8a07b249ae
+urcpp,ea45ae8b5b5a2921bc7eb3e06baca32660715a10,wgs1862019,User,wgs1862019,2019-06-07T16:11:47Z, added a new link to the footer and will work with another pull request.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ea45ae8b5b5a2921bc7eb3e06baca32660715a10
+urcpp,c40e1bade07143151837ae1002a8f9a940da1bbc,wgs1862019,User,wgs1862019,2019-06-07T14:20:51Z,finished the contributors page with all the people who have worked on it.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c40e1bade07143151837ae1002a8f9a940da1bbc
+urcpp,93f5c8989d3466b116e2e0c0dd21f83373e413d1,wgs1862019,User,wgs1862019,2019-06-07T13:44:39Z,Merge branch 'master' of https://bitbucket.org/laborstudents/urcpp-flask into 104,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/93f5c8989d3466b116e2e0c0dd21f83373e413d1
+urcpp,aaf460e89c4a697dae85ffb388d5153ea55ef4e7,wgs1862019,User,wgs1862019,2019-06-06T21:33:46Z,fixed the route commiting changes,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/aaf460e89c4a697dae85ffb388d5153ea55ef4e7
+urcpp,6ec1f297a8176ff359f2d3791cf24fa0b66b201c,wgs1862019,User,wgs1862019,2019-06-06T21:27:43Z,commiting for now to save changes. contributors is added.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6ec1f297a8176ff359f2d3791cf24fa0b66b201c
+urcpp,9be0e5c08b1775afc43a2fcb8600180429f778f5,sheggen,User,sheggen,2019-06-06T19:56:57Z,"Cleaning up UI, plus various bug fixes",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9be0e5c08b1775afc43a2fcb8600180429f778f5
+urcpp,05008aa3db77e51ccb70c70e3e953499a42d55c1,HaileyB0311,User,HaileyB0311,2019-06-06T19:35:32Z,"saving progress, working on creating new files and maybe making collabID its own page",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/05008aa3db77e51ccb70c70e3e953499a42d55c1
+urcpp,bdb0a68fe0ed6778448360f52a3dbbdc03ce3db4,wgs1862019,User,wgs1862019,2019-06-06T18:42:27Z,changed the email in the footer to systems support email,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bdb0a68fe0ed6778448360f52a3dbbdc03ce3db4
+urcpp,214f531af728a6dfc440363fbd0cc84742872d43,wgs1862019,User,wgs1862019,2019-06-06T18:28:44Z,list of contact people with their emails are added to the page when all submissions are closed.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/214f531af728a6dfc440363fbd0cc84742872d43
+urcpp,b40b54d69dafd2c6e06a9379b6dfe8dbc69c9565,HaileyB0311,User,HaileyB0311,2019-06-06T17:50:22Z,"first, last, and user names are now required, also fixed formatting",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b40b54d69dafd2c6e06a9379b6dfe8dbc69c9565
+urcpp,6c75b5700e472612d0f61c8ab07f050c825811cc,HaileyB0311,User,HaileyB0311,2019-06-06T16:42:26Z,collabID breadcrumb now redirects to /people,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6c75b5700e472612d0f61c8ab07f050c825811cc
+urcpp,eaa612c0d79643de38c4515b8ba721546933a468,wgs1862019,User,wgs1862019,2019-06-06T15:40:25Z,finished updating the parameters table with new columns and fields.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/eaa612c0d79643de38c4515b8ba721546933a468
+urcpp,78040a10fce6c4be10fd35c432736cbd32b9ea19,HaileyB0311,User,HaileyB0311,2019-06-06T15:37:40Z,"Added collabID, removed /history, edited breadcrumbs on all pages, fixed back button on irbyn",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/78040a10fce6c4be10fd35c432736cbd32b9ea19
+urcpp,2e3d9beed4761292d79999ffa9400a2d07c2323d,sheggen,User,sheggen,2019-06-06T14:26:18Z,Fixes persistent issue with cfg,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2e3d9beed4761292d79999ffa9400a2d07c2323d
+urcpp,5e5fedbd2f0e9ec9d9be74467adcb03ea0d1d30a,wgs1862019,User,wgs1862019,2019-06-06T13:06:58Z,fixing merge conflicts,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5e5fedbd2f0e9ec9d9be74467adcb03ea0d1d30a
+urcpp,a663a9c6ce1edf81e19329d25831adaf5e141e29,HaileyB0311,User,HaileyB0311,2019-06-06T13:04:51Z,saving progress,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a663a9c6ce1edf81e19329d25831adaf5e141e29
+urcpp,5cbb882f85b54fce1f7b7872aa83569d30f46bdf,wgs1862019,User,wgs1862019,2019-06-06T13:04:18Z,added the new database,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5cbb882f85b54fce1f7b7872aa83569d30f46bdf
+urcpp,e20cec9bd53175ec4185e12ca3a2ac29b6b3c3c0,wgs1862019,User,wgs1862019,2019-06-05T21:05:20Z,fixing merge conflict,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e20cec9bd53175ec4185e12ca3a2ac29b6b3c3c0
+urcpp,f77253dafa09b4c6146cd17fde49bd7fab3a8662,HaileyB0311,User,HaileyB0311,2019-06-05T21:05:07Z,"changed tab names for /people, /collaborators, and /irbyn",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f77253dafa09b4c6146cd17fde49bd7fab3a8662
+urcpp,5e33adc75db838176ac24d18c278f7afc7fb7716,wgs1862019,User,wgs1862019,2019-06-05T20:57:01Z,updating the parameters page and past parameters table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5e33adc75db838176ac24d18c278f7afc7fb7716
+urcpp,a9a398d5c86d32257c04779731a44dfb6bbe5166,HaileyB0311,User,HaileyB0311,2019-06-05T19:37:15Z,fixed issue that caused /people to show in url instead of /collaborators,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a9a398d5c86d32257c04779731a44dfb6bbe5166
+urcpp,c05f8d2a48edbe98698e72e0ab28979322aca77c,wgs1862019,User,wgs1862019,2019-06-05T19:25:05Z,changing the database because of the issues with update_schema,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c05f8d2a48edbe98698e72e0ab28979322aca77c
+urcpp,3081d565b30f6444f0f54c5b6953a861baec8af7,HaileyB0311,User,HaileyB0311,2019-06-05T19:11:52Z,Changed the layout of collab page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3081d565b30f6444f0f54c5b6953a861baec8af7
+urcpp,99c779765753cec191d4965718e2bbe700834975,wgs1862019,User,wgs1862019,2019-06-05T14:30:32Z,deleting redundant css files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/99c779765753cec191d4965718e2bbe700834975
+urcpp,163fa4ce4a4e974661f4412bb14cf16911515f5d,wgs1862019,User,wgs1862019,2019-06-05T14:28:36Z,deleting redundant css files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/163fa4ce4a4e974661f4412bb14cf16911515f5d
+urcpp,40ea3af9f1087e22cfac93de80135f820284b3f5,wgs1862019,User,wgs1862019,2019-06-04T20:32:19Z,Merge branch 'development' into 167,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/40ea3af9f1087e22cfac93de80135f820284b3f5
+urcpp,53435b0e2cd5f260953773f7c8574d272f8ba450,wgs1862019,User,wgs1862019,2019-06-04T20:30:39Z,fixed the footer in /budget and now have footer in all the pages.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/53435b0e2cd5f260953773f7c8574d272f8ba450
+urcpp,e24e9d9976db07132eb6278f22da60451f71bd92,wgs1862019,User,wgs1862019,2019-06-04T18:01:48Z,Merge branch 'development' into 134,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e24e9d9976db07132eb6278f22da60451f71bd92
+urcpp,43b520db00f0d0939d6ac7c86a8f6149fe70276e,Jamaliela,User,wgs1862019,2019-06-04T15:46:02Z,"Merged in 168 (pull request #61)
+
+a link for the guidelines of human subjects in reesearch",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/43b520db00f0d0939d6ac7c86a8f6149fe70276e
+urcpp,45594b8875936c20c42188c8e7f6e1ebdaa89286,wgs1862019,User,wgs1862019,2019-06-04T15:38:09Z,added a link for the guidelines for human subjects in IRB submission,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/45594b8875936c20c42188c8e7f6e1ebdaa89286
+urcpp,5ab33cef273eddfee59db1448d686fc976b0428d,wgs1862019,User,wgs1862019,2019-06-04T15:04:11Z,updated work for footer issue,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5ab33cef273eddfee59db1448d686fc976b0428d
+urcpp,c706925078aba23249ac1c49a9e948baa10abbc0,wgs1862019,User,wgs1862019,2019-06-03T21:09:26Z,committing changes for the footer in all the pages of the application process.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c706925078aba23249ac1c49a9e948baa10abbc0
+urcpp,89d8ed8574da185535a7753095231fa9e550a6c4,Jamaliela,User,wgs1862019,2019-06-03T19:42:54Z,"Merged in 166 (pull request #59)
+
+Changes in Application based on Audits",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/89d8ed8574da185535a7753095231fa9e550a6c4
+urcpp,9ab7c12075ca99d8a60e106233d61c067605f2cf,wgs1862019,User,wgs1862019,2019-06-03T17:17:54Z,changes in wording throughout application process,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9ab7c12075ca99d8a60e106233d61c067605f2cf
+urcpp,1fe7ce07fa4aac82c5295abe6e4d648be5e63db0,Jamaliela,User,wgs1862019,2019-06-03T15:42:19Z,"Merged in 163 (pull request #58)
+
+Project Flow Update",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1fe7ce07fa4aac82c5295abe6e4d648be5e63db0
+urcpp,4c938d572c11a8da9c0df0628234e95e8f6bb7f7,wgs1862019,User,wgs1862019,2019-06-03T14:33:52Z,changed order of project submission requirements to better match flow of application,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4c938d572c11a8da9c0df0628234e95e8f6bb7f7
+urcpp,2cf1c82cf3f1deb429496326fd0db7ae8ea5823f,wgs1862019,User,wgs1862019,2019-06-03T14:28:48Z,updateing to development,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2cf1c82cf3f1deb429496326fd0db7ae8ea5823f
+urcpp,239dcd3488390472dc68ac3e1c511379c222fa96,Jamaliela,User,wgs1862019,2019-06-03T14:23:35Z,"Merged in 155 (pull request #57)
+
+Removing borders from tables",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/239dcd3488390472dc68ac3e1c511379c222fa96
+urcpp,0af45ea40ea2dd80bcc0bc03cc0d96f247ce6791,wgs1862019,User,wgs1862019,2019-06-03T14:05:50Z,removed borders from table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0af45ea40ea2dd80bcc0bc03cc0d96f247ce6791
+urcpp,db6a637ca07fd876a778eec35443b410f1f09a84,wgs1862019,User,wgs1862019,2019-06-03T14:01:14Z,removed borders from table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/db6a637ca07fd876a778eec35443b410f1f09a84
+urcpp,dada1beb4060d73a5e8a14bfc91434fbb0943624,wgs1862019,User,wgs1862019,2019-06-03T13:53:13Z,removed borders from table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/dada1beb4060d73a5e8a14bfc91434fbb0943624
+urcpp,86c26532d813337eb43c92118776bd11826ce440,wgs1862019,User,wgs1862019,2019-06-03T13:47:25Z, removed border from table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/86c26532d813337eb43c92118776bd11826ce440
+urcpp,6fcf9cfed115c0200e56a4dcbf92511f85939590,wgs1862019,User,wgs1862019,2019-06-03T13:42:09Z,removed borders,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6fcf9cfed115c0200e56a4dcbf92511f85939590
+urcpp,e4f26cdb2ef099d9214d7bb77ac6a8301882bc26,wgs1862019,User,wgs1862019,2019-06-03T13:38:28Z,removed borders,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e4f26cdb2ef099d9214d7bb77ac6a8301882bc26
+urcpp,366ed5ceaad60bf4d4e2ad838b723e8665c99398,wgs1862019,User,wgs1862019,2019-06-03T13:32:02Z,removed the borders for all labor in committee,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/366ed5ceaad60bf4d4e2ad838b723e8665c99398
+urcpp,91c53e90dbf0ee361022e616fa8e87c70401e575,Jamaliela,User,wgs1862019,2019-06-03T13:23:11Z,"Merged in 154 (pull request #52)
+
+Modal in /Budget
+
+Approved-by: Katelyn Adams <adamska@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/91c53e90dbf0ee361022e616fa8e87c70401e575
+urcpp,05583acaef82af5986858e9f6de9af8e91bff175,Jamaliela,User,wgs1862019,2019-06-03T13:21:23Z,"Merged in 151 (pull request #55)
+
+Disabling Upload Buttons",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/05583acaef82af5986858e9f6de9af8e91bff175
+urcpp,6015d38f524ec07ecfdc826b3d1bd053c6b4a516,HaileyB0311,User,wgs1862019,2019-06-03T13:19:22Z,"Merged in 162 (pull request #56)
+
+Issues #157 and #162",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6015d38f524ec07ecfdc826b3d1bd053c6b4a516
+urcpp,93503208fe1b82411a61e4d64129bbb452a638b2,HaileyB0311,User,wgs1862019,2019-06-03T13:13:56Z,"Merged in 157 (pull request #54)
+
+Remove redundancy on /people",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/93503208fe1b82411a61e4d64129bbb452a638b2
+urcpp,df154f66d436a06606ba3bb74234b27ee3aca285,HaileyB0311,User,HaileyB0311,2019-05-31T18:12:10Z,added home breadcrumb to /chair and /committee,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/df154f66d436a06606ba3bb74234b27ee3aca285
+urcpp,7565256b7b70458e90ee10c540823db239d535b2,wgs1862019,User,wgs1862019,2019-05-31T17:27:39Z,Upload CV button is now disabled until a project has started.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7565256b7b70458e90ee10c540823db239d535b2
+urcpp,ed5b6c237c9f88ebe1698d79c6a2ee372ecb2e3d,HaileyB0311,User,HaileyB0311,2019-05-31T14:52:25Z,removed how many students question to resolve issue 157,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ed5b6c237c9f88ebe1698d79c6a2ee372ecb2e3d
+urcpp,54df23d4da89ccf8c85eca2aa68811b18464d908,Jamaliela,User,wgs1862019,2019-05-31T12:57:34Z,"Merged in 153 (pull request #53)
+
+Duration dropdown",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/54df23d4da89ccf8c85eca2aa68811b18464d908
+urcpp,0a58889dff9194d225a45522b50d52c4f6295a6a,wgs1862019,User,wgs1862019,2019-05-30T20:54:38Z, Duration dropdown in /create is now clear,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0a58889dff9194d225a45522b50d52c4f6295a6a
+urcpp,b563b8072d542fe19ab6232c735b740c1ec7b3c6,wgs1862019,User,wgs1862019,2019-05-30T19:31:07Z,fixed modal in /budget,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b563b8072d542fe19ab6232c735b740c1ec7b3c6
+urcpp,16b5a7744d0988d47143878eb45d08ad894d8698,wgs1862019,User,wgs1862019,2019-05-30T13:30:30Z,las commits for changes in different stages through the application process.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/16b5a7744d0988d47143878eb45d08ad894d8698
+urcpp,9968307091e5054c9939cdec0a99c0b085478903,wgs1862019,User,wgs1862019,2019-05-29T20:09:17Z,progress with the stages - a new page when all submissions are closed and reject decision is just like accept decision visually.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9968307091e5054c9939cdec0a99c0b085478903
+urcpp,9e4a054be1df16793bb8249c8005d455029ff946,wgs1862019,User,wgs1862019,2019-05-29T18:21:14Z,Merge branch 'development' of https://bitbucket.org/laborstudents/urcpp-flask/src/development into 134,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9e4a054be1df16793bb8249c8005d455029ff946
+urcpp,7896f61add0824dd31a16bcda47e89f23ff75aa6,wgs1862019,User,wgs1862019,2019-05-28T20:54:26Z,making progress in details for the different stages of the application.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7896f61add0824dd31a16bcda47e89f23ff75aa6
+urcpp,644ef00c0bad4ab4da7cbf3bcbe375a0d9d8069b,wgs1862019,User,wgs1862019,2019-05-28T19:11:45Z, dates are added to the dashboard from current parameters.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/644ef00c0bad4ab4da7cbf3bcbe375a0d9d8069b
+urcpp,217f10515acbcecd0de56130fdfac06ed7cf09f9,wgs1862019,User,wgs1862019,2019-05-28T17:28:54Z, updated parameters table and added different rows,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/217f10515acbcecd0de56130fdfac06ed7cf09f9
+urcpp,c7867e5ba784ecbb25499441bf0cc9c29a1627f2,wgs1862019,User,wgs1862019,2019-05-28T15:44:03Z,fixing merge conflicts,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c7867e5ba784ecbb25499441bf0cc9c29a1627f2
+urcpp,639a6135d42c5963cc217ae06a77713e23456fa5,wgs1862019,User,wgs1862019,2019-05-28T15:39:43Z,saving progress on different stages.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/639a6135d42c5963cc217ae06a77713e23456fa5
+urcpp,bcbc691b4c0d346989492eb19aacc720ded7f761,wgs1862019,User,wgs1862019,2019-05-28T14:11:19Z,a submission page for abstract is available in the main page.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bcbc691b4c0d346989492eb19aacc720ded7f761
+urcpp,12e7c99de4065eace9dc5b5023f414a82257f652,Jamaliela,User,sheggen,2019-05-25T03:36:51Z,"Merged in 124 (pull request #45)
+
+Adding Back Buttons
+
+Approved-by: Katelyn Adams <adamska@berea.edu>
+Approved-by: Evan Johnson <johnsone@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/12e7c99de4065eace9dc5b5023f414a82257f652
+urcpp,ad702a24cfa2e02fa5297737a0d1c210e4729737,sheggen,User,sheggen,2019-05-25T03:36:14Z,added back button to collaborators page as well,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ad702a24cfa2e02fa5297737a0d1c210e4729737
+urcpp,7b94f000e34933f8cbe855843c553816decf4dce,sheggen,User,sheggen,2019-05-25T03:23:41Z,working on merge conflict on budget.html page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7b94f000e34933f8cbe855843c553816decf4dce
+urcpp,d34f8748670882b105886854d7c16c0f1c106e27,Jamaliela,User,sheggen,2019-05-25T03:20:34Z,"Merged in 114 (pull request #48)
+
+Awardletter Year Filter
+
+Approved-by: Katelyn Adams <adamska@berea.edu>
+Approved-by: Evan Johnson <johnsone@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d34f8748670882b105886854d7c16c0f1c106e27
+urcpp,6423a380fa522df30e0bc567f3b010ea67c43ef1,sheggen,User,sheggen,2019-05-25T03:19:08Z,removing testing file,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6423a380fa522df30e0bc567f3b010ea67c43ef1
+urcpp,1940d5271fefb775314dc4b06cf097215f981745,sheggen,User,sheggen,2019-05-25T03:18:22Z,fixing merge conflicts with same ole files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1940d5271fefb775314dc4b06cf097215f981745
+urcpp,cd124092a797a98352ace3beaf4ee9524adba9c9,sheggen,User,sheggen,2019-05-25T03:15:47Z,fixing persistent issue with everything.py,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cd124092a797a98352ace3beaf4ee9524adba9c9
+urcpp,a75a332b73f1c7a1b342b79717a888eeff17b60d,wgs1862019,User,sheggen,2019-05-25T03:10:47Z,"Merged in 117 (pull request #41)
+
+Edit Parameters
+
+Approved-by: Evan Johnson <johnsone@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a75a332b73f1c7a1b342b79717a888eeff17b60d
+urcpp,b2677b67f48cc2bd86f9c6b684b1db7dded6e5ff,sheggen,User,sheggen,2019-05-25T03:10:20Z,fixing same merge conflict as always,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b2677b67f48cc2bd86f9c6b684b1db7dded6e5ff
+urcpp,c011f6e7b0299ec5a22873e5c41deac035d17c67,sheggen,User,sheggen,2019-05-25T03:09:15Z,removed console log message,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c011f6e7b0299ec5a22873e5c41deac035d17c67
+urcpp,970cf5c6550aa1849e7cd3f8213fa07319f916f0,sheggen,User,sheggen,2019-05-25T03:07:39Z,modified number format on money; fixed everything.py again,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/970cf5c6550aa1849e7cd3f8213fa07319f916f0
+urcpp,c00c3e03b7b97b9be34b36bda0a2a9ef451b441c,sheggen,User,sheggen,2019-05-25T02:44:04Z,Merge branch 'development' into 117,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c00c3e03b7b97b9be34b36bda0a2a9ef451b441c
+urcpp,732a517ae585c21b53cf701828406ed542e0f785,HaileyB0311,User,sheggen,2019-05-25T02:42:55Z,"Merged in 126 (pull request #42)
+
+The 1,2,3 issue on /manageCommittee has been resolved!
+
+Approved-by: Katelyn Adams <adamska@berea.edu>
+Approved-by: Evan Johnson <johnsone@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/732a517ae585c21b53cf701828406ed542e0f785
+urcpp,2f896236b0672eebfc7d3f76b26fdf03d3343a39,sheggen,User,sheggen,2019-05-25T02:42:26Z,fixing conflict that wasn't conflicting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2f896236b0672eebfc7d3f76b26fdf03d3343a39
+urcpp,75558c71074f875aacfc54f5f46def1e6dd41907,sheggen,User,sheggen,2019-05-25T02:39:58Z,Merge branch 'development' into 126,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/75558c71074f875aacfc54f5f46def1e6dd41907
+urcpp,58e5f392414120a913205116bb9a36f4b135d438,sheggen,User,sheggen,2019-05-25T02:39:39Z,fixing persistent issue with database connections and cfg files in everything.py and config.py,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/58e5f392414120a913205116bb9a36f4b135d438
+urcpp,57013a06a2719db929f2aed5a524769a55e59672,HaileyB0311,User,sheggen,2019-05-25T02:32:18Z,"Merged in 143 (pull request #47)
+
+143 & 144
+
+Approved-by: Evan Johnson <johnsone@berea.edu>
+Approved-by: Katelyn Adams <adamska@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/57013a06a2719db929f2aed5a524769a55e59672
+urcpp,cdf44b36050087c780b16276ab8878b2dce1d8d2,sheggen,User,sheggen,2019-05-25T02:28:19Z,Merge branch 'development' into 143,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cdf44b36050087c780b16276ab8878b2dce1d8d2
+urcpp,4beb64d33558ac9ff9b2563b074f9afb73a26320,wgs1862019,User,wgs1862019,2019-05-24T20:22:37Z,somechanges for the new status. in the dashboard and set parameters page.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4beb64d33558ac9ff9b2563b074f9afb73a26320
+urcpp,de174091d0930a20d6505ba419cd7f9819f9ecce,sheggen,User,sheggen,2019-05-24T19:12:36Z,updating and minor edits; getting rid of old badness print statements,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/de174091d0930a20d6505ba419cd7f9819f9ecce
+urcpp,ffcd471abff08fc9544a262b89616120b9b74239,sheggen,User,sheggen,2019-05-24T16:56:06Z,Merge branch 'development' into 95,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ffcd471abff08fc9544a262b89616120b9b74239
+urcpp,a014b54fafcc6917cc0d01911fc5b3a84b863707,sheggen,User,sheggen,2019-05-24T16:55:06Z,committing all files for some reason,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a014b54fafcc6917cc0d01911fc5b3a84b863707
+urcpp,5b82b3a2da99b2980d430d2077d75fb079bb56f0,wgs1862019,User,wgs1862019,2019-05-23T21:35:04Z, adding the fields for new parameters.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5b82b3a2da99b2980d430d2077d75fb079bb56f0
+urcpp,595f0c6d9841a3aa661a68f58ecc223a0f8a976a,wgs1862019,User,wgs1862019,2019-05-23T20:24:40Z, withdraw now works in FireFox,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/595f0c6d9841a3aa661a68f58ecc223a0f8a976a
+urcpp,5fed8f6de800bcb7722174951073d4088dca5e0a,wgs1862019,User,wgs1862019,2019-05-23T17:34:36Z, noe faculty and collaborator shows in the review page before submission.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5fed8f6de800bcb7722174951073d4088dca5e0a
+urcpp,f548281b5b0ee88fbd06aa05b2ff6032600c0215,wgs1862019,User,wgs1862019,2019-05-23T17:26:40Z,in the review page after submission the name of the faculty and collaborator shows up now.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f548281b5b0ee88fbd06aa05b2ff6032600c0215
+urcpp,0059bf1411d6add6b25808cfb95491af52caabc3,johnsonwe,User,johnsonwe,2019-05-23T17:21:19Z,inserted padding between glyphicons,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0059bf1411d6add6b25808cfb95491af52caabc3
+urcpp,0743432bd97bdfac74cc4f7075ae2ba4e1729595,wgs1862019,User,wgs1862019,2019-05-23T13:29:39Z,Added header for actions column,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0743432bd97bdfac74cc4f7075ae2ba4e1729595
+urcpp,2ab61469441448262fdbd58a0adc8f6381071611,wgs1862019,User,wgs1862019,2019-05-22T20:48:50Z,fixing PRs,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2ab61469441448262fdbd58a0adc8f6381071611
+urcpp,8af7fda0a6da73f18262cbd93a0bca6e02c51767,Jamaliela,User,Jamaliela,2019-05-22T20:33:32Z,Merged development into 114,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8af7fda0a6da73f18262cbd93a0bca6e02c51767
+urcpp,d4cb04799160f3e3c01ad48e4ca7942756d5e4b3,wgs1862019,User,wgs1862019,2019-05-22T20:31:14Z,awardletters are now filtered to the current year.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d4cb04799160f3e3c01ad48e4ca7942756d5e4b3
+urcpp,838bc1c683a52fb82c8dc9233954ee1a922f6831,Jamaliela,User,wgs1862019,2019-05-22T17:47:04Z,"Merged in 145 (pull request #46)
+
+Tooltip",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/838bc1c683a52fb82c8dc9233954ee1a922f6831
+urcpp,243f9ecfb5ed18a01fa049e8908db187285f0384,HaileyB0311,User,HaileyB0311,2019-05-22T17:01:56Z,cleaned up the code a bit,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/243f9ecfb5ed18a01fa049e8908db187285f0384
+urcpp,12af67bdacb35aed45339bad9f3f62d692f82f62,HaileyB0311,User,HaileyB0311,2019-05-22T16:42:49Z,modal on /budget works as expected,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/12af67bdacb35aed45339bad9f3f62d692f82f62
+urcpp,39c3f06b165e0523567111ebc17b54404afe6e71,wgs1862019,User,wgs1862019,2019-05-21T20:48:11Z,the tooltip now is hoverable in /create.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/39c3f06b165e0523567111ebc17b54404afe6e71
+urcpp,daa562dab386cafdca7668f2b2078160371f8c3d,wgs1862019,User,wgs1862019,2019-05-21T20:25:13Z,Custom Fields is now URCPP fields for a better communication with the user.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/daa562dab386cafdca7668f2b2078160371f8c3d
+urcpp,69650e64788586e212c62d32e2ae25c33ddf2974,wgs1862019,User,wgs1862019,2019-05-21T20:11:05Z,never got committed I assume.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/69650e64788586e212c62d32e2ae25c33ddf2974
+urcpp,7e79d141f70d8a9eeac825ef9bb4123f8ff2e489,HaileyB0311,User,HaileyB0311,2019-05-21T20:07:48Z,saving progress so far,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7e79d141f70d8a9eeac825ef9bb4123f8ff2e489
+urcpp,54b5254057828a60ab1ec1718d5e0d8305b7b663,wgs1862019,User,wgs1862019,2019-05-21T19:55:33Z,the user input will be moved to settings.py as strings.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/54b5254057828a60ab1ec1718d5e0d8305b7b663
+urcpp,d2bc5793cd6b4f2a6c1e26300549535c10076346,wgs1862019,User,wgs1862019,2019-05-21T17:43:02Z, added a back button for different pages through the application process for user.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d2bc5793cd6b4f2a6c1e26300549535c10076346
+urcpp,aebacce9c52b40a64223c63c3288199b86eeca97,HaileyB0311,User,HaileyB0311,2019-05-21T14:59:21Z,got rid of line on blank voting summary,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/aebacce9c52b40a64223c63c3288199b86eeca97
+urcpp,6e43578598a1276d47404b868cec9022d463b28f,wgs1862019,User,wgs1862019,2019-05-21T14:47:21Z,resolving a merge conflict,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6e43578598a1276d47404b868cec9022d463b28f
+urcpp,e6c358781273f17e57198d6a66c25192dccce305,wgs1862019,User,wgs1862019,2019-05-21T14:27:38Z, the table for awardletters section now looks goos has borders and is centered.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e6c358781273f17e57198d6a66c25192dccce305
+urcpp,b4499f601c5019817d25478a9c85db2f90f347eb,wgs1862019,User,wgs1862019,2019-05-21T13:57:47Z,any user can interact with the server and enter their own information,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b4499f601c5019817d25478a9c85db2f90f347eb
+urcpp,bda285bf6e5f1dd15cafb67f523242cdd6616367,HaileyB0311,User,HaileyB0311,2019-05-20T17:25:37Z,Merged development into 126,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bda285bf6e5f1dd15cafb67f523242cdd6616367
+urcpp,d55c3b73ae771da68f4a8b656071b08385c8ea6b,wgs1862019,User,wgs1862019,2019-05-20T17:25:14Z,RM comment,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d55c3b73ae771da68f4a8b656071b08385c8ea6b
+urcpp,e3c5cc49fd69858de865b1dfdbf89d10cebf8a7c,wgs1862019,User,wgs1862019,2019-05-20T17:24:27Z,Taking out xomment,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e3c5cc49fd69858de865b1dfdbf89d10cebf8a7c
+urcpp,89cd045dccc980b43e9f5965e9cfdaf3923b411d,wgs1862019,User,wgs1862019,2019-05-20T17:23:29Z,Taking comment out,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/89cd045dccc980b43e9f5965e9cfdaf3923b411d
+urcpp,87ccb1d2f7352efd77f21f5078a7ec9c4589dcf2,wgs1862019,User,wgs1862019,2019-05-20T17:19:47Z,styling,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/87ccb1d2f7352efd77f21f5078a7ec9c4589dcf2
+urcpp,d1d2f0c12f6c5865f05efaeb9b61fb41f9a7e7fe,wgs1862019,User,wgs1862019,2019-05-20T15:56:41Z,Styling for readability,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d1d2f0c12f6c5865f05efaeb9b61fb41f9a7e7fe
+urcpp,38f80e9be312fddef67b486c37a2318822143631,wgs1862019,User,wgs1862019,2019-05-20T15:45:46Z,Fixing cancelled modal,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/38f80e9be312fddef67b486c37a2318822143631
+urcpp,71fa03bff89ea3c723e67e4e936e992789290680,wgs1862019,User,wgs1862019,2019-05-20T15:16:27Z,Added flash for saving,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/71fa03bff89ea3c723e67e4e936e992789290680
+urcpp,b93cb24b303f9fc88b9e9b19e4f4ad3af956333e,wgs1862019,User,wgs1862019,2019-05-20T15:01:27Z,"Different rows opoulating correctly, also saving correctly",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b93cb24b303f9fc88b9e9b19e4f4ad3af956333e
+urcpp,1bab8ed9b530a402f3fff6d5be9da232c94449db,wgs1862019,User,wgs1862019,2019-05-20T14:06:10Z,Changed colors and titles for clarity,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1bab8ed9b530a402f3fff6d5be9da232c94449db
+urcpp,c902f6d219b341ee56b0e9724dd3891d86d8a873,wgs1862019,User,wgs1862019,2019-05-20T13:40:12Z,Reformatted dates to save correctly,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c902f6d219b341ee56b0e9724dd3891d86d8a873
+urcpp,ec39ef2b34ac396cf566d88117d479960f0335f5,wgs1862019,User,wgs1862019,2019-05-17T21:19:33Z,working on the awardletter still need to make the interactive bash to write to settings.py,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ec39ef2b34ac396cf566d88117d479960f0335f5
+urcpp,055c79aa9c9f7adbc4112948a84a1b509108f5e1,wgs1862019,User,wgs1862019,2019-05-17T19:48:56Z,All values being transferred to above input boxes,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/055c79aa9c9f7adbc4112948a84a1b509108f5e1
+urcpp,79c49b0ca19b2c34503e6383c0bfebeee861208c,wgs1862019,User,wgs1862019,2019-05-17T19:44:58Z,Both dates showing up,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/79c49b0ca19b2c34503e6383c0bfebeee861208c
+urcpp,2f4c5f940ba457347b43a1f23a3d50470691c1f9,wgs1862019,User,wgs1862019,2019-05-17T19:20:04Z,Year showing up above,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2f4c5f940ba457347b43a1f23a3d50470691c1f9
+urcpp,e26a8b15b2e0a94afc3fedb3d57e144a40867327,wgs1862019,User,wgs1862019,2019-05-17T14:59:13Z,awardletter template is added and custome field for each change is also works.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e26a8b15b2e0a94afc3fedb3d57e144a40867327
+urcpp,2329c0e34b1574b670353874269f47ba8e9600d1,Jamaliela,User,wgs1862019,2019-05-17T14:28:43Z,"Merged in 135 (pull request #40)
+
+Flash Message for Submitting Application
+
+Looks good, Only thing wrong is the email template, which is being fixed right now by Ela",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2329c0e34b1574b670353874269f47ba8e9600d1
+urcpp,2440eaf95a831542694b8214cfc6ca2e9bba89f1,wgs1862019,User,wgs1862019,2019-05-17T14:00:41Z,Merge branch '122' into 135,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2440eaf95a831542694b8214cfc6ca2e9bba89f1
+urcpp,49750c3f9f65934c8dcf9a2795e0805109aec8a0,wgs1862019,User,wgs1862019,2019-05-17T14:00:35Z,Merge branch 'development' into 135,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/49750c3f9f65934c8dcf9a2795e0805109aec8a0
+urcpp,ae1e69ac6de4a98766d5c64b4e3b2ce4ebd7f2f2,wgs1862019,User,wgs1862019,2019-05-17T14:00:16Z,merge conflicts,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ae1e69ac6de4a98766d5c64b4e3b2ce4ebd7f2f2
+urcpp,b526aec851c5131d8cc3d1ed2217967cd2f3a293,wgs1862019,User,wgs1862019,2019-05-17T13:50:17Z,Merge branch 'development' into 122,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b526aec851c5131d8cc3d1ed2217967cd2f3a293
+urcpp,b46d1a5bebce506ccdba8d7a9d23e02e1befe131,wgs1862019,User,wgs1862019,2019-05-17T13:50:07Z,merge conflicts,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b46d1a5bebce506ccdba8d7a9d23e02e1befe131
+urcpp,9b6d932e690572ec8c4403ab41b7d3c403a80063,wgs1862019,User,wgs1862019,2019-05-17T13:37:51Z,words inside the dropdown menu in /committee/allProjects is seen better,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9b6d932e690572ec8c4403ab41b7d3c403a80063
+urcpp,29f509aec1cd0c5fbfd14c4d07efa29face3188c,wgs1862019,User,wgs1862019,2019-05-17T13:23:35Z,"Merged in 109 (pull request #38)
+
+File downloads now working
+
+Approved-by: Evan Johnson <johnsone@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/29f509aec1cd0c5fbfd14c4d07efa29face3188c
+urcpp,17b1992ce0a5231317fdbff435a7df261c7fdea6,wgs1862019,User,wgs1862019,2019-05-17T13:21:30Z,"Merged in iss120 (pull request #26)
+
+Iss120 (Input validation)
+
+Both Ela and I checked to make sure you could NOT check more than one checkbox on /history.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/17b1992ce0a5231317fdbff435a7df261c7fdea6
+urcpp,567980c193e2919c6b9a5c29dca3209716b54a31,wgs1862019,User,wgs1862019,2019-05-17T13:19:56Z,checking a pull request saving the changes.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/567980c193e2919c6b9a5c29dca3209716b54a31
+urcpp,703c4d498ffc2d4183626414d573444378062668,wgs1862019,User,wgs1862019,2019-05-16T21:22:26Z,"working on the award letter, Date and Name has been changed in the email template",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/703c4d498ffc2d4183626414d573444378062668
+urcpp,e26f4d8bc05f44148af61333b4e3963df03ebe1b,wgs1862019,User,wgs1862019,2019-05-16T20:45:27Z,"The 1,2,3 issue on /manageCommittee has been resolved!",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e26f4d8bc05f44148af61333b4e3963df03ebe1b
+urcpp,bd5e1e6afdde4761960e6c2cf0a0ab2cbb99aa52,wgs1862019,User,wgs1862019,2019-05-16T17:29:54Z,progress on 135,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bd5e1e6afdde4761960e6c2cf0a0ab2cbb99aa52
+urcpp,619a5e62559d303c12a52f2be72461654a9c918b,wgs1862019,User,wgs1862019,2019-05-16T15:40:23Z,submit button is now green for success with a flash message.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/619a5e62559d303c12a52f2be72461654a9c918b
+urcpp,1232bb59388ab39f636cdbd6dbbe9af184664c6d,wgs1862019,User,wgs1862019,2019-05-15T21:00:19Z,Done and Withdraw buttons are now aligned and looking nice,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1232bb59388ab39f636cdbd6dbbe9af184664c6d
+urcpp,8fc72b1a57775b745c30c9fc0bf5ef1469f59c96,wgs1862019,User,wgs1862019,2019-05-15T19:07:17Z,left from the last commit,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8fc72b1a57775b745c30c9fc0bf5ef1469f59c96
+urcpp,79f6b9a1c75bf59bdaa9fcf385338f8358534bdb,wgs1862019,User,wgs1862019,2019-05-15T19:05:35Z,styled tables and fixed anything realted to tables and the way they look,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/79f6b9a1c75bf59bdaa9fcf385338f8358534bdb
+urcpp,4a8c20c43349703efadc4e1eca5cd3b22f2d043c,wgs1862019,User,wgs1862019,2019-05-15T15:05:21Z,Project Summary section of Committee page has been organized.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4a8c20c43349703efadc4e1eca5cd3b22f2d043c
+urcpp,bdc929d9a80c6f6a43de021ac6f18273f8c1bd9f,wgs1862019,User,wgs1862019,2019-05-15T14:17:27Z,changed the table for the main page of committee page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bdc929d9a80c6f6a43de021ac6f18273f8c1bd9f
+urcpp,2222534429820b6fa1c385e5e76c8043f6be5db8,wgs1862019,User,wgs1862019,2019-05-15T19:37:45Z,Solving issue 109; file downlownads working on /review but NOT on /done,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2222534429820b6fa1c385e5e76c8043f6be5db8
+urcpp,51637a74bc5ee9643b7e54fa47d30fd0e2c13b64,wgs1862019,User,wgs1862019,2019-05-15T18:31:28Z,Warning modal for exceeding 300,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/51637a74bc5ee9643b7e54fa47d30fd0e2c13b64
+urcpp,321cda8da05cddd64198e9e457f8f3f7d430ed0e,wgs1862019,User,wgs1862019,2019-05-15T18:06:58Z,Updated placeholder language:,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/321cda8da05cddd64198e9e457f8f3f7d430ed0e
+urcpp,11395c18cf7f3de2090d1c05c3dfa4ad746c8cf7,wgs1862019,User,wgs1862019,2019-05-15T17:58:18Z,Merge branch 'development' into iss120,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/11395c18cf7f3de2090d1c05c3dfa4ad746c8cf7
+urcpp,6f779313e4d4619d3144908f62222176bba69f09,wgs1862019,User,wgs1862019,2019-05-15T17:48:30Z,Merge branch 'development' into 122,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6f779313e4d4619d3144908f62222176bba69f09
+urcpp,0e88da64f63f756e1fbaef5c5aac42e5c0ba4442,Jamaliela,User,wgs1862019,2019-05-15T17:46:58Z,"Merged in 140 (pull request #37)
+
+Download button is inline with the navigation tab and styled similar to others.
+
+Tested and the button looks good AND still works!",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0e88da64f63f756e1fbaef5c5aac42e5c0ba4442
+urcpp,a845bff96059c8925467b305f4e2f6c23ec74485,wgs1862019,User,wgs1862019,2019-05-15T17:46:15Z,padding,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a845bff96059c8925467b305f4e2f6c23ec74485
+urcpp,b94ad49e617bad68dc7a0d80b03d5e8d3fafd494,wgs1862019,User,wgs1862019,2019-05-15T17:43:28Z,Padding,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b94ad49e617bad68dc7a0d80b03d5e8d3fafd494
+urcpp,d86c7d778d4568c60ccf097ce43e73d9bed01ba8,wgs1862019,User,Jamaliela,2019-05-15T17:40:34Z,"Merged in decimal (pull request #36)
+
+Decimal $-.-- formatting for /committee/budgets",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d86c7d778d4568c60ccf097ce43e73d9bed01ba8
+urcpp,4c3248b8f4fdc324325750267089cc4955ee8fef,wgs1862019,User,wgs1862019,2019-05-15T17:39:03Z,$ to Total and erasing space in html,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4c3248b8f4fdc324325750267089cc4955ee8fef
+urcpp,5204629420d020458556881133650fd5405b850f,wgs1862019,User,wgs1862019,2019-05-15T17:25:30Z,Merge branch '122' of https://bitbucket.org/laborstudents/urcpp-flask/src/development into 122,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5204629420d020458556881133650fd5405b850f
+urcpp,08cf8255861e3be65776b65818eb8ac2d874aae5,wgs1862019,User,wgs1862019,2019-05-15T17:22:25Z,Download button is inline with the navigation tab and styled similar to others.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/08cf8255861e3be65776b65818eb8ac2d874aae5
+urcpp,eabac592dc56e206f1d31e899d29c337c98cd18c,Jamaliela,User,wgs1862019,2019-05-15T17:17:41Z,"Merged in 142 (pull request #35)
+
+Download button works and downloads the documents",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/eabac592dc56e206f1d31e899d29c337c98cd18c
+urcpp,05c314ad6efe0f95957c6a5922dc4171317cfbbd,wgs1862019,User,wgs1862019,2019-05-15T15:51:57Z,Formatting for all rows,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/05c314ad6efe0f95957c6a5922dc4171317cfbbd
+urcpp,50bc09eada3d2ba73ac7e60a01b72c2baeabbcc4,wgs1862019,User,wgs1862019,2019-05-15T15:05:21Z,Project Summary section of Committee page has been organized.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/50bc09eada3d2ba73ac7e60a01b72c2baeabbcc4
+urcpp,8527761eacc4d713f8c34441ec36df6b5cb3a65b,wgs1862019,User,wgs1862019,2019-05-15T14:17:27Z,changed the table for the main page of committee page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8527761eacc4d713f8c34441ec36df6b5cb3a65b
+urcpp,8583952799022cc7ae85a5308ab6b0b45f3b183d,wgs1862019,User,wgs1862019,2019-05-15T14:13:18Z,$ on trunctated total (end of row),https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8583952799022cc7ae85a5308ab6b0b45f3b183d
+urcpp,6cb60a08a5662f410e31a66efbdbee591b7191ac,wgs1862019,User,wgs1862019,2019-05-15T14:05:54Z,Download button works and downloads the documents,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6cb60a08a5662f410e31a66efbdbee591b7191ac
+urcpp,e00cbc56eb671dedf906cc42104d34c6ac566a6d,wgs1862019,User,wgs1862019,2019-05-15T13:47:51Z,Merge branch 'development' into 122,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e00cbc56eb671dedf906cc42104d34c6ac566a6d
+urcpp,6c3953e19ea9940f29430ec682eaef98efb3896c,Jamaliela,User,wgs1862019,2019-05-15T13:42:40Z,"Merged in 136 (pull request #34)
+
+136",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6c3953e19ea9940f29430ec682eaef98efb3896c
+urcpp,9acf7d4d017645d663752ea183d9ddfbc43e001d,wgs1862019,User,wgs1862019,2019-05-14T20:56:42Z,Enhancement for the style of the page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9acf7d4d017645d663752ea183d9ddfbc43e001d
+urcpp,b8d2dd5bfb8849d73adf177c907473a86d5c834b,wgs1862019,User,wgs1862019,2019-05-14T18:17:44Z,border around table and centering,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b8d2dd5bfb8849d73adf177c907473a86d5c834b
+urcpp,1478152d3d9134037bbc7ae3d2f75c53e99bf4f7,wgs1862019,User,wgs1862019,2019-05-14T17:20:18Z,dropdown menu is now created to navigate through Committee option,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1478152d3d9134037bbc7ae3d2f75c53e99bf4f7
+urcpp,dd2ffa01f2d6bba9d6ba887f942190651a05e655,wgs1862019,User,wgs1862019,2019-05-14T16:57:44Z,temporary commit while changing workspace,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/dd2ffa01f2d6bba9d6ba887f942190651a05e655
+urcpp,1e467f0184f6412ea4a851ce6873bcf6f9473661,wgs1862019,User,wgs1862019,2019-05-14T16:48:55Z,centered table on projects summary page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1e467f0184f6412ea4a851ce6873bcf6f9473661
+urcpp,1b508a37a30c18db8ec6e4fc4b6086c6854d87fb,wgs1862019,User,wgs1862019,2019-05-13T20:21:26Z,Merge conflicts,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1b508a37a30c18db8ec6e4fc4b6086c6854d87fb
+urcpp,21939e1c50a0b71be2d57052319c81ad4280c56a,wgs1862019,User,wgs1862019,2019-05-13T20:15:58Z,borders for award letter table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/21939e1c50a0b71be2d57052319c81ad4280c56a
+urcpp,fa1ba36925fd1cebb6bfff6462758b6f8421e98d,wgs1862019,User,wgs1862019,2019-05-13T20:12:31Z,"Merged in 125 (pull request #33)
+
+125",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fa1ba36925fd1cebb6bfff6462758b6f8421e98d
+urcpp,64c9643d410029a053a5a9148022a9ecddc0ba19,wgs1862019,User,wgs1862019,2019-05-13T20:10:42Z,Fixed header,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/64c9643d410029a053a5a9148022a9ecddc0ba19
+urcpp,2ec15fef7d323a44655c6b7c3d66711f35c9f86e,wgs1862019,User,wgs1862019,2019-05-13T20:04:52Z,Reverting button,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2ec15fef7d323a44655c6b7c3d66711f35c9f86e
+urcpp,6d9a22c73aab0775f4ffaf5b03d75e8bb83e69c2,wgs1862019,User,wgs1862019,2019-05-13T19:59:00Z,added padding,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6d9a22c73aab0775f4ffaf5b03d75e8bb83e69c2
+urcpp,f37287e2ea2a9cfac03978b95b6b3a6fda2b0297,wgs1862019,User,wgs1862019,2019-05-13T19:33:25Z,Its better than it waaaaasss...,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f37287e2ea2a9cfac03978b95b6b3a6fda2b0297
+urcpp,d58008c3128dc2754f1ffc433ca237c86ae98bb5,wgs1862019,User,wgs1862019,2019-05-13T19:22:35Z,created a bordered table for the parameters.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d58008c3128dc2754f1ffc433ca237c86ae98bb5
+urcpp,0a4624b38c4a5d813d11aeb6386a4187c48c3157,wgs1862019,User,wgs1862019,2019-05-13T19:05:54Z,Trying to fix Download All Files button but it doesnt work yet,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0a4624b38c4a5d813d11aeb6386a4187c48c3157
+urcpp,0dd6ca16b649c1301c8aae5152f0c2d85eb021dd,wgs1862019,User,wgs1862019,2019-05-13T18:43:31Z,/setParameters formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0dd6ca16b649c1301c8aae5152f0c2d85eb021dd
+urcpp,193d1a89d6a8bd073ba121e2f92ca9517a509824,wgs1862019,User,wgs1862019,2019-05-13T18:16:29Z,merged with development,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/193d1a89d6a8bd073ba121e2f92ca9517a509824
+urcpp,01ec1069adc9f6e548f09b531bb4af3428e4c642,Jamaliela,User,wgs1862019,2019-05-13T18:10:32Z,"Merged in 138 (pull request #32)
+
+138",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/01ec1069adc9f6e548f09b531bb4af3428e4c642
+urcpp,fe45b2a5ef5e2cbc5aad2c62cb7c120c3d3d6ed7,Jamaliela,User,wgs1862019,2019-05-13T18:09:48Z,"Merged in 129 (pull request #31)
+
+added required error alert fields
+tested on chrome and firefox",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fe45b2a5ef5e2cbc5aad2c62cb7c120c3d3d6ed7
+urcpp,4b34c46c328d0606b3fc5df6be17ff936693c0ab,wgs1862019,User,wgs1862019,2019-05-13T17:58:05Z,Formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4b34c46c328d0606b3fc5df6be17ff936693c0ab
+urcpp,691676246252ea857f632915104cdac2805c0c52,wgs1862019,User,wgs1862019,2019-05-13T17:31:14Z,chair menu is in a button item table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/691676246252ea857f632915104cdac2805c0c52
+urcpp,c77ff0cae9f3737068c624d508143860704211d5,wgs1862019,User,wgs1862019,2019-05-13T15:48:23Z,allFiles formatted button back up top,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c77ff0cae9f3737068c624d508143860704211d5
+urcpp,721f3c378d5fa1836e4b1794ac9cb05055f2ccdd,wgs1862019,User,wgs1862019,2019-05-13T15:34:08Z,/allVotes formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/721f3c378d5fa1836e4b1794ac9cb05055f2ccdd
+urcpp,52e089894c1a03edb37d72139ece941d758e8ba4,wgs1862019,User,wgs1862019,2019-05-13T15:30:45Z,changed the interface title,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/52e089894c1a03edb37d72139ece941d758e8ba4
+urcpp,c8fc20d8e9d3b17bfaebdf88b194988bb42521f7,wgs1862019,User,wgs1862019,2019-05-13T15:29:00Z,All labor formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c8fc20d8e9d3b17bfaebdf88b194988bb42521f7
+urcpp,16aeaf55163b5a09b7d89c8fb0f63f07ba4ff9ab,wgs1862019,User,wgs1862019,2019-05-13T15:27:22Z,All budets formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/16aeaf55163b5a09b7d89c8fb0f63f07ba4ff9ab
+urcpp,f94aa7caaa0a2f3b327e0bbc4624c8b6df094308,wgs1862019,User,wgs1862019,2019-05-13T15:26:10Z,Fix this ugly button pls,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f94aa7caaa0a2f3b327e0bbc4624c8b6df094308
+urcpp,ac222bdbe26c1cfebe4da65ff261eba7528980f1,wgs1862019,User,wgs1862019,2019-05-13T15:19:32Z,added required error alert fields,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ac222bdbe26c1cfebe4da65ff261eba7528980f1
+urcpp,7b67981724ac27d950ea48a13a81ba50144096aa,wgs1862019,User,wgs1862019,2019-05-13T15:15:21Z,/committee/allFiles,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7b67981724ac27d950ea48a13a81ba50144096aa
+urcpp,5313c23d21b34052738cdc13d263ff7b43e49f37,wgs1862019,User,wgs1862019,2019-05-13T15:06:05Z,/allProjects formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5313c23d21b34052738cdc13d263ff7b43e49f37
+urcpp,656e22d99d633c2765020522c355300d3ed59826,wgs1862019,User,wgs1862019,2019-05-13T15:02:01Z,/committee formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/656e22d99d633c2765020522c355300d3ed59826
+urcpp,8c51b6e0b9b512433f981bb8efa5a091b6f36ab4,wgs1862019,User,wgs1862019,2019-05-13T14:57:45Z,Award letters formatting except table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8c51b6e0b9b512433f981bb8efa5a091b6f36ab4
+urcpp,bb6216e316aade24516fd0eaa4531e14a4b4008f,wgs1862019,User,wgs1862019,2019-05-13T14:33:35Z,/chair/manageCommittee formatting except dropdown,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bb6216e316aade24516fd0eaa4531e14a4b4008f
+urcpp,9d6872b82608ae98b3c0299c08d33bc9c7b98130,wgs1862019,User,wgs1862019,2019-05-13T14:12:57Z,Unfinished setParemeters formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9d6872b82608ae98b3c0299c08d33bc9c7b98130
+urcpp,e5e4ece20c1ac98cb439e84415065a3bc797af2d,wgs1862019,User,wgs1862019,2019-05-13T13:46:32Z,/chair formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e5e4ece20c1ac98cb439e84415065a3bc797af2d
+urcpp,f5835970eeec80311b10199537bd7d45359946f6,wgs1862019,User,wgs1862019,2019-05-10T20:09:05Z,/review formatting but cant get Done button to go over without starting a new row..,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f5835970eeec80311b10199537bd7d45359946f6
+urcpp,68c90c5a36f537308b5b8a1e31c9eb726d940ab2,wgs1862019,User,wgs1862019,2019-05-10T19:49:38Z,Bolding on /done,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/68c90c5a36f537308b5b8a1e31c9eb726d940ab2
+urcpp,8b8771bd7954e96433f8c3a56b8e3c1173225945,wgs1862019,User,wgs1862019,2019-05-10T19:46:40Z,/done formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8b8771bd7954e96433f8c3a56b8e3c1173225945
+urcpp,bbbc57c1e8074eb6894a219952ea2b7493389400,wgs1862019,User,wgs1862019,2019-05-10T19:27:19Z,"Upload page(s) started; will come back to it, and budget styled",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bbbc57c1e8074eb6894a219952ea2b7493389400
+urcpp,6e0994267c40cedee3a03802141b684513813536,wgs1862019,User,wgs1862019,2019-05-10T19:04:01Z,Irbyn formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6e0994267c40cedee3a03802141b684513813536
+urcpp,13a1d48073c4b23bd4d9dbda94ab7c9752f5c0af,wgs1862019,User,wgs1862019,2019-05-10T18:56:47Z,Funding history page formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/13a1d48073c4b23bd4d9dbda94ab7c9752f5c0af
+urcpp,0c9df71e0df732d16b8a852913f25a30555c6019,Jamaliela,User,wgs1862019,2019-05-10T17:39:50Z,"Merged in 104 (pull request #30)
+
+changed the style of the footer",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0c9df71e0df732d16b8a852913f25a30555c6019
+urcpp,70b2e6bb8886695bd2b61191ee7f4ac8bc4a53b1,Jamaliela,User,wgs1862019,2019-05-10T17:38:33Z,"Merged in 137 (pull request #29)
+
+moved the submit button and now we have flashing message",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/70b2e6bb8886695bd2b61191ee7f4ac8bc4a53b1
+urcpp,ff3224659ac96069b9f83427f509c0d3fbd0e682,wgs1862019,User,wgs1862019,2019-05-10T17:32:10Z,Formatting first two pages on faculty interface,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ff3224659ac96069b9f83427f509c0d3fbd0e682
+urcpp,ce23add0a17e37891a5b6baf6c01a7cd72b701b4,wgs1862019,User,wgs1862019,2019-05-10T16:53:30Z,changed the style of the footer,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ce23add0a17e37891a5b6baf6c01a7cd72b701b4
+urcpp,c5b3e0d69ec71054a77a29e5246cb456163a1163,wgs1862019,User,wgs1862019,2019-05-10T15:12:17Z,moved the submit button and now we have flashing message,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c5b3e0d69ec71054a77a29e5246cb456163a1163
+urcpp,6626c240e143f8fb4d25d74469d44e05910a979f,wgs1862019,User,wgs1862019,2019-05-10T14:37:43Z,"Merged in 112 (pull request #28)
+
+Added $ to milage and labor rate
+
+Small fix",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6626c240e143f8fb4d25d74469d44e05910a979f
+urcpp,9bad7b15fd5aab77d5335bff377f017ca9f5272d,wgs1862019,User,wgs1862019,2019-05-10T14:36:04Z,Added $ to molage and labor rate,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9bad7b15fd5aab77d5335bff377f017ca9f5272d
+urcpp,4dfa9ba65b7c45d08310927ece05517dde8efaee,wgs1862019,User,wgs1862019,2019-05-10T14:27:09Z,README.md edited online with Bitbucket,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4dfa9ba65b7c45d08310927ece05517dde8efaee
+urcpp,beca79268cf2a8b93c8bbd9ca2941abc7d3c1bd5,wgs1862019,User,wgs1862019,2019-05-10T14:09:29Z,Fixed text box styling,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/beca79268cf2a8b93c8bbd9ca2941abc7d3c1bd5
+urcpp,d50100866901aa3d288959586a8e56e1eb2ce0bf,wgs1862019,User,wgs1862019,2019-05-10T13:19:53Z,Its ugly now but the end date was giving a key error after clicking submit,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d50100866901aa3d288959586a8e56e1eb2ce0bf
+urcpp,3bd29536cff8ee28c191d66c0ab50921e02479f8,wgs1862019,User,wgs1862019,2019-05-10T13:06:03Z,Setting max on individual input fields,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3bd29536cff8ee28c191d66c0ab50921e02479f8
+urcpp,fa276e2d52a50ccc1bcea4c3e89f28cfd6f19640,johnsonwe,User,wgs1862019,2019-05-09T20:39:12Z,"Merged in 128 (pull request #27)
+
+changed the end date and now it is inline and disabled
+
+This small change does not need boss review
+
+Approved-by: Katelyn Adams <adamska@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fa276e2d52a50ccc1bcea4c3e89f28cfd6f19640
+urcpp,61476e6ab0bd5dca80ac9c61a9cf4a2f099b5194,wgs1862019,User,wgs1862019,2019-05-09T20:20:36Z,changed the end date and now it is inline and disabled,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/61476e6ab0bd5dca80ac9c61a9cf4a2f099b5194
+urcpp,2b1e953e7ee2695d842a7f748637d8bd8b674ddd,johnsonwe,User,wgs1862019,2019-05-09T20:14:02Z,"Merged in 131 (pull request #25)
+
+Fixed the issue with radio circle on /irbyn
+
+This small change does not need supervisor approval
+
+Approved-by: Katelyn Adams <adamska@berea.edu>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2b1e953e7ee2695d842a7f748637d8bd8b674ddd
+urcpp,de90ff7785347b7920d29efea8b68914ba0c7dc3,wgs1862019,User,wgs1862019,2019-05-09T20:10:25Z,Merge conflicts,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/de90ff7785347b7920d29efea8b68914ba0c7dc3
+urcpp,904dc23b2bf1b10ca65db5d94d11f6d1b93a4470,wgs1862019,User,wgs1862019,2019-05-09T20:08:23Z,No special characters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/904dc23b2bf1b10ca65db5d94d11f6d1b93a4470
+urcpp,c3fe490e7785f21432de9dddbf98bf36434a3975,wgs1862019,User,wgs1862019,2019-05-09T19:49:31Z,Budget does not take negative numbers,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c3fe490e7785f21432de9dddbf98bf36434a3975
+urcpp,a3b4180654b555fd55b45a8430a33668d9896001,wgs1862019,User,wgs1862019,2019-05-09T19:41:05Z,just added the 'not' that was deleted.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a3b4180654b555fd55b45a8430a33668d9896001
+urcpp,bc78a855e72209f79b5ff626dbf818ac822ec110,wgs1862019,User,wgs1862019,2019-05-09T19:36:47Z,Fixed the issue with radio circle,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bc78a855e72209f79b5ff626dbf818ac822ec110
+urcpp,da2f0b3d2b7b84b6ef1bf969bc12e4c0f0b4acd8,wgs1862019,User,wgs1862019,2019-05-09T19:32:01Z,just removing a period,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/da2f0b3d2b7b84b6ef1bf969bc12e4c0f0b4acd8
+urcpp,d797f20548a467731eaabac6a68ca36b8a98f1ef,johnsonwe,User,johnsonwe,2019-05-09T19:06:22Z,"Merged in 130 (pull request #24)
+
+130",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d797f20548a467731eaabac6a68ca36b8a98f1ef
+urcpp,dea20f643056fa8f85cd172203949d5bb8846c46,wgs1862019,User,wgs1862019,2019-05-09T19:03:28Z,corrected some typos in chair section,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/dea20f643056fa8f85cd172203949d5bb8846c46
+urcpp,765a20e7001c882453a9c6b6b9daeb66fca9c007,wgs1862019,User,wgs1862019,2019-05-09T18:59:35Z,Only one checkbox clicked at a time on faculty history,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/765a20e7001c882453a9c6b6b9daeb66fca9c007
+urcpp,3d402c35acf0abfeda879c3091065caeab99c3a2,wgs1862019,User,wgs1862019,2019-05-09T18:52:45Z,"Went a different route, deleted unecessary JS)",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3d402c35acf0abfeda879c3091065caeab99c3a2
+urcpp,34304c6b60575b0a403ff8d06f509329f4451e5b,wgs1862019,User,wgs1862019,2019-05-09T18:51:16Z,corrected some typos in done and review pages,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/34304c6b60575b0a403ff8d06f509329f4451e5b
+urcpp,b7854c8c44e392006cfaba2cb182df61dccd98d2,wgs1862019,User,wgs1862019,2019-05-09T18:39:04Z,fixed year input,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b7854c8c44e392006cfaba2cb182df61dccd98d2
+urcpp,f2f396460a70a32f94f57fa4856145ca32e1d9ea,wgs1862019,User,wgs1862019,2019-05-09T18:32:28Z,corrected some typos in Budget section,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f2f396460a70a32f94f57fa4856145ca32e1d9ea
+urcpp,b90ecf63417520d84bede5cb9c1631f5253683d6,wgs1862019,User,wgs1862019,2019-05-09T18:27:08Z,No negative numbers for rates,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b90ecf63417520d84bede5cb9c1631f5253683d6
+urcpp,410ff345dd43c69c4e494d6e485cb497dc34a80e,wgs1862019,User,wgs1862019,2019-05-09T17:57:56Z,corrected some words in the vitae submission section,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/410ff345dd43c69c4e494d6e485cb497dc34a80e
+urcpp,24daf23abe02044e3f548a03d46cdc4bf80d5238,wgs1862019,User,wgs1862019,2019-05-09T17:29:06Z,fixed some typos in the headers,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/24daf23abe02044e3f548a03d46cdc4bf80d5238
+urcpp,3d48bc6801242182946dd89baf7a032e8df96e87,wgs1862019,User,wgs1862019,2019-05-09T15:36:32Z,README.md edited online with Bitbucket,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3d48bc6801242182946dd89baf7a032e8df96e87
+urcpp,3a2fc55ea0773f202ca7a3ee65a66c1ba8cd6c8e,wgs1862019,User,wgs1862019,2019-05-09T15:35:23Z,README.md edited online with Bitbucket,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3a2fc55ea0773f202ca7a3ee65a66c1ba8cd6c8e
+urcpp,40ca2ebb68b164b5580419e0064878d428925312,johnsonwe,User,johnsonwe,2019-05-09T15:30:48Z,"Merged in 132 (pull request #23)
+
+Added description for narrative submission",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/40ca2ebb68b164b5580419e0064878d428925312
+urcpp,a0bab1c27b87eeba46d2667c8d39941ae75e31b2,wgs1862019,User,wgs1862019,2019-05-09T15:28:20Z,Added description for narrative submission,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a0bab1c27b87eeba46d2667c8d39941ae75e31b2
+urcpp,b5aa40964007c956cc75ea5c1495f153201cd610,johnsonwe,User,johnsonwe,2019-05-09T14:16:53Z,"Merged in iss127 (pull request #22)
+
+Made dropdown menus on create page homogeneous",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b5aa40964007c956cc75ea5c1495f153201cd610
+urcpp,5224d2ff71894e0ca9f783f0805af84b91d561fa,wgs1862019,User,wgs1862019,2019-05-09T14:15:18Z,Made dropdown menus on create page homogeneous,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5224d2ff71894e0ca9f783f0805af84b91d561fa
+urcpp,5f9b95384a080e30023a6c6f416d7a40e0166877,wgs1862019,User,wgs1862019,2019-04-08T20:28:34Z,Setting up functions for js instant validation,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5f9b95384a080e30023a6c6f416d7a40e0166877
+urcpp,e5bad62a106fee1a7a1e6d1800e0dad7f53b7f69,wgs1862019,User,wgs1862019,2019-04-08T19:56:10Z,Fixed language on placeholders,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e5bad62a106fee1a7a1e6d1800e0dad7f53b7f69
+urcpp,6563a0c21802ae2110e86eb4e04de6d9b4dc0860,johnsonwe,User,johnsonwe,2019-03-26T20:12:04Z,"Merged in 111 (pull request #19)
+
+issue 111 fix 'everything' spelling *NO REVIEW NEEDED*",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6563a0c21802ae2110e86eb4e04de6d9b4dc0860
+urcpp,2f0677ac413e1ea91c648d005a850fda59c063f2,wgs1862019,User,wgs1862019,2019-03-26T20:09:58Z,issue 111 fix everything spelling,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2f0677ac413e1ea91c648d005a850fda59c063f2
+urcpp,8b6d24f0783686e7c9cff709bf5a477c17637f52,sheggen,User,sheggen,2018-12-13T13:46:52Z,fixed budget downloading error,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8b6d24f0783686e7c9cff709bf5a477c17637f52
+urcpp,3c637edfdd58415a8d903903b6325149aa6ab47d,memo330179,User,memo330179,2018-02-15T13:44:53Z,Merge branch 'development',https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3c637edfdd58415a8d903903b6325149aa6ab47d
+urcpp,3d3f939b33723cb5f53979cc8d1ceaa2c861eaf0,memo330179,User,memo330179,2018-02-15T13:44:07Z,fix budget and script for date,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3d3f939b33723cb5f53979cc8d1ceaa2c861eaf0
+urcpp,2f1a7c733e8ddf5a7237ac4b97b5c830d63aae02,memo330179,User,memo330179,2018-02-13T20:30:33Z,Merge branch 'development',https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2f1a7c733e8ddf5a7237ac4b97b5c830d63aae02
+urcpp,0dd842e4a01f3d879984f2dfd60dba292976aa20,memo330179,User,memo330179,2018-02-13T20:21:14Z,change button color,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0dd842e4a01f3d879984f2dfd60dba292976aa20
+urcpp,ac14c8130223c8fccdc02b0fae90184b5767c360,memo330179,User,memo330179,2018-02-13T20:18:22Z,show name in the email modal,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ac14c8130223c8fccdc02b0fae90184b5767c360
+urcpp,d6311d727ee8b9053271d89e5f26a4bf4a4c45a7,memo330179,User,memo330179,2018-02-13T15:58:00Z,Merge branch 'development',https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d6311d727ee8b9053271d89e5f26a4bf4a4c45a7
+urcpp,d81a2edfa4bf353540905e2741b23762cc991b38,memo330179,User,memo330179,2018-02-13T15:43:29Z,move script to footer imports,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d81a2edfa4bf353540905e2741b23762cc991b38
+urcpp,95834ac3c0da6a75b68a36775fa4e349aa41e746,memo330179,User,memo330179,2018-02-13T15:09:23Z,"Merged in fixes (pull request #18)
+
+Fixes
+
+Approved-by: Jesson Soto Ventura <jesson@sotoventura.com>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/95834ac3c0da6a75b68a36775fa4e349aa41e746
+urcpp,7c24542ba5226b106c3463827dc258f3da7c8375,memo330179,User,memo330179,2018-02-12T17:09:50Z,show accepted email on email button,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7c24542ba5226b106c3463827dc258f3da7c8375
+urcpp,1c1e423186be7e1e0cd60a34d273079614ede928,memo330179,User,memo330179,2018-02-02T18:13:10Z,don't break when there are no projects,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1c1e423186be7e1e0cd60a34d273079614ede928
+urcpp,43147cb4581781bdcb5faac8e2d0bf45ce4946a6,memo330179,User,memo330179,2018-02-02T18:02:21Z,fix popover and filters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/43147cb4581781bdcb5faac8e2d0bf45ce4946a6
+urcpp,c02e6b9d11bcda844e85bebd647a04f9cf699dbb,memo330179,User,memo330179,2018-02-02T18:00:17Z,nav_tabs should have url_for,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c02e6b9d11bcda844e85bebd647a04f9cf699dbb
+urcpp,ba454b9fe4b1e27fda6d2d31794a1df478a0de63,Jesson Soto Ventura,,memo330179,2018-02-02T16:58:25Z,"Merged in email (pull request #17)
+
+Send formatted emails to user
+
+This looks good. Let's test.
+
+Approved-by: Guillermo ramos <guillermoramos330179@gmail.com>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ba454b9fe4b1e27fda6d2d31794a1df478a0de63
+urcpp,f0ae3f86d09ccbf942ecb34dd80982599819d312,Jesson Soto Ventura,,Jesson Soto Ventura,2018-01-31T21:58:05Z,Realized subject was hardcoded,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f0ae3f86d09ccbf942ecb34dd80982599819d312
+urcpp,13a14a89c84061fee55bd05a808dede26d93e69c,Jesson Soto Ventura,,Jesson Soto Ventura,2018-01-31T21:53:24Z,Integrated WYSIWYG with flask mail,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/13a14a89c84061fee55bd05a808dede26d93e69c
+urcpp,8917ef53139072eb2afe22a555515dd4578e2def,Jesson Soto Ventura,,Jesson Soto Ventura,2018-01-31T20:26:37Z,moved branches,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8917ef53139072eb2afe22a555515dd4578e2def
+urcpp,8b34ba96f9ff497c686ec53e74417c8d43d943b4,memo330179,User,Jesson Soto Ventura,2018-01-15T14:04:28Z,remove identifiable information,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8b34ba96f9ff497c686ec53e74417c8d43d943b4
+urcpp,a5734d965c2c591505fabbdb951b318ed56a577f,memo330179,User,Jesson Soto Ventura,2018-01-10T13:50:59Z,change formatting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a5734d965c2c591505fabbdb951b318ed56a577f
+urcpp,6b9eed5f88fc9c0e06db8a5fff7ce52595945875,memo330179,User,Jesson Soto Ventura,2017-12-15T22:14:51Z,change settings,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6b9eed5f88fc9c0e06db8a5fff7ce52595945875
+urcpp,170b9fca85b61d8d70a8ede0179d9cd8f93cf0a0,memo330179,User,Jesson Soto Ventura,2017-12-15T04:48:27Z,set up email,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/170b9fca85b61d8d70a8ede0179d9cd8f93cf0a0
+urcpp,853c5fa257331f62616c46b7bedf16add4a212d8,Sher Sanginov,,Jesson Soto Ventura,2017-09-05T19:43:20Z,send email to user,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/853c5fa257331f62616c46b7bedf16add4a212d8
+urcpp,efce61d56b103436e45c3d1be9dc40092e62d30e,memo330179,User,memo330179,2018-01-29T22:41:20Z,"Merged in development (pull request #16)
+
+Development",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/efce61d56b103436e45c3d1be9dc40092e62d30e
+urcpp,3bebf6733e2644dc2bbf697ae2daa1601a551a0f,memo330179,User,memo330179,2018-01-29T22:35:49Z,"Merged in previous-year-project (pull request #15)
+
+Previous year project",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3bebf6733e2644dc2bbf697ae2daa1601a551a0f
+urcpp,753b270ff83e61bb167197b6e4543fd604c66e41,memo330179,User,memo330179,2018-01-29T22:33:21Z,fix download,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/753b270ff83e61bb167197b6e4543fd604c66e41
+urcpp,ba9d2e670acf8074da2b66ade076602cede6ceff,memo330179,User,memo330179,2018-01-29T22:27:30Z,add ability to specify year you are looking at,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ba9d2e670acf8074da2b66ade076602cede6ceff
+urcpp,fba44757a3a3b7d53fe13d8a6f324d2270149e6c,memo330179,User,memo330179,2017-11-07T15:53:48Z,Merged development into master,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fba44757a3a3b7d53fe13d8a6f324d2270149e6c
+urcpp,4a160360399d98fc34e31bbc0767a8ac02d944da,memo330179,User,memo330179,2017-11-07T15:51:38Z,Change Capitalization of words,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4a160360399d98fc34e31bbc0767a8ac02d944da
+urcpp,840afec31224f66d4c46bade4b010caa80ca35ec,memo330179,User,memo330179,2017-11-06T13:59:33Z,sync spelling of withdrawn,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/840afec31224f66d4c46bade4b010caa80ca35ec
+urcpp,e3003489a9a8bdc174037f0d99a4ae8b39f17ea4,sheggen,User,sheggen,2017-11-03T15:04:36Z,Change withdrawn to Withdrawn,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e3003489a9a8bdc174037f0d99a4ae8b39f17ea4
+urcpp,4ca5a470151af29f2c8d30f3e545f5cb563e2da3,sheggen,User,sheggen,2017-11-03T14:58:16Z,Change all status to Capitals,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4ca5a470151af29f2c8d30f3e545f5cb563e2da3
+urcpp,76168bdd05640f916938b4fed03f8f67d73f5a11,sheggen,User,sheggen,2017-11-03T14:55:33Z,change pending to Pending,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/76168bdd05640f916938b4fed03f8f67d73f5a11
+urcpp,930e3ee4c1239eba2e9d0029c5cb309413a4c5a6,sheggen,User,sheggen,2017-11-03T14:50:53Z,change Pending to pending,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/930e3ee4c1239eba2e9d0029c5cb309413a4c5a6
+urcpp,a9bda39e60c56f359bc9292e04b376c68fcb6c2d,sheggen,User,sheggen,2017-11-03T14:43:49Z,change improperly encoded characters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a9bda39e60c56f359bc9292e04b376c68fcb6c2d
+urcpp,1b5ad6bee447d0f627db7fb31020a23f90a84ec9,sheggen,User,sheggen,2017-11-03T14:33:01Z,change accept to Accept and reject to Reject config.yaml,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1b5ad6bee447d0f627db7fb31020a23f90a84ec9
+urcpp,07112aa865aeb91cc86f40333e3498ea1713798f,memo330179,User,memo330179,2017-10-30T22:36:33Z,Remove unneeded fields from migrating,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/07112aa865aeb91cc86f40333e3498ea1713798f
+urcpp,96b1dbd2018fddbb411e8912763672687d6d2f2f,Jesson Soto Ventura,,memo330179,2017-10-24T14:10:49Z,"Merged in issue#79 (pull request #14)
+
+Issue #95
+
+Approved-by: Guillermo ramos <guillermoramos330179@gmail.com>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/96b1dbd2018fddbb411e8912763672687d6d2f2f
+urcpp,8eb9c95156faca6d64c338c2bb3469a82535b4d7,Jesson Soto,,Jesson Soto,2017-09-27T21:03:01Z,Send award letters now functions as expected and migrate database creates the correct inital template,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8eb9c95156faca6d64c338c2bb3469a82535b4d7
+urcpp,9f6a36cc60789ade4b13d4fa200a11dddef4cffa,Jesson Soto,,Jesson Soto,2017-09-27T20:06:27Z,"Created Page, working on db migration",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9f6a36cc60789ade4b13d4fa200a11dddef4cffa
+urcpp,9716b2c21c878381fa06b42bb9703f0544da521b,memo330179,User,memo330179,2017-09-25T12:42:56Z,change footer,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9716b2c21c878381fa06b42bb9703f0544da521b
+urcpp,3488a98fb534faf3a53993b2358d06d3545485c6,johnsonwe,User,memo330179,2017-09-11T19:24:13Z,"Merged in iss97 (pull request #13)
+
+Added text to help guide users toward appropriate response
+
+Approved-by: Guillermo ramos <guillermoramos330179@gmail.com>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3488a98fb534faf3a53993b2358d06d3545485c6
+urcpp,1364463db40a0ade73752400088768921e00f92e,Chauwaj,User,memo330179,2017-09-11T19:23:35Z,"Merged in issue100 (pull request #12)
+
+Problem with bad request
+
+Approved-by: Guillermo ramos <guillermoramos330179@gmail.com>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1364463db40a0ade73752400088768921e00f92e
+urcpp,8a37df65675dc492685500810522d6b75260fb2b,Jesson Soto Ventura,,memo330179,2017-09-11T19:22:18Z,"Merged in remove_file (pull request #10)
+
+Remove file",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8a37df65675dc492685500810522d6b75260fb2b
+urcpp,4dfbd9ce1c01c847e1f6ee1c3aec3eef64e8aa12,johnsonwe,User,johnsonwe,2017-09-11T17:40:19Z,changed back from text to number,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4dfbd9ce1c01c847e1f6ee1c3aec3eef64e8aa12
+urcpp,42a56540c4e4f8fc561038a1c6ea54bd5d5816d6,johnsonwe,User,johnsonwe,2017-09-11T16:34:34Z,Merge branch 'development' of https://bitbucket.org/jadudm/urcpp-flask into iss97,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/42a56540c4e4f8fc561038a1c6ea54bd5d5816d6
+urcpp,0ccbf99b1e92bc243ad2828e7e09a7f5ed5ca359,johnsonwe,User,johnsonwe,2017-09-11T16:32:37Z,Added text to help guide users toward appropriate response,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0ccbf99b1e92bc243ad2828e7e09a7f5ed5ca359
+urcpp,c9533abf8a0d407ead2f9729f1a1307ca1f8f5f4,Aleksandra Cvetanovska,,Aleksandra Cvetanovska,2017-09-08T21:09:32Z,FIXED problem with bad request when users don't enter duration for their application,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c9533abf8a0d407ead2f9729f1a1307ca1f8f5f4
+urcpp,1e06a1982631cb0ef10ec0d968402e44f346df22,Aleksandra Cvetanovska,,Aleksandra Cvetanovska,2017-09-07T18:18:07Z,ADDED menu on the home page for the admin.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1e06a1982631cb0ef10ec0d968402e44f346df22
+urcpp,e7ef8aa5055b7def19dab6cf38147d083d576dfa,Aleksandra Cvetanovska,,memo330179,2017-09-07T15:05:31Z,"Merged in issue67 (pull request #11)
+
+FIXED issue #67",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e7ef8aa5055b7def19dab6cf38147d083d576dfa
+urcpp,ed040f62132b4a551d3cc0b5c81af7a1a6728bb5,Aleksandra Cvetanovska,,Aleksandra Cvetanovska,2017-09-07T13:47:53Z,FIXED issue#67. Flash messages inform the user that the application has already been submitted.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ed040f62132b4a551d3cc0b5c81af7a1a6728bb5
+urcpp,91c468b50fe5fefa717bbd90199afcf27a0fb1cf,Jesson Soto,,Jesson Soto,2017-09-07T13:46:33Z,"Removed text link, not working well",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/91c468b50fe5fefa717bbd90199afcf27a0fb1cf
+urcpp,de70cb85989813229677e79cc01556269dfcb749,Jesson Soto,,Jesson Soto,2017-09-07T13:27:28Z,Fixed Download link and made text link open file:,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/de70cb85989813229677e79cc01556269dfcb749
+urcpp,135146d1df6e0b69395d23b77bf673206de98dce,Jesson Soto,,Jesson Soto,2017-09-07T13:12:16Z,Completed the interface for the file upload/remove feature,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/135146d1df6e0b69395d23b77bf673206de98dce
+urcpp,f68dfb18550dc0e5cd94b2adceaf6b7946a29af4,Chauwaj,User,memo330179,2017-09-06T12:19:04Z,"Merged in jonathansUrcpp (pull request #9)
+
+Made it such that it does not break when you do not comment the lines in init.py out during set up",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f68dfb18550dc0e5cd94b2adceaf6b7946a29af4
+urcpp,a589a771bd3ae1d57153d74702eb77584f7c83f9,Aleksandra Cvetanovska,,memo330179,2017-09-06T12:05:37Z,"Merged in issue67 (pull request #7)
+
+Issue with redirect
+
+Approved-by: Guillermo ramos <guillermoramos330179@gmail.com>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a589a771bd3ae1d57153d74702eb77584f7c83f9
+urcpp,010527357beb4d70245368e4a7150011faab9f63,Chauwaj,User,Chauwaj,2017-09-05T20:14:32Z,Made it such that it does not break when you do not comment the lines in init.py out during set up,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/010527357beb4d70245368e4a7150011faab9f63
+urcpp,146f8946a6ce365b173be5bf929ccb3456b9ce0b,Jesson Soto,,Jesson Soto,2017-09-05T19:45:50Z,"Delete Files working, but interface needs work",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/146f8946a6ce365b173be5bf929ccb3456b9ce0b
+urcpp,c8b3625cd0cdcdf80e6d51f77848bb4b11c826ba,Aleksandra Cvetanovska,,Aleksandra Cvetanovska,2017-09-05T12:38:58Z,FIXED: Indentation problem in the last pull request,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c8b3625cd0cdcdf80e6d51f77848bb4b11c826ba
+urcpp,84f67ccad8b13e3ecd6812a801a3c95956815023,Aleksandra Cvetanovska,,Aleksandra Cvetanovska,2017-09-05T12:34:54Z,FIXED: issue with redirect. It was redirecting to a non-existing function.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/84f67ccad8b13e3ecd6812a801a3c95956815023
+urcpp,71e02b6c1a7690085aa06a60491ca675eac0f96d,Aleksandra Cvetanovska,,memo330179,2017-09-04T21:21:45Z,"Merged in form_withdrawal (pull request #5)
+
+FIXED: Now people can withdraw their application without being committee members.
+
+Approved-by: Guillermo ramos <guillermoramos330179@gmail.com>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/71e02b6c1a7690085aa06a60491ca675eac0f96d
+urcpp,2b90511d985ebeae5f6e07e131e01679e351c0e3,Aleksandra Cvetanovska,,Aleksandra Cvetanovska,2017-09-04T20:48:31Z,Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask into form_withdrawal,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2b90511d985ebeae5f6e07e131e01679e351c0e3
+urcpp,799dcb6e7a2855a5362ac168c903de1863b6c2c2,memo330179,User,memo330179,2017-09-02T12:56:52Z,"Merged in readme_fix (pull request #4)
+
+Password mistake in README
+
+Approved-by: Guillermo ramos <guillermoramos330179@gmail.com>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/799dcb6e7a2855a5362ac168c903de1863b6c2c2
+urcpp,46bb948b6a10a64c778346d021f211028984bd6d,Aleksandra Cvetanovska,,Aleksandra Cvetanovska,2017-09-01T22:13:09Z,FIXED: Now people can withdraw their application without being committee members.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/46bb948b6a10a64c778346d021f211028984bd6d
+urcpp,8b5adadd712e8400341cb1c73f0a35205fd4d3d1,Aleksandra Cvetanovska,,Aleksandra Cvetanovska,2017-09-01T21:19:20Z,Password mistake in README,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8b5adadd712e8400341cb1c73f0a35205fd4d3d1
+urcpp,1ff2fccb3ff6a56c1fa5aa492c6b1bae7feb5852,Jesson Soto Ventura,,memo330179,2017-08-31T12:45:54Z,"Merged in file_uploads_fix (pull request #2)
+
+File uploads fix",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1ff2fccb3ff6a56c1fa5aa492c6b1bae7feb5852
+urcpp,fc94a50b7603df8ccaf9ebf2623a2a71c2d6060d,Aleksandra Cvetanovska,,Aleksandra Cvetanovska,2017-08-30T21:46:08Z,There was a mistake with the password in the README,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fc94a50b7603df8ccaf9ebf2623a2a71c2d6060d
+urcpp,3616205a4242f55d70bf0d66fd80ef49b5db4007,memo330179,User,memo330179,2017-08-30T13:04:18Z,Merged file_uploads_fix into development,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3616205a4242f55d70bf0d66fd80ef49b5db4007
+urcpp,7de6f54f13f209492d21760f03e2e964e696d363,Jesson Soto Ventura,,memo330179,2017-08-30T12:34:44Z,"Merged in README (pull request #1)
+
+Updated Readme to be more clear.
+
+Approved-by: Cody Myers <myersco@berea.edu>
+Approved-by: Guillermo ramos <guillermoramos330179@gmail.com>",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7de6f54f13f209492d21760f03e2e964e696d363
+urcpp,538c8648796978a8b0f374cace0897befef49821,Jesson Soto,,Jesson Soto,2017-08-29T21:46:04Z,"Updated Language in IRB languge to match
+Adding CV from home now adds an appropriate breadcrumb menu
+- Seemed like that was how we handled back menu on all other pages
+Restricted the type of files that could be uploaded and added error message for the user.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/538c8648796978a8b0f374cace0897befef49821
+urcpp,5a83ede0d0a4ddcf628416b8e807a82f8da0fc67,Jesson Soto,,Jesson Soto,2017-08-29T17:40:54Z,Updated Readme to be more clear.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5a83ede0d0a4ddcf628416b8e807a82f8da0fc67
+urcpp,4336507f4f8b39789ee6e4317f370c487a96d003,memo330179,User,memo330179,2017-08-29T13:38:14Z,README.md edited online with Bitbucket,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4336507f4f8b39789ee6e4317f370c487a96d003
+urcpp,6f1d653e11819d5c3addf36c9d7befaf5be2394f,memo330179,User,memo330179,2017-08-25T12:53:14Z,"Revise installation guide
+
+[fixes #13]",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6f1d653e11819d5c3addf36c9d7befaf5be2394f
+urcpp,1d35b35ef907b96f9454f28655001e12b823f351,Cody Myers,,Cody Myers,2017-06-12T14:09:52Z,README.md edited online with Bitbucket,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1d35b35ef907b96f9454f28655001e12b823f351
+urcpp,ac0c1f9d2a68dd909624823f502d0f5c0f912346,Cody Myers,,Cody Myers,2017-06-12T14:04:53Z,README.md edited online with Bitbucket,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ac0c1f9d2a68dd909624823f502d0f5c0f912346
+urcpp,4fd7f3f13a2f50e3b17a6320cc0f7b4ce54e3003,memo330179,User,memo330179,2017-05-05T22:50:52Z,update READme,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4fd7f3f13a2f50e3b17a6320cc0f7b4ce54e3003
+urcpp,e4aaa394ffa4e1fcbfa21f40073856e6b8af1a48,memo330179,User,memo330179,2017-04-25T12:08:53Z,fix misspelling,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e4aaa394ffa4e1fcbfa21f40073856e6b8af1a48
+urcpp,2ae35be4ce6831a24af4907aac2bb46fd87cdfd2,memo330179,User,memo330179,2017-02-14T15:54:16Z,feat: added warning messages when a collaborator is entered see #92,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2ae35be4ce6831a24af4907aac2bb46fd87cdfd2
+urcpp,7ef2e403608d364dd93c85cf2b42e25244ea92ec,memo330179,User,memo330179,2017-02-09T14:47:33Z,fix: add dependency to setup,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7ef2e403608d364dd93c85cf2b42e25244ea92ec
+urcpp,0f4be7ed43bd7db7030dbc7329a22d0323e30ee4,memo330179,User,memo330179,2017-02-09T14:46:48Z,fix: change login info to that used by the production site,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0f4be7ed43bd7db7030dbc7329a22d0323e30ee4
+urcpp,318d82250c67eb514fae121edac8eba113ef27d3,memo330179,User,memo330179,2017-02-09T14:45:36Z,fix: comment out old start code to suppress error message,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/318d82250c67eb514fae121edac8eba113ef27d3
+urcpp,2aa2434bec948bedee77107a0f9b2e78fc5c1aab,Guillermo Ramos Macias,,Guillermo Ramos Macias,2017-02-09T14:42:33Z,change http to the secure version https,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2aa2434bec948bedee77107a0f9b2e78fc5c1aab
+urcpp,c3d27cd44dac26a286c904d8e46002450bcda79a,memo330179,User,memo330179,2017-01-31T15:47:43Z,save the number of collabs and prefill,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c3d27cd44dac26a286c904d8e46002450bcda79a
+urcpp,cf03967a7fd849ccd9098cbfa388ef8b48258e7e,memo330179,User,memo330179,2017-01-31T14:50:31Z,remove breadcrumbs from upload page if redireted from home,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cf03967a7fd849ccd9098cbfa388ef8b48258e7e
+urcpp,f6437a02c9f0f4fc19111d5ceccb912076d312e6,memo330179,User,memo330179,2017-01-31T14:29:17Z,add breadcrumbs to the pages,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f6437a02c9f0f4fc19111d5ceccb912076d312e6
+urcpp,0754f38c91f365461a6b0d3d37640cb1c2fded95,memo330179,User,memo330179,2017-01-31T14:25:12Z,change the javascript location to make the button submit,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0754f38c91f365461a6b0d3d37640cb1c2fded95
+urcpp,c095462fb3534137e5c5b1619d1ef355695c6b54,memo330179,User,memo330179,2017-01-31T14:23:12Z,change pending to Pending,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c095462fb3534137e5c5b1619d1ef355695c6b54
+urcpp,185a2cde851cf72b66dd150881ceeddd73a3b579,memo330179,User,memo330179,2017-01-31T14:20:32Z,change pending to Pending,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/185a2cde851cf72b66dd150881ceeddd73a3b579
+urcpp,c67bf90d1cc4d5d22b3a42aca8d1e324cdb7515a,memo330179,User,memo330179,2017-01-25T20:19:18Z,change the done button from withdraw to edit,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c67bf90d1cc4d5d22b3a42aca8d1e324cdb7515a
+urcpp,a9141a8389c06683cec5b5b37c7788e2a8fa5c8e,memo330179,User,memo330179,2017-01-25T20:14:13Z,make the upload page change when file is uploaded,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a9141a8389c06683cec5b5b37c7788e2a8fa5c8e
+urcpp,bffed4f295b85c919f45fb55797243e4cb5460e5,memo330179,User,memo330179,2017-01-25T20:08:50Z,remove the double container,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bffed4f295b85c919f45fb55797243e4cb5460e5
+urcpp,fb406dd6520239fbb676aa92206f2910f9a1a373,memo330179,User,memo330179,2017-01-25T20:07:12Z,Change the href to redirect to correct page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fb406dd6520239fbb676aa92206f2910f9a1a373
+urcpp,600d177372d4652c1aee0e183da95ff9d75eae52,memo330179,User,memo330179,2017-01-25T20:06:02Z,change project status to have uppercase letters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/600d177372d4652c1aee0e183da95ff9d75eae52
+urcpp,0f1006240f4e5d33171833ef0b0c51426f970751,memo330179,User,memo330179,2017-01-24T14:36:49Z,change IRBYN language,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0f1006240f4e5d33171833ef0b0c51426f970751
+urcpp,5c4877baf387e43cf423b835a073f078b5563730,memo330179,User,memo330179,2017-01-24T14:14:54Z,add a footer,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5c4877baf387e43cf423b835a073f078b5563730
+urcpp,0f9371759195604009c195718d121d85bcf5f4c9,memo330179,User,memo330179,2017-01-24T13:44:33Z,make the dashboard the front page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0f9371759195604009c195718d121d85bcf5f4c9
+urcpp,ff8182e8e03c6519d0f4ac9766dbc3e6ee934c8f,memo330179,User,memo330179,2017-01-20T21:26:23Z,change the width of the progress bar so that it reflects status,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ff8182e8e03c6519d0f4ac9766dbc3e6ee934c8f
+urcpp,a5b1ac4c06bff987f4e524ff1e2566e98a8caed3,memo330179,User,memo330179,2017-01-19T15:56:12Z,change accepted to decision reached. A project is not guaranteed to be accepted. We don't want to get someone's hopes up,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a5b1ac4c06bff987f4e524ff1e2566e98a8caed3
+urcpp,abf2acbc3685f479e180b99283be99e2df84dbce,memo330179,User,memo330179,2017-01-19T15:52:37Z,change function name to get the current parameters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/abf2acbc3685f479e180b99283be99e2df84dbce
+urcpp,7fd52bb1a1ecafc8a6fd415edc676501af8ee132,memo330179,User,memo330179,2017-01-19T15:25:56Z,merge,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7fd52bb1a1ecafc8a6fd415edc676501af8ee132
+urcpp,67754f45397598517b055a21b68abd8dffbc6f2e,memo330179,User,memo330179,2017-01-19T13:53:24Z,add docstring for remove files function,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/67754f45397598517b055a21b68abd8dffbc6f2e
+urcpp,de8c15be8c29daddcadec94d9edef7d191752f23,memo330179,User,memo330179,2017-01-19T13:40:14Z,make sure the buttons are aligned,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/de8c15be8c29daddcadec94d9edef7d191752f23
+urcpp,cc95b38ee858b66975e36c2639cc1b47a7aacea4,memo330179,User,memo330179,2017-01-19T13:25:05Z,add navbar tabs at the top of chair page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cc95b38ee858b66975e36c2639cc1b47a7aacea4
+urcpp,f4dea440800c5ac490e40724bc46ec4df4923faa,memo330179,User,memo330179,2017-01-19T13:24:44Z,add css for disabled check in parameters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f4dea440800c5ac490e40724bc46ec4df4923faa
+urcpp,26270bb9a7cbc94cd773e62f2efa9c864d4f3ce9,memo330179,User,memo330179,2017-01-19T13:22:42Z,add function that removes a file folder,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/26270bb9a7cbc94cd773e62f2efa9c864d4f3ce9
+urcpp,810f31df97f63cf150ee9254cd8df9e4e8e16acb,memo330179,User,memo330179,2017-01-19T13:17:05Z,diable submit button if nothing is checked,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/810f31df97f63cf150ee9254cd8df9e4e8e16acb
+urcpp,a8f3138f013e64114d29931f47fa1e53527622d5,memo330179,User,memo330179,2017-01-17T16:44:19Z,disable submit button when nothing is checked,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a8f3138f013e64114d29931f47fa1e53527622d5
+urcpp,e63607020e32e3e58329cfc16e71b122efa1a4bb,memo330179,User,memo330179,2017-01-17T15:27:35Z,make the default year the current year for downloads,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e63607020e32e3e58329cfc16e71b122efa1a4bb
+urcpp,7b825312372c7ac2bd53f85431c8d81f132c8a45,memo330179,User,memo330179,2017-01-17T15:24:36Z,add nav tabs at the top of page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7b825312372c7ac2bd53f85431c8d81f132c8a45
+urcpp,29c33fa4a4c21c99c4f64b613ffb3c77870162d0,memo330179,User,memo330179,2017-01-17T15:19:55Z,change getCurrentCycle to getCurrentParameters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/29c33fa4a4c21c99c4f64b613ffb3c77870162d0
+urcpp,dd15f1fc579067ea4b222574bb89b0735d552750,memo330179,User,memo330179,2017-01-17T15:04:24Z,change template folder from pages to chair,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/dd15f1fc579067ea4b222574bb89b0735d552750
+urcpp,728a3873a3ebe04a4bbb5fb09205b49341daf12d,memo330179,User,memo330179,2017-01-17T15:03:09Z,restructure committee templates of easier navigation,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/728a3873a3ebe04a4bbb5fb09205b49341daf12d
+urcpp,0b20db9f4f7f997e9975408faaf1fc9a47b21432,memo330179,User,memo330179,2017-01-17T14:52:25Z,restructure chair templates for easier navigation,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0b20db9f4f7f997e9975408faaf1fc9a47b21432
+urcpp,9c209ea7731294c6d2851ad1899c72c9822d6d97,memo330179,User,memo330179,2017-01-17T14:48:31Z,restructure where the templates are at for easier navigation,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9c209ea7731294c6d2851ad1899c72c9822d6d97
+urcpp,830aa27bd785c87ff6b18f1f7cadf4a4dc0bc9d4,memo330179,User,memo330179,2017-01-17T14:22:23Z,add ui to let the chair decide what the current parameter is,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/830aa27bd785c87ff6b18f1f7cadf4a4dc0bc9d4
+urcpp,4e3f9674444759c043c31b0836278e1f1014ea11,memo330179,User,memo330179,2017-01-17T14:21:18Z,add isCurrentParameter flag,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4e3f9674444759c043c31b0836278e1f1014ea11
+urcpp,37bfc131147f7acf84090af1e05a53a742581c0a,memo330179,User,memo330179,2017-01-17T14:20:36Z,change getParametes to getCurrentParameters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/37bfc131147f7acf84090af1e05a53a742581c0a
+urcpp,272020bd1382166f6da8afe88004cb8cbd01a4d1,memo330179,User,memo330179,2017-01-16T23:48:02Z,change wording of collaborator page see #76,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/272020bd1382166f6da8afe88004cb8cbd01a4d1
+urcpp,8af2a76728340b208516ed8986c669471d50988a,memo330179,User,memo330179,2017-01-16T23:40:57Z,don't get collaborators is the project is withdrawn see #86,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8af2a76728340b208516ed8986c669471d50988a
+urcpp,f2ddbc74140ec97db0317ad7e4287de07d4d408f,memo330179,User,memo330179,2017-01-12T21:38:30Z,add warning when withdrawing see #85,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f2ddbc74140ec97db0317ad7e4287de07d4d408f
+urcpp,9271ad96aaf4616971a6d93168d96e9a8ec2003d,memo330179,User,memo330179,2017-01-12T21:27:00Z,remove files when application is withdrawn see #85,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9271ad96aaf4616971a6d93168d96e9a8ec2003d
+urcpp,c8c255cd1a14e85c6f1750255f6a655a818d8205,memo330179,User,memo330179,2017-01-12T16:10:25Z,fix paths,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c8c255cd1a14e85c6f1750255f6a655a818d8205
+urcpp,246dff83257ae4a40f6a9685e54aeb332839b20b,memo330179,User,memo330179,2017-01-12T16:05:38Z,remove here variable in favor for base_path,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/246dff83257ae4a40f6a9685e54aeb332839b20b
+urcpp,52986df03233c468abcf9412230baea342a5f8b9,memo330179,User,memo330179,2017-01-12T15:15:50Z,add definition to term 'service to community' see #75,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/52986df03233c468abcf9412230baea342a5f8b9
+urcpp,cb048d6e0a1ff077a9d63cffc035f823e9363459,memo330179,User,memo330179,2017-01-10T16:29:30Z,take care of todos on page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cb048d6e0a1ff077a9d63cffc035f823e9363459
+urcpp,a116e990b8a5d012845887f69156d6ebbaae6696,memo330179,User,memo330179,2017-01-10T16:18:58Z,make function name more explicit,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a116e990b8a5d012845887f69156d6ebbaae6696
+urcpp,6ff8039d694eb9c359187a69d21736eb02541a6b,memo330179,User,memo330179,2017-01-10T15:50:59Z,change mispelling of widthdraw to withdraw part of #61,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6ff8039d694eb9c359187a69d21736eb02541a6b
+urcpp,cc458c07f6a896b4c9604b7707bab8000c1d9644,memo330179,User,memo330179,2017-01-10T14:46:44Z,fix problem with hyphenated filepaths see #83,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cc458c07f6a896b4c9604b7707bab8000c1d9644
+urcpp,b4374008b8322f0430e0e6e0b2b45b7a689788e9,memo330179,User,memo330179,2017-01-10T13:52:25Z,fix file path to static files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b4374008b8322f0430e0e6e0b2b45b7a689788e9
+urcpp,1169e1b54ba80d83326a2c69bc551015db5c470c,memo330179,User,memo330179,2016-12-14T05:26:01Z,simplify update_collaborators function,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1169e1b54ba80d83326a2c69bc551015db5c470c
+urcpp,9b27cdd7dc09af2dbb02aa4c5eb67f9e8867917f,memo330179,User,memo330179,2016-12-14T05:25:09Z,filter collaborator select,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9b27cdd7dc09af2dbb02aa4c5eb67f9e8867917f
+urcpp,63f4b45103921c01740cddbff806e2f8d85927d2,memo330179,User,memo330179,2016-12-14T04:02:23Z,correct url for checking bnumbers,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/63f4b45103921c01740cddbff806e2f8d85927d2
+urcpp,57ef9d2ec1596e88c0fff10950281d9bfe09ae93,memo330179,User,memo330179,2016-12-14T04:00:52Z,to_fields need to be unique,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/57ef9d2ec1596e88c0fff10950281d9bfe09ae93
+urcpp,f04c7f38847264a1a5abfeeee31065dae339e7a6,memo330179,User,memo330179,2016-12-14T03:58:18Z,add function to add collaborators,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f04c7f38847264a1a5abfeeee31065dae339e7a6
+urcpp,09523ffdba73d94a30d172cbc6735b9aafc8adfd,memo330179,User,memo330179,2016-12-14T03:55:50Z,we no longer have an applicationcycle table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/09523ffdba73d94a30d172cbc6735b9aafc8adfd
+urcpp,a11c758022cc1a0a4f1188a46c62bbaf9dd4d6a7,memo330179,User,memo330179,2016-12-13T02:03:51Z,name changes and remove function,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a11c758022cc1a0a4f1188a46c62bbaf9dd4d6a7
+urcpp,210dc31919ec7e8746d0d735a5b2c21e48835a34,memo330179,User,memo330179,2016-12-12T17:16:57Z,add function to get faculty based on a bnumber list,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/210dc31919ec7e8746d0d735a5b2c21e48835a34
+urcpp,865dfef34591c5315725e439b64b6dcf301418e2,memo330179,User,memo330179,2016-12-10T19:09:36Z,Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask. I goofed.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/865dfef34591c5315725e439b64b6dcf301418e2
+urcpp,3de707c7527b5f6c1305e7aa39129aacb433259d,memo330179,User,memo330179,2016-12-10T19:08:37Z,add ability to see justification behind budgets see #82,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3de707c7527b5f6c1305e7aa39129aacb433259d
+urcpp,988c42c67b30808f05806d6a33a1a6f7016c5fbc,memo330179,User,memo330179,2016-12-10T19:08:37Z,add ability to see justification behind budgets,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/988c42c67b30808f05806d6a33a1a6f7016c5fbc
+urcpp,b936ff1e811bf5447f842aa8d1701945ef7b0435,memo330179,User,memo330179,2016-12-10T18:35:41Z,erase previous file before uploading the most recent one see #81,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b936ff1e811bf5447f842aa8d1701945ef7b0435
+urcpp,d6be99fb2047f83a5b94d1cb85ea962bdb5197c5,memo330179,User,memo330179,2016-12-10T16:36:26Z,add polyfill for number see #80,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d6be99fb2047f83a5b94d1cb85ea962bdb5197c5
+urcpp,2a25d9c3f06cbfc1ce8436db7de10d44694cd28a,memo330179,User,memo330179,2016-12-07T17:28:04Z,make applications be close at 11:55 of the day they are to be closed,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2a25d9c3f06cbfc1ce8436db7de10d44694cd28a
+urcpp,8b96c1fd646552c6b7ac4d46bc63a4888f8b9f2e,memo330179,User,memo330179,2016-12-07T17:24:37Z,remove extra a letters,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8b96c1fd646552c6b7ac4d46bc63a4888f8b9f2e
+urcpp,55d370b2a3ff5513d6316982f3a48d004a622bf5,memo330179,User,memo330179,2016-12-05T19:25:17Z,add title to the modal and get rid of extra button at bottom,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/55d370b2a3ff5513d6316982f3a48d004a622bf5
+urcpp,ce0b5a36ec5d432abca8278735f13ccc372627c4,agarwali,User,agarwali,2016-12-04T03:22:51Z,updated dashboard to add master,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ce0b5a36ec5d432abca8278735f13ccc372627c4
+urcpp,807ae809bda4ff2ce68795ed4fda172459cbf53f,agarwali,User,agarwali,2016-12-02T21:45:24Z,Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/807ae809bda4ff2ce68795ed4fda172459cbf53f
+urcpp,1cc13c846fc195074ae52aad87424c2d9a8e7a0c,memo330179,User,memo330179,2016-12-02T18:35:36Z,add docstring to faculty,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1cc13c846fc195074ae52aad87424c2d9a8e7a0c
+urcpp,0297d4b1ac32754176d18e81a13e5e7bb9418f21,memo330179,User,memo330179,2016-11-30T19:03:41Z,remove unused function,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0297d4b1ac32754176d18e81a13e5e7bb9418f21
+urcpp,6f363daebc277a6c6ef3ea0b5429472f521d1071,memo330179,User,memo330179,2016-11-30T18:53:40Z,add google style doc strings,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6f363daebc277a6c6ef3ea0b5429472f521d1071
+urcpp,a8d6eb5c3a1b8ec445b92da0cf27fc7b74ded788,agarwali,User,agarwali,2016-11-29T20:27:45Z,Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a8d6eb5c3a1b8ec445b92da0cf27fc7b74ded788
+urcpp,ab7e488935575575a0faaaa3b8a0380534abdc8c,memo330179,User,memo330179,2016-11-21T19:20:36Z,change the language of IRBYN page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ab7e488935575575a0faaaa3b8a0380534abdc8c
+urcpp,ffbd592c22da2fb5b5219403459413ccd151cf72,memo330179,User,memo330179,2016-11-21T19:07:33Z,Add committee and form for it,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ffbd592c22da2fb5b5219403459413ccd151cf72
+urcpp,4c9109564e1ba7bd8d2310a24cf057170b2a6cfa,memo330179,User,memo330179,2016-11-21T19:03:45Z,change project to proj,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4c9109564e1ba7bd8d2310a24cf057170b2a6cfa
+urcpp,a869a1d6ba268dfc8a45846776db788c09446370,memo330179,User,memo330179,2016-11-21T18:57:53Z,delete files created when the path changed,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a869a1d6ba268dfc8a45846776db788c09446370
+urcpp,8e428b46386346b8e6df53d78d2ca247ef89795a,memo330179,User,memo330179,2016-11-21T18:54:48Z,remove doc functions that break the system,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8e428b46386346b8e6df53d78d2ca247ef89795a
+urcpp,e1ab170cc3c344c7d34fe19079be4144f5d549e5,memo330179,User,memo330179,2016-11-21T18:50:39Z,add docstring to functions,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e1ab170cc3c344c7d34fe19079be4144f5d549e5
+urcpp,f10e549102a7756ff2065eeb496db6702276eb39,memo330179,User,memo330179,2016-11-21T18:49:48Z,add docstring to the functions,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f10e549102a7756ff2065eeb496db6702276eb39
+urcpp,4620e2e23f0d58798d193c4125112cb7b0c79e13,memo330179,User,memo330179,2016-11-21T18:48:45Z,change the path of file uploads,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4620e2e23f0d58798d193c4125112cb7b0c79e13
+urcpp,d6199525e4f2aef5c5b56830a1f0585e33203d7d,memo330179,User,memo330179,2016-11-18T18:29:39Z,fix parameters and prettify table see #56,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d6199525e4f2aef5c5b56830a1f0585e33203d7d
+urcpp,58880578f61bfe144c8ac04ef56690d6c58968e8,memo330179,User,memo330179,2016-11-16T19:24:13Z,add manage committee UI see #33,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/58880578f61bfe144c8ac04ef56690d6c58968e8
+urcpp,545cd98a1651103ccdc702c07100174bc46a2da9,agarwali,User,agarwali,2016-10-26T21:17:02Z,"some changes to dashboard, database stopped working",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/545cd98a1651103ccdc702c07100174bc46a2da9
+urcpp,d7b5b359467e651d9e1ec46576fa2bd283ff55a5,memo330179,User,memo330179,2016-11-07T18:32:19Z,don't get the project for a faculty if it is withdrawn,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d7b5b359467e651d9e1ec46576fa2bd283ff55a5
+urcpp,c2d79c5beeb23328faea55b9772293ad445bd096,memo330179,User,memo330179,2016-11-04T17:48:48Z,make the application modular and separate logical chunks out,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c2d79c5beeb23328faea55b9772293ad445bd096
+urcpp,67a48831e9412262859dd0870bd109c748f1dec7,memo330179,User,memo330179,2016-11-02T17:41:29Z,cleanup~,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/67a48831e9412262859dd0870bd109c748f1dec7
+urcpp,615c64cf59f0ec07c065e2a637eb34ab4d8fcbd4,memo330179,User,memo330179,2016-11-02T16:23:22Z,clean up files and move to different submodules,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/615c64cf59f0ec07c065e2a637eb34ab4d8fcbd4
+urcpp,24bdda61ced172d34058df919ad592b6ea7e802c,memo330179,User,memo330179,2016-10-31T18:20:51Z,give user abaility to widthdraw,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/24bdda61ced172d34058df919ad592b6ea7e802c
+urcpp,a5b6559ea9d94e399ea74b57665f1b8af65268f5,memo330179,User,memo330179,2016-10-25T20:53:40Z,present the correct information see #64,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a5b6559ea9d94e399ea74b57665f1b8af65268f5
+urcpp,4d737a3adde2428ae7d30643782b02cbb45d59b3,memo330179,User,memo330179,2016-10-25T20:35:27Z,add capability to delete parameters see #70,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4d737a3adde2428ae7d30643782b02cbb45d59b3
+urcpp,5a618d8c0bee23cabaee6d573d8a54c6ddfdc2ee,memo330179,User,memo330179,2016-10-25T20:08:19Z,give correct path for pages and files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5a618d8c0bee23cabaee6d573d8a54c6ddfdc2ee
+urcpp,033086bc8986694533d50347c6de2dbd8d5f4a7f,memo330179,User,memo330179,2016-10-25T18:40:29Z,install pymysql,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/033086bc8986694533d50347c6de2dbd8d5f4a7f
+urcpp,3f50bed6afba0f8d6ad0c79386091261db7039a9,memo330179,User,memo330179,2016-10-25T18:40:03Z,remove unused files and change the init to point to new ones,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3f50bed6afba0f8d6ad0c79386091261db7039a9
+urcpp,a2c6bbaf4d35fab47260e21a850c406506ecda61,memo330179,User,memo330179,2016-10-25T18:39:01Z,separate the pages that make the form work,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a2c6bbaf4d35fab47260e21a850c406506ecda61
+urcpp,be1b3459e91797306d39fa02a37cdbc45e8b73dc,memo330179,User,memo330179,2016-10-25T00:31:59Z,separate committee functionality into it's own module,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/be1b3459e91797306d39fa02a37cdbc45e8b73dc
+urcpp,db690f6e07edfd57cd7b36e8e714b0b83d3f085b,memo330179,User,memo330179,2016-10-25T00:31:17Z,separate chair functionality into its own module,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/db690f6e07edfd57cd7b36e8e714b0b83d3f085b
+urcpp,7b8c00dabf39d9d054d3e796c02e727299f33653,memo330179,User,memo330179,2016-10-24T18:22:10Z,use flask_login for authorization rather than our created tool,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7b8c00dabf39d9d054d3e796c02e727299f33653
+urcpp,87107583a2850fcb39753976ba4e0edf2d9fc5b1,memo330179,User,memo330179,2016-10-18T17:49:11Z,remove useless file,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/87107583a2850fcb39753976ba4e0edf2d9fc5b1
+urcpp,0f19a62d630b911d935a20b7236c68a0481154f0,memo330179,User,memo330179,2016-10-18T17:47:47Z,remove unused import,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0f19a62d630b911d935a20b7236c68a0481154f0
+urcpp,17a7ba59127d9f0d2af9b5d613a987985267da56,memo330179,User,memo330179,2016-10-17T23:49:26Z,add logic to use flask_login,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/17a7ba59127d9f0d2af9b5d613a987985267da56
+urcpp,79359d96e978860d8d5f92a7d583a6069ccee7bf,memo330179,User,memo330179,2016-10-16T14:58:44Z,add TODO,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/79359d96e978860d8d5f92a7d583a6069ccee7bf
+urcpp,a03d1b0e5234492819c89c6506933e253fa6ff4b,memo330179,User,memo330179,2016-10-16T14:48:45Z,add todo,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a03d1b0e5234492819c89c6506933e253fa6ff4b
+urcpp,5d116cf2d5a537b668239a77f45330bcaef5192c,memo330179,User,memo330179,2016-10-16T14:46:54Z,remove unused variables and imports,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5d116cf2d5a537b668239a77f45330bcaef5192c
+urcpp,74f7c4b08ac6edc3fbfb23d2f1cbf00eadc7a846,memo330179,User,memo330179,2016-10-16T14:31:01Z,add todo to all projects,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/74f7c4b08ac6edc3fbfb23d2f1cbf00eadc7a846
+urcpp,e3006b7f8d328f4ec9da461829365f2d03deb8f9,memo330179,User,memo330179,2016-10-16T14:29:22Z,remove unused variable and imports,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e3006b7f8d328f4ec9da461829365f2d03deb8f9
+urcpp,7ab89cc6a5c681b584e66efc03c2a5031d901243,memo330179,User,memo330179,2016-10-16T14:09:28Z,remove unused variable and imports,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7ab89cc6a5c681b584e66efc03c2a5031d901243
+urcpp,059d21b90db620883515377ed108433e761fdc5a,memo330179,User,memo330179,2016-10-16T14:05:28Z,remove unused imports,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/059d21b90db620883515377ed108433e761fdc5a
+urcpp,071be1b76633e95b3f711ea1498299ca70c8967d,memo330179,User,memo330179,2016-10-16T14:03:23Z,remove unused variable and imports,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/071be1b76633e95b3f711ea1498299ca70c8967d
+urcpp,179a0e21d1be879aeb2b032ec3c82dfd8c22fd9b,memo330179,User,memo330179,2016-10-16T00:30:26Z,remove unused variables and imports,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/179a0e21d1be879aeb2b032ec3c82dfd8c22fd9b
+urcpp,25eeafa5fbf10d6340e3dc14b37ca2c455dbcd3e,memo330179,User,memo330179,2016-10-16T00:16:08Z,remove commented out unused code,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/25eeafa5fbf10d6340e3dc14b37ca2c455dbcd3e
+urcpp,e5e2dce306e35127d50d3b913461ef806ad42869,memo330179,User,memo330179,2016-10-16T00:15:31Z,add the new columns to the table isChair isCommittee,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e5e2dce306e35127d50d3b913461ef806ad42869
+urcpp,8682aaff97ef0fdc370a93f8d6bce57b9603434e,memo330179,User,memo330179,2016-10-16T00:10:06Z,keep with conventions,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8682aaff97ef0fdc370a93f8d6bce57b9603434e
+urcpp,973dd0d1062882de6fa9b96b17910521cf9589ba,memo330179,User,memo330179,2016-10-16T00:05:45Z,add script to migrate database,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/973dd0d1062882de6fa9b96b17910521cf9589ba
+urcpp,9641b5435b6e92691b55396f0250de0eaf334042,memo330179,User,memo330179,2016-10-16T00:04:12Z,add isAuthorized method so the app doesn't break,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9641b5435b6e92691b55396f0250de0eaf334042
+urcpp,97e5a9a90a3793c0ecfac1f360d926d0d1e5b37c,memo330179,User,memo330179,2016-10-15T23:58:27Z,use authTool to show correct information,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/97e5a9a90a3793c0ecfac1f360d926d0d1e5b37c
+urcpp,05e13c7601d8cccb69096a55e2683f1771ddcb47,memo330179,User,memo330179,2016-10-15T23:54:49Z,remove import of authtool. It was a circular import,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/05e13c7601d8cccb69096a55e2683f1771ddcb47
+urcpp,068624ab41a3e14d6dffe24873360d88b2567aae,memo330179,User,memo330179,2016-10-15T23:44:34Z,add functions to authenticate user,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/068624ab41a3e14d6dffe24873360d88b2567aae
+urcpp,bb9d1d731919f867e35cf0a5a0f868b41f963f0a,agarwali,User,agarwali,2016-10-13T01:18:51Z,Started creating dashboard with timeline,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bb9d1d731919f867e35cf0a5a0f868b41f963f0a
+urcpp,cf070a8f53c833765ff9436caca25e3bc41429b1,agarwali,User,agarwali,2016-10-13T00:27:53Z,forgot to uncomment secure key,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cf070a8f53c833765ff9436caca25e3bc41429b1
+urcpp,be59c6356bc41f1d86950dc1b32eb5bc6d4daf47,agarwali,User,agarwali,2016-10-13T00:09:50Z,user cannot visit form after submitting project and added a done button on projectview page to dynamically got back to the previous page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/be59c6356bc41f1d86950dc1b32eb5bc6d4daf47
+urcpp,f7b9f8d29922617fc22fe23ca10b6b50607ac5ae,agarwali,User,agarwali,2016-09-22T01:02:04Z,created an Authorized class and blocked user from updating form if project status not incomplete,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f7b9f8d29922617fc22fe23ca10b6b50607ac5ae
+urcpp,4161ea6d4b512869810aece59370d8680c30bd7b,memo330179,User,memo330179,2016-10-12T18:36:15Z,add table to bottom of set parameters to show past parameters see #56,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4161ea6d4b512869810aece59370d8680c30bd7b
+urcpp,082fd32fdf578b301309c3cba9a01052fa5c4604,memo330179,User,memo330179,2016-10-12T18:23:10Z,remove padding and change milage to mileage see #57 and #55,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/082fd32fdf578b301309c3cba9a01052fa5c4604
+urcpp,7470356dcb1eef72d845fbc973ddde0057122667,memo330179,User,memo330179,2016-10-12T18:15:35Z,create a table that gives the history of projects for an individual,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7470356dcb1eef72d845fbc973ddde0057122667
+urcpp,26b588036a84c55aa687ca084111f1d2ade53962,memo330179,User,memo330179,2016-10-09T20:23:51Z,add api endpoint to get project,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/26b588036a84c55aa687ca084111f1d2ade53962
+urcpp,3e416ff704d44bbed1026b73734e170320c3283b,memo330179,User,memo330179,2016-10-09T20:04:38Z,change check for file so that we can get files from more than one year,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3e416ff704d44bbed1026b73734e170320c3283b
+urcpp,9741de9037972b397082cbc8a50f8462a5e89cf7,memo330179,User,memo330179,2016-10-09T19:53:14Z,make projects links to their info,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9741de9037972b397082cbc8a50f8462a5e89cf7
+urcpp,6687dfecedf043e4c8c29e672f8dbdd991588476,memo330179,User,memo330179,2016-10-09T19:32:29Z,add onclick to show modal with projects,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6687dfecedf043e4c8c29e672f8dbdd991588476
+urcpp,fbc21f1e9368e91195f3b867e155877cfa7d32ce,memo330179,User,memo330179,2016-10-09T19:29:25Z,add table with history of projects,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fbc21f1e9368e91195f3b867e155877cfa7d32ce
+urcpp,c58ca30584fa2c0b636ce95d8d3cc2d2115392f2,memo330179,User,memo330179,2016-10-08T17:30:22Z,add the parameter to getCurrentFaculty because there were errors,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c58ca30584fa2c0b636ce95d8d3cc2d2115392f2
+urcpp,44a63104a32a716bea77eb187ef8bf553989d51c,memo330179,User,memo330179,2016-10-08T17:10:33Z,remove application cycle from database,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/44a63104a32a716bea77eb187ef8bf553989d51c
+urcpp,81170b2eccd49a8e80edb882e9f79eaef3cfca97,memo330179,User,memo330179,2016-10-08T17:09:51Z,make the functions that get the history for a particular faculty member,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/81170b2eccd49a8e80edb882e9f79eaef3cfca97
+urcpp,5eaa6ffff5a20b755cf03268bc2a57de08c8ee68,memo330179,User,memo330179,2016-10-08T17:07:13Z,change getAllProjects to getAllCurrentProjects so we are only getting the projects for a particular cycle,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5eaa6ffff5a20b755cf03268bc2a57de08c8ee68
+urcpp,ecafb7de9071729b14971b60e92e3191c931e692,memo330179,User,memo330179,2016-10-05T18:14:20Z,remove references to ApplicationCycle table in favor of Parameters table,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ecafb7de9071729b14971b60e92e3191c931e692
+urcpp,bf24ecc08d2d43ec17fcabd1229cc591284637e8,memo330179,User,memo330179,2016-10-03T18:12:45Z,add status on review page see #36,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bf24ecc08d2d43ec17fcabd1229cc591284637e8
+urcpp,10c2a2d67a010370c68c4fbc4acaf48d14171275,sheggen,User,sheggen,2016-09-30T12:51:20Z,Modified config.yaml with new IRB chair,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/10c2a2d67a010370c68c4fbc4acaf48d14171275
+urcpp,54ae0850a5585f9c481f9f72f18c23d9e6b48c6b,agarwali,User,agarwali,2016-09-28T23:44:11Z,end date now working on all browsers. Solves issue #52,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/54ae0850a5585f9c481f9f72f18c23d9e6b48c6b
+urcpp,881525ceff05cb498fa466107d75104bbb2ccfb8,Guillermo Ramos Macias,,Guillermo Ramos Macias,2016-09-28T15:53:23Z,remove debug code,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/881525ceff05cb498fa466107d75104bbb2ccfb8
+urcpp,10381e57fc912193f737526229ef55eccfdaefab,memo330179,User,memo330179,2016-09-27T20:40:48Z,post bnumbers instead of passing them through #28,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/10381e57fc912193f737526229ef55eccfdaefab
+urcpp,95504444582dcb8b4c9df0b437c8a35a6289452d,memo330179,User,memo330179,2016-09-27T18:32:51Z,add never as a option for funding #38,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/95504444582dcb8b4c9df0b437c8a35a6289452d
+urcpp,255b1163b0aed2095cb048542908b30cf63b2f22,memo330179,User,memo330179,2016-09-27T18:19:35Z,remove code for production,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/255b1163b0aed2095cb048542908b30cf63b2f22
+urcpp,d6a8255fb009dda3c13238f37e55c24ddc86d39a,Guillermo Ramos Macias,,Guillermo Ramos Macias,2016-09-27T00:03:25Z,all files now downloads zip file.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d6a8255fb009dda3c13238f37e55c24ddc86d39a
+urcpp,1904d15ef0e85491bbd9bc35f2670ddd0bc178ca,Guillermo Ramos Macias,,Guillermo Ramos Macias,2016-09-26T18:38:36Z,make sure that the right year is being used. The year is for the project is not the year of the application cycle,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1904d15ef0e85491bbd9bc35f2670ddd0bc178ca
+urcpp,7bd9d2081a6e1c27e7b3c40a4c2dacae89f61a3f,memo330179,User,memo330179,2016-09-26T17:36:41Z,look for application cycle based on the dat,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7bd9d2081a6e1c27e7b3c40a4c2dacae89f61a3f
+urcpp,dc1d3a6d0d907664e6c587dba77bcb02722eb9b8,agarwali,User,agarwali,2016-09-21T23:57:03Z,Added email to for accepted and rejected projects. solves issue #43,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/dc1d3a6d0d907664e6c587dba77bcb02722eb9b8
+urcpp,0b82d49fc4cce44ba4cb4a7066717a7a4c718354,Guillermo Ramos Macias,,Guillermo Ramos Macias,2016-09-21T22:53:47Z,flash success message,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0b82d49fc4cce44ba4cb4a7066717a7a4c718354
+urcpp,e07b21c32a6730f283da512512c6acac48700550,Guillermo Ramos Macias,,Guillermo Ramos Macias,2016-09-21T22:45:20Z,fix parameters page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e07b21c32a6730f283da512512c6acac48700550
+urcpp,bf21d4a7da8ab11b113cd8d447a58feb41eed029,Guillermo Ramos Macias,,Guillermo Ramos Macias,2016-09-21T22:43:45Z,do not include secret keys,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bf21d4a7da8ab11b113cd8d447a58feb41eed029
+urcpp,6bf12867d32f0adb39094f5d97d97b287b29d92b,memo330179,User,memo330179,2016-09-21T22:07:38Z,add chair interface,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6bf12867d32f0adb39094f5d97d97b287b29d92b
+urcpp,b11ed73578d6d59b0ad9454359a261cc10d4d2b9,memo330179,User,memo330179,2016-09-19T16:37:32Z,fix merge issue,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b11ed73578d6d59b0ad9454359a261cc10d4d2b9
+urcpp,d8b51f5b3ab4d0706857ed5349b154c8af651012,memo330179,User,memo330179,2016-09-19T16:34:44Z,fix pages breaking because there is no data in urcpp,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d8b51f5b3ab4d0706857ed5349b154c8af651012
+urcpp,7d7a12c53f5bd036f6bef8197ff8796743198384,Guillermo Ramos,,Guillermo Ramos,2016-09-14T18:27:17Z,fix download for sure,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7d7a12c53f5bd036f6bef8197ff8796743198384
+urcpp,f9056ba7142c064eb91fddf600b719226ceab1a9,Guillermo Ramos,,Guillermo Ramos,2016-09-14T18:24:40Z,fix downloads .. mostly,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f9056ba7142c064eb91fddf600b719226ceab1a9
+urcpp,86b0d0899f9a7d6a3af8c5154765070ba999db3e,agarwali,User,agarwali,2016-09-12T21:25:23Z,Fixed excel download on allBugets and allLabor page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/86b0d0899f9a7d6a3af8c5154765070ba999db3e
+urcpp,dae4d19b14806d961de0a8ec2bb441500fe0a956,agarwali,User,agarwali,2016-09-09T20:57:38Z,Merge branch 'feature/year' of https://bitbucket.org/jadudm/urcpp-flask into feature/year,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/dae4d19b14806d961de0a8ec2bb441500fe0a956
+urcpp,c691413ef2dfd264c64033a493ec5513a78e8fe4,agarwali,User,agarwali,2016-09-09T20:55:19Z,trying to fix downloads,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c691413ef2dfd264c64033a493ec5513a78e8fe4
+urcpp,1e9575f47208012ada818abc12a253a19fe37f90,agarwali,User,agarwali,2016-09-09T20:02:47Z,Merge branch 'feature/year' of bitbucket.org:jadudm/urcpp-flask into feature/year,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1e9575f47208012ada818abc12a253a19fe37f90
+urcpp,712a5e9dd4f010c2a685f2417ac4d5301f4f5b48,Guillermo Ramos,,Guillermo Ramos,2016-09-09T16:30:16Z,fix error with name,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/712a5e9dd4f010c2a685f2417ac4d5301f4f5b48
+urcpp,6cb4e9bc3c9ed26379f9f0ca2fbeb0d67d6d8d33,Guillermo Ramos,,Guillermo Ramos,2016-09-09T02:51:53Z,get rid of logger since we are not on prod,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6cb4e9bc3c9ed26379f9f0ca2fbeb0d67d6d8d33
+urcpp,0423b9f8c9ba11434771426edf0283ef5ce144f4,Guillermo Ramos,,Guillermo Ramos,2016-09-09T02:29:49Z,merge branch,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0423b9f8c9ba11434771426edf0283ef5ce144f4
+urcpp,31129c0d621ef39a4597433fe716afd514854955,Guillermo Ramos,,Guillermo Ramos,2016-09-07T23:47:55Z,modify file paths for the files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/31129c0d621ef39a4597433fe716afd514854955
+urcpp,f7498c41b760961d15ddfd2aa188bdddec2cda34,Guillermo Ramos,,Guillermo Ramos,2016-09-07T23:30:56Z,change the filepath,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f7498c41b760961d15ddfd2aa188bdddec2cda34
+urcpp,ce5aa169b007f7e74e5f5b64f708bc8e3be5fe66,Guillermo Ramos,,Guillermo Ramos,2016-09-07T23:23:06Z,open up submissions for testing pourposes,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ce5aa169b007f7e74e5f5b64f708bc8e3be5fe66
+urcpp,b805315af559751bf2a0e5731bbed7ca054235e5,Guillermo Ramos,,Guillermo Ramos,2016-09-07T23:21:55Z,use correct database connection,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b805315af559751bf2a0e5731bbed7ca054235e5
+urcpp,febf20b6e916afd1da84886a3d8c978d39c22afd,Guillermo Ramos,,Guillermo Ramos,2016-09-07T23:18:51Z,add relative path fix and test that debug code doesn't make past dev,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/febf20b6e916afd1da84886a3d8c978d39c22afd
+urcpp,a0a38d3578084fbb1974dc4608b3c50b8343c5cf,Guillermo Ramos,,Guillermo Ramos,2016-09-07T23:13:05Z,add a filter that will allows me to write debug code on dev that wont transfer to production,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a0a38d3578084fbb1974dc4608b3c50b8343c5cf
+urcpp,8010742a30c1ad4f39cc0f5a67e031bfcdc9e419,agarwali,User,agarwali,2016-09-07T16:24:08Z,Merge branch 'feature/year' of bitbucket.org:jadudm/urcpp-flask into feature/year,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8010742a30c1ad4f39cc0f5a67e031bfcdc9e419
+urcpp,b0ca34644f2b55c0eb235e48f18d4f42a3d26642,memo330179,User,memo330179,2016-09-07T01:00:14Z,don't create dummy data,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b0ca34644f2b55c0eb235e48f18d4f42a3d26642
+urcpp,c325a6a2d7f8adcfdb575718ade8338cd9a02734,memo330179,User,memo330179,2016-09-06T22:32:28Z,add year to the database,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c325a6a2d7f8adcfdb575718ade8338cd9a02734
+urcpp,68e937433ab9d5b6b43febd85955d4499c98dfa5,memo330179,User,memo330179,2016-09-06T22:30:59Z,fix spelling issue,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/68e937433ab9d5b6b43febd85955d4499c98dfa5
+urcpp,b3bf58711c446fc0c3779a9d3d404c1073e3e82b,memo330179,User,memo330179,2016-09-06T01:20:32Z,add api endpoint for getting a project based on parameters see #46,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b3bf58711c446fc0c3779a9d3d404c1073e3e82b
+urcpp,8aa6463b566bf3a55c4fe5e626063abbb058093b,agarwali,User,agarwali,2016-09-05T22:01:34Z,"Added Upload abstract annd final report to dashboard, and add checks for current cycle is active or not",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8aa6463b566bf3a55c4fe5e626063abbb058093b
+urcpp,ce9395b7700fd4161c42a7ff831edc844cb93dac,agarwali,User,agarwali,2016-09-05T20:25:08Z,Merge branch 'feature/year' of bitbucket.org:jadudm/urcpp-flask into feature/year,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ce9395b7700fd4161c42a7ff831edc844cb93dac
+urcpp,2fa020652b77d6b404aef1d5b534feb87fbe3ea0,memo330179,User,memo330179,2016-09-05T18:35:08Z,return the object from the function otherwise we will get a Nonetype,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2fa020652b77d6b404aef1d5b534feb87fbe3ea0
+urcpp,3206fc99f7d87b8a2bac7849198408f0a25589a5,memo330179,User,memo330179,2016-09-05T18:33:15Z,make the year the primary key on application cycle for better readability,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3206fc99f7d87b8a2bac7849198408f0a25589a5
+urcpp,e3a3bc0ba10238fbe18c671fd448327952142995,memo330179,User,memo330179,2016-09-05T18:17:34Z,fix indentation issue,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e3a3bc0ba10238fbe18c671fd448327952142995
+urcpp,8f7e170842c6c4c3e1b69a0f9268bc66d02944d5,memo330179,User,memo330179,2016-09-05T17:49:32Z,create new function to take care of the by year get old functions should still work see #45,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8f7e170842c6c4c3e1b69a0f9268bc66d02944d5
+urcpp,e9859c92c508057ea0088e79d4c0dbab9db27fad,memo330179,User,memo330179,2016-09-05T17:38:40Z,point the database to the c9 database for dev developing,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e9859c92c508057ea0088e79d4c0dbab9db27fad
+urcpp,ed36fb50415d1848065ba37c327540f4a6c750a3,agarwali,User,agarwali,2016-08-21T20:46:46Z,Merge branch 'develop' of bitbucket.org:jadudm/urcpp-flask into feature/year,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ed36fb50415d1848065ba37c327540f4a6c750a3
+urcpp,c0e60fc0692eeae2981874b28e5e0243392bd6c9,agarwali,User,agarwali,2016-08-13T19:35:14Z,Added readme,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c0e60fc0692eeae2981874b28e5e0243392bd6c9
+urcpp,fafb4f81144efeab412b0f4600233f005ecdf7cc,agarwali,User,agarwali,2016-08-13T19:00:22Z,Added Application Cycle in the model and made some query changes to add application cycle,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fafb4f81144efeab412b0f4600233f005ecdf7cc
+urcpp,f6ccd80362cbbc9297c58ddf932170d8bcfa340d,agarwali,User,agarwali,2016-08-10T17:05:01Z,Added Download Labor and Budget Excel Sheet and fixed the voting i to be a popover on click from tooltip,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f6ccd80362cbbc9297c58ddf932170d8bcfa340d
+urcpp,5bc7e1eafe7f5250b252e40e7ad9c5e3c5560246,agarwali,User,agarwali,2016-08-04T16:10:06Z,"Added endDate in models, create.py now saves endDate, and allProjects.html displays endDate",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5bc7e1eafe7f5250b252e40e7ad9c5e3c5560246
+urcpp,3464e4b34580c7238be41e22b153a5b0a4c80b73,agarwali,User,agarwali,2016-08-04T14:53:50Z,"Changed status Reject to Deny and included project end date in front end
+
+Changed the language for reject to deny in config.yaml, and added end date in the /create.html that is calculated by duration + start date using jQuery and javaScript.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3464e4b34580c7238be41e22b153a5b0a4c80b73
+urcpp,19916a13e80e8ca9dd327c7abfb845b244e495cf,sheggen,User,sheggen,2016-04-08T00:11:38Z,Shibb Update,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/19916a13e80e8ca9dd327c7abfb845b244e495cf
+urcpp,9ddaf3a0b280c3d23e0e861727c3d896d63b2f2d,sheggen,User,sheggen,2016-03-23T22:10:40Z,pages not collecting from database 500 internal server error,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9ddaf3a0b280c3d23e0e861727c3d896d63b2f2d
+urcpp,f55f2ccdc81846d2858490e30d10672401c7bdf5,jadudm,User,jadudm,2016-01-29T03:08:25Z,fix hover animation,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f55f2ccdc81846d2858490e30d10672401c7bdf5
+urcpp,4e58f88c4e545aa2d32e0d55767ab9cf43b657b3,jadudm,User,jadudm,2016-01-29T02:49:09Z,made allVotes animations smoother,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4e58f88c4e545aa2d32e0d55767ab9cf43b657b3
+urcpp,b004011f04afe6ed50c47e971e76c59684e7f65b,jadudm,User,jadudm,2016-01-29T02:35:45Z,applied bootstrap classes to things,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b004011f04afe6ed50c47e971e76c59684e7f65b
+urcpp,6a4cdf75c3a71142cb44764e807a3c7abb32d4c8,jadudm,User,jadudm,2016-01-29T01:34:29Z,Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6a4cdf75c3a71142cb44764e807a3c7abb32d4c8
+urcpp,6c5dd54751c2ac01222ba546a6cc6e062dbb919e,jadudm,User,jadudm,2016-01-29T01:33:57Z,allvotes col titles animated,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6c5dd54751c2ac01222ba546a6cc6e062dbb919e
+urcpp,4fc7ba2bd4c8cd7f5270713fb4d7ab94b7af192b,sheggen,User,sheggen,2016-01-29T01:07:01Z,Fixed float display on allBudgets to display cents correctly,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4fc7ba2bd4c8cd7f5270713fb4d7ab94b7af192b
+urcpp,2ed4e6365f1f66d09e274ccf0a6a7252382fa4ba,jadudm,User,jadudm,2016-01-29T00:50:37Z,added collabs on projects page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2ed4e6365f1f66d09e274ccf0a6a7252382fa4ba
+urcpp,d7e2d89590052d943e703b3f042cf62fc1ccdb5c,jadudm,User,jadudm,2016-01-29T00:29:20Z,del folders after 30mins on page load,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d7e2d89590052d943e703b3f042cf62fc1ccdb5c
+urcpp,49437a3ed1081c2a8bd5a8a4c5a29fedf8510807,jadudm,User,jadudm,2016-01-28T02:28:21Z,fixed downloading with collaborator files included,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/49437a3ed1081c2a8bd5a8a4c5a29fedf8510807
+urcpp,0518ba7f607ffa221818c1287b276efa9e4b4090,sheggen,User,sheggen,2016-01-25T21:31:26Z,resolving conflict,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0518ba7f607ffa221818c1287b276efa9e4b4090
+urcpp,1ce8fc5d8163fee20148e426e9bc4bf1f86e65ca,sheggen,User,sheggen,2016-01-25T15:23:59Z,Closed submissions on prod,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1ce8fc5d8163fee20148e426e9bc4bf1f86e65ca
+urcpp,5212e5e0378138af6458e75693772648e9f51638,jadudm,User,jadudm,2016-01-25T14:42:11Z,Minor UI fixes in castVotes,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5212e5e0378138af6458e75693772648e9f51638
+urcpp,6020131f46d7c61abd3fa989ca81a043e91475ec,jadudm,User,jadudm,2016-01-22T02:53:30Z,Added comments section to voting page on castVotes,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6020131f46d7c61abd3fa989ca81a043e91475ec
+urcpp,6b255eecbccc3cea612d71dd2a31ca47eb05bc4f,jadudm,User,jadudm,2016-01-22T02:40:50Z,"Added voting functionality for each page, with the correct rubric. Fixed budget page to correct mileage rate correctly. Fixed menu (removed cast votes link).",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6b255eecbccc3cea612d71dd2a31ca47eb05bc4f
+urcpp,7cad38ebb691a5e75ff9b3cdca8b2fc76d877e56,sheggen,User,sheggen,2016-01-18T18:25:19Z,Merge branch 'master' of https://bitbucket.org/jadudm/urcpp-flask,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7cad38ebb691a5e75ff9b3cdca8b2fc76d877e56
+urcpp,6234d498ae6723ead686468c9e9a4df35bc5dced,sheggen,User,sheggen,2016-01-18T18:04:30Z,Fixed link for previous uploaded files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6234d498ae6723ead686468c9e9a4df35bc5dced
+urcpp,47bc30905bdea106230d8c986187f28ad98dd13a,sheggen,User,sheggen,2016-01-18T16:39:08Z,minor fixes to allBudgets and allLabor and allVotes so they render correct data,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/47bc30905bdea106230d8c986187f28ad98dd13a
+urcpp,cf92786069d9dadaf9f36209c7b409bfa57e1d8a,jadudm,User,jadudm,2016-01-18T16:38:30Z,Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cf92786069d9dadaf9f36209c7b409bfa57e1d8a
+urcpp,1a03930fe6b682322adacfd4d0e97767603b0364,jadudm,User,jadudm,2016-01-15T20:04:34Z,"Error with Bnumbers and collaborators
+
+It is unclear how this did not trip previously... we were referencing
+into objects too deeply? The changes get rid of the double drill down
+into the faculty objects... but... why did this not crash before?",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1a03930fe6b682322adacfd4d0e97767603b0364
+urcpp,95477f27e1d51a9132e9995e7cd245aa4e1b0506,jadudm,User,jadudm,2016-01-15T19:48:25Z,Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/95477f27e1d51a9132e9995e7cd245aa4e1b0506
+urcpp,505889d1d8d332483a18d8c663f304cd68e0c7fa,jadudm,User,jadudm,2016-01-15T19:48:17Z,syncing new changes in voting,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/505889d1d8d332483a18d8c663f304cd68e0c7fa
+urcpp,d17b147a77dd8bea978bce1c6bfcbcdeab1cde87,sheggen,User,sheggen,2016-01-15T15:55:31Z,Fixed voting issue; added contact info for issues,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d17b147a77dd8bea978bce1c6bfcbcdeab1cde87
+urcpp,17601068177781015000898d3c3cdb6c19c51d9a,jadudm,User,jadudm,2016-01-05T21:28:49Z,Unchecked incomplete in filteres on allbudgets page; this time it works,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/17601068177781015000898d3c3cdb6c19c51d9a
+urcpp,2360be7bc284209f12d2bfbe8c62f67d8baa45a3,jadudm,User,jadudm,2016-01-05T21:24:19Z,Unchecked incomplete in filteres on allbudgets page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2360be7bc284209f12d2bfbe8c62f67d8baa45a3
+urcpp,455b3a6acf3cb980c6f5286dfaa8529d6d3cf3b7,jadudm,User,jadudm,2016-01-05T21:19:31Z,Fixed file download issue with inconsistent file paths,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/455b3a6acf3cb980c6f5286dfaa8529d6d3cf3b7
+urcpp,3829d3189d89598aa8a9a3a7e97fa8c0024e968b,sheggen,User,sheggen,2016-01-05T20:22:49Z,removed a comment which was crashing a page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3829d3189d89598aa8a9a3a7e97fa8c0024e968b
+urcpp,5fabca58d21793d4124a428a970b5813315a664a,jadudm,User,jadudm,2016-01-05T19:56:54Z,Adding new files for admin interface,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5fabca58d21793d4124a428a970b5813315a664a
+urcpp,e5ea639fb22b1666d6b8da8fca4aac86f6825dd8,jadudm,User,jadudm,2016-01-05T19:30:06Z,small tweaks to committee UI. Ready for prod.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e5ea639fb22b1666d6b8da8fca4aac86f6825dd8
+urcpp,c78799273ef281726094d2c905ca08518cf4f61f,jadudm,User,jadudm,2015-12-20T03:22:09Z,fixed IRB Y/N Radio prepopulating based on previous responses,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c78799273ef281726094d2c905ca08518cf4f61f
+urcpp,ce5af9ea525fb8ed3141cbf56a400f51c16e234c,jadudm,User,jadudm,2015-12-20T03:12:29Z,Added link to current file on all upload pages.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ce5af9ea525fb8ed3141cbf56a400f51c16e234c
+urcpp,17dcb73fb7f700a6a85a191297b6231d27ad533c,jadudm,User,jadudm,2015-12-20T02:49:40Z,adding allVotes files to previous commit,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/17dcb73fb7f700a6a85a191297b6231d27ad533c
+urcpp,cfbcc7e596958e84d0beeabf492578220d0745b5,jadudm,User,jadudm,2015-12-20T02:48:56Z,Committee pages are all created and appear to be working as planned. Also fixed the int/float problem on the budget page of the form.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/cfbcc7e596958e84d0beeabf492578220d0745b5
+urcpp,e313bee68a1e83af748d3e1afd4131949e9161df,jadudm,User,jadudm,2015-12-17T01:25:20Z,Add all the files dummy!,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e313bee68a1e83af748d3e1afd4131949e9161df
+urcpp,d69cb2cfaab2ac340df7318cdd2d6e67c70ac3af,jadudm,User,jadudm,2015-12-17T01:24:56Z,Voting works!,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d69cb2cfaab2ac340df7318cdd2d6e67c70ac3af
+urcpp,95f9eceab434aface58022b451fb1049c65b7136,jadudm,User,jadudm,2015-12-14T20:30:50Z,Forgot a couple files from previous commit,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/95f9eceab434aface58022b451fb1049c65b7136
+urcpp,8c2f6ae2ae44a0b40038f04c7193734363105cea,jadudm,User,jadudm,2015-12-14T20:29:43Z,"Commitee pages ready to ship: allBudget, allProjects, allLabor, allFiles.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8c2f6ae2ae44a0b40038f04c7193734363105cea
+urcpp,afb42e343388d529a1fbd1a9bc6fa92bdb4916db,jadudm,User,jadudm,2015-12-12T02:50:46Z,"allBudgets mostly working, except name; marking this point before I overhaul to get the right name",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/afb42e343388d529a1fbd1a9bc6fa92bdb4916db
+urcpp,d3645634e59080244d766a232e34c0e0ba67e4d9,jadudm,User,jadudm,2015-12-11T05:14:10Z,Adding allProjects files,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d3645634e59080244d766a232e34c0e0ba67e4d9
+urcpp,1b5e5fda6b429ebf4504ae0dedca9cdba284aa3b,jadudm,User,jadudm,2015-12-11T05:13:03Z,Adds rows in allBudgets page correctly,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1b5e5fda6b429ebf4504ae0dedca9cdba284aa3b
+urcpp,0837a8ce93a8035745e79ebd671b78bfa3096ae5,jadudm,User,jadudm,2015-12-10T23:26:14Z,Minor stylistic adjustments and comments,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0837a8ce93a8035745e79ebd671b78bfa3096ae5
+urcpp,95be8bd91747b64c904b7cbc91e479820027c43c,jadudm,User,jadudm,2015-12-10T21:48:41Z,changed IRB chair language based on Jan's recommendation,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/95be8bd91747b64c904b7cbc91e479820027c43c
+urcpp,8ba618603e5d3376664f5ff958ca85fcf93cf13d,jadudm,User,jadudm,2015-12-10T19:59:55Z,added 9 to possible number of weeks; changed language on previous funding page,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8ba618603e5d3376664f5ff958ca85fcf93cf13d
+urcpp,7cd27679f39e0be123bf3e0050b18604fdf01a82,jadudm,User,jadudm,2015-12-10T14:05:35Z,"Adding in a place to put tests, or scripts, or something.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7cd27679f39e0be123bf3e0050b18604fdf01a82
+urcpp,a062fcca718766db5b0d6639e4781e40a5112c44,jadudm,User,jadudm,2015-12-10T13:56:43Z,Added stress global,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a062fcca718766db5b0d6639e4781e40a5112c44
+urcpp,e5b78a135c9795a29df55bba8a61cee6944ef13a,jadudm,User,jadudm,2015-12-10T12:44:24Z,Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e5b78a135c9795a29df55bba8a61cee6944ef13a
+urcpp,b42ed6e9730562c9257034d286431f2ec0d8d2e7,jadudm,User,jadudm,2015-12-10T12:44:05Z,Added ping endpoint,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b42ed6e9730562c9257034d286431f2ec0d8d2e7
+urcpp,fa35d6c485ea10d86ef92d5a8b6054d5bafea79c,sheggen,User,sheggen,2015-12-10T03:02:45Z,Last push of the night. Lots of little in-app fixes. DEBUG = False!,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fa35d6c485ea10d86ef92d5a8b6054d5bafea79c
+urcpp,4dd8f94a7ac24e8aadf34ccc074efa37c34bbb59,jadudm,User,jadudm,2015-12-10T02:23:13Z,Adding staff to sync_faculty.py,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4dd8f94a7ac24e8aadf34ccc074efa37c34bbb59
+urcpp,142237e0f3e0e3d460b17c10a109e1f218607432,jadudm,User,jadudm,2015-12-10T02:00:14Z,"Removed badness related to http Referrer; No longer relies on it, and is more efficient code.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/142237e0f3e0e3d460b17c10a109e1f218607432
+urcpp,5d9c030013de342114089167c1ee0121ebb30bed,jadudm,User,jadudm,2015-12-10T01:25:34Z,Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5d9c030013de342114089167c1ee0121ebb30bed
+urcpp,bed36d78f51ab27329b374277efbb88028f6ed9d,jadudm,User,jadudm,2015-12-10T01:24:59Z,Changes made for dealing with prod/dev migration issues,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bed36d78f51ab27329b374277efbb88028f6ed9d
+urcpp,45b6b4b07de3f8739692f03c30decdb55a2f3cfa,sheggen,User,sheggen,2015-12-10T01:23:10Z,Pushing changes so I can work in C9 instead of on Prod,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/45b6b4b07de3f8739692f03c30decdb55a2f3cfa
+urcpp,ee506c097d9d3ae39a862c09c0c98e2bf6e4bf87,sheggen,User,sheggen,2015-12-09T23:32:23Z,Fixed budget render issues with None/zero values,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ee506c097d9d3ae39a862c09c0c98e2bf6e4bf87
+urcpp,aa98fbcbe2fc7691dee9efccc8337a6e92bfd347,sheggen,User,sheggen,2015-12-09T19:04:39Z,Got datepicker back to where it started....,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/aa98fbcbe2fc7691dee9efccc8337a6e92bfd347
+urcpp,37c48e718df6d5456729d3b399fedd24499efd3c,jadudm,User,jadudm,2015-12-08T19:50:15Z,Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/37c48e718df6d5456729d3b399fedd24499efd3c
+urcpp,a7bb947e2eb89e03bed8d44697c934d04ef58082,jadudm,User,jadudm,2015-12-08T19:49:55Z,Added username check to all POSTs,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a7bb947e2eb89e03bed8d44697c934d04ef58082
+urcpp,129b11deec9a147584812cc653f441f31249dab3,sheggen,User,sheggen,2015-12-08T19:27:54Z,Fixed bug with an empty initial Project,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/129b11deec9a147584812cc653f441f31249dab3
+urcpp,f314e80af695dbaac614eeb37a57ec1d730add81,jadudm,User,jadudm,2015-12-08T19:15:28Z,Fixed sync_faculty to work on prod,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f314e80af695dbaac614eeb37a57ec1d730add81
+urcpp,1225b6ffe3866461e4ea454b8221a953b55402b7,jadudm,User,jadudm,2015-12-08T18:43:32Z,Fixed the all important start date selector so you can only pick dates in the current application year,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/1225b6ffe3866461e4ea454b8221a953b55402b7
+urcpp,09eec63637b9f2e80dbf1d6e9bc4a35ffb02b5b9,sheggen,User,sheggen,2015-12-08T18:34:34Z,Fixed referrer issue by always including the referrer as a meta in base,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/09eec63637b9f2e80dbf1d6e9bc4a35ffb02b5b9
+urcpp,a827f95578e7a874790c35bd5ee5bbb48796b00a,jadudm,User,jadudm,2015-12-08T18:20:54Z,"Pushing change so I can test upload referrer functionality (broke on prod, works on dev)",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/a827f95578e7a874790c35bd5ee5bbb48796b00a
+urcpp,0a4f6ac5d3c89713b9bfb078e678a36500a6387a,jadudm,User,jadudm,2015-12-08T16:44:25Z,Cleaning up null value errors and fixing other UI problems. Everything appears to be up to snuff now.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0a4f6ac5d3c89713b9bfb078e678a36500a6387a
+urcpp,e58f7d398846673b3fc9230a42d6ea7b6ecd1ae6,jadudm,User,jadudm,2015-12-08T01:08:07Z,"Merge branch 'master' of bitbucket.org:jadudm/urcpp-flask
+Fixed conflicts
+Conflicts:
+	api/everything.py",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e58f7d398846673b3fc9230a42d6ea7b6ecd1ae6
+urcpp,23443f53e886fa78e052d501082483259dc922fc,jadudm,User,jadudm,2015-12-08T01:06:38Z,All pages working up to IRB. Could always use additional testing.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/23443f53e886fa78e052d501082483259dc922fc
+urcpp,bb60cb3f6e0e192c8d5021a44fc643f7843c6c22,sheggen,User,sheggen,2015-12-07T18:31:12Z,Revisited passing remote user variable through proxy to application. Appears to be functional again.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bb60cb3f6e0e192c8d5021a44fc643f7843c6c22
+urcpp,d25ae125c1e95f6aa2515cdf18da4c1905dfb172,sheggen,User,sheggen,2015-12-04T01:54:51Z,merging dev and production inconsistencies,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d25ae125c1e95f6aa2515cdf18da4c1905dfb172
+urcpp,3c7f5fb0358a7b3b33148bcabe0d9c2f5a02816f,sheggen,User,sheggen,2015-12-04T01:48:52Z,adding changes in Prod from setting it up,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3c7f5fb0358a7b3b33148bcabe0d9c2f5a02816f
+urcpp,856a98f25ccf934974c7a96b3bea6531dbf1f603,jadudm,User,jadudm,2015-12-02T16:49:23Z,Massive commit... bad commit message.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/856a98f25ccf934974c7a96b3bea6531dbf1f603
+urcpp,fcd9a09e00adde1d69c6fa3aa3faaa8edd739742,jadudm,User,jadudm,2015-12-01T04:43:01Z,"Cleaned up form flow, fixed lots of bugs. Almost a workable state now. Needs more testing",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/fcd9a09e00adde1d69c6fa3aa3faaa8edd739742
+urcpp,84524203d7cf848f52b5249c3f9f0d2a5339b09e,jadudm,User,jadudm,2015-11-24T15:26:53Z,Before I destroy something more.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/84524203d7cf848f52b5249c3f9f0d2a5339b09e
+urcpp,35b4e87695e83d44723da7f64cde3d3916864ff6,jadudm,User,jadudm,2015-11-24T00:33:58Z,"About to start deleting.
+
+I want to clean up the old stuff before we go further. This means deleting and moving.
+
+So, a commit.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/35b4e87695e83d44723da7f64cde3d3916864ff6
+urcpp,4fd8eb50bba05951ab50cb49afbe21129b12cf36,jadudm,User,jadudm,2015-11-23T19:39:43Z,Minor changes.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4fd8eb50bba05951ab50cb49afbe21129b12cf36
+urcpp,ff2fe9159ab99d4cdd1e96d06c0a87548674e485,jadudm,User,jadudm,2015-11-23T19:19:41Z,"Moving to Jinja from lots of JS
+
+We can do our page gets more easily in a templated system than lots of async JS.
+
+This commit marks the conversion of one page (create.html). We'll commit here,
+tag, and then begin ripping things up.
+
+Submit... might stay JS for now. We'll think abou that. Depends on what is most expedient...",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ff2fe9159ab99d4cdd1e96d06c0a87548674e485
+urcpp,bf58e262ced302dd4f532a446980bcf6f795f0be,jadudm,User,jadudm,2015-11-23T02:47:34Z,No major changes.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bf58e262ced302dd4f532a446980bcf6f795f0be
+urcpp,685f30e4bfa19a644c7b76a408581e257db1f127,jadudm,User,jadudm,2015-11-23T02:33:07Z,"Moved things, more implementation.
+
+I may have done some re-working... which I realized after
+I was done. I implemented file upload, but did it as a
+generic file upload handler... restricted to the types
+of files we're handling. It can be re-used elsewhere
+easily enough.
+
+I have a drag-and-drop upload. Meh.
+
+I'm not sure what else changed/was done. Ah.
+
+I added a first page. That mattered.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/685f30e4bfa19a644c7b76a408581e257db1f127
+urcpp,dfb14fca4a88e1222c96a848e3b57e4bee6035e5,jadudm,User,jadudm,2015-11-22T23:33:28Z,Switching back to C9,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/dfb14fca4a88e1222c96a848e3b57e4bee6035e5
+urcpp,566a87a9f6917e104c341bf91fc3b1914f5d2e76,jadudm,User,jadudm,2015-11-22T23:26:47Z,"First attempt at moving JS into its own file.
+
+Looks better.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/566a87a9f6917e104c341bf91fc3b1914f5d2e76
+urcpp,e137c987745010fbd525a48a0fd68bd733067b7d,jadudm,User,jadudm,2015-11-22T22:26:40Z,"Leave me out of my own projects.
+
+Forgot to rule out being your own collaborator...
+
+Did a few submissions as a new user. A few error edges found and fixed.
+
+Need to have a page where we check that the person logging in
+is actually an LDAPFaculty member. That will, perhaps, be ""/"".",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e137c987745010fbd525a48a0fd68bd733067b7d
+urcpp,4ad8aa2391f8d876c875a026add8f216926676f4,jadudm,User,jadudm,2015-11-22T21:55:49Z,Fixed spacing. Removed well.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4ad8aa2391f8d876c875a026add8f216926676f4
+urcpp,4b7a9da0ca53b8f6e038285a78ac484710559e50,jadudm,User,jadudm,2015-11-22T21:54:50Z,Removed well.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/4b7a9da0ca53b8f6e038285a78ac484710559e50
+urcpp,e5cfb0b8f5725949bf7da070d564b80cc244eeef,jadudm,User,jadudm,2015-11-22T21:52:14Z,"Pretty alert dialog, formatting, working xition.
+
+1. Imported sweetalert. It makes pretty alert dialogs.
+   These are used whenever we have a problem with a
+   submission... although, there's nothing we can do.
+
+2. Renamed all of my functions. Well, reformatted.
+   went from...
+
+   var foo = function () { ...
+
+   to
+
+   function foo () { ...
+
+   because I forgot you could do that in JavaScript.
+
+3. Chained the functions. It is in the URCPP object.
+   Calling ""api.next()"" gets you the next page destination.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e5cfb0b8f5725949bf7da070d564b80cc244eeef
+urcpp,5c763f6828dba0df2c7dd91a9e36fe442b9a4da3,jadudm,User,jadudm,2015-11-22T21:18:18Z,Adding scripts for c9 util.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5c763f6828dba0df2c7dd91a9e36fe442b9a4da3
+urcpp,c58ecc766ec239ceabf241aab562bdd9d29f5a04,jadudm,User,jadudm,2015-11-22T18:03:45Z,"Prettied up the budget form.
+
+Did two things:
+
+1. Programmatically added all the fields using Mustache. This is because every
+pair of fields is ""the same,"" and this lets us make changes to all of them
+in one place (the template).
+
+2. Applied Bootstrap styling in keeping with the other pages.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/c58ecc766ec239ceabf241aab562bdd9d29f5a04
+urcpp,5f879158b5534ef2ba23cc964b71ac95a514095a,jadudm,User,jadudm,2015-11-22T17:09:28Z,"Working collaborators page.
+
+Both the Python and JavaScript for this page are a bit ugly.
+
+Specifically, I am certain we can simplify the SQL work. I have a series
+of sequential operations that are probably made simpler with good
+queries. It is clear, but could be better. Also, we probably
+have some queries that can be pulled out as functions for re-usability.
+
+On the JavaScript side, I found things got long as well. Specifically,
+there's a lot of JavaScript to handle the adding/removing of fields,
+keeping track of indicies, and making sure the state of the BNumber fields
+is correct. This involves doing checks against the server
+pretty rapidly... we'll see how that goes in practice.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5f879158b5534ef2ba23cc964b71ac95a514095a
+urcpp,3c9f1d4f4191c6e477952555c5ab857756c1e9b2,jadudm,User,jadudm,2015-11-22T05:05:01Z,"More styling.
+
+I'm done. But, we have a number of style issues poked at and worked out.
+
+I decided to be silly with JavaScript on the people page afterall.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3c9f1d4f4191c6e477952555c5ab857756c1e9b2
+urcpp,ab1bf4665ac545680c0d67cc150a76e9689b7fe1,jadudm,User,jadudm,2015-11-22T01:03:31Z,"Interim commit, also.
+
+This commit fixes the synchrony/asynchrony of our API object for talking to our server.
+
+Turns out, that's kinda a big deal.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/ab1bf4665ac545680c0d67cc150a76e9689b7fe1
+urcpp,2e441341f0b4b15e91124fdc8d92b8dfc6a91792,jadudm,User,jadudm,2015-11-21T21:51:39Z,Lots of changes. Interim commit from sprint.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2e441341f0b4b15e91124fdc8d92b8dfc6a91792
+urcpp,6c4645fdfcdebb4ef92e20bb2b0a6765cd16b10a,jadudm,User,jadudm,2015-11-21T16:21:36Z,"Working.
+
+This moves things into templates, and demonstrates a round-trip
+for one element of the application. We're now ready to begin
+implementation in ernest.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/6c4645fdfcdebb4ef92e20bb2b0a6765cd16b10a
+urcpp,f938822fc1ce624be4b4e8d23382251a3a694509,jadudm,User,jadudm,2015-11-20T19:23:59Z,Should not touch static in this script.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f938822fc1ce624be4b4e8d23382251a3a694509
+urcpp,5292625b7eb09056135d572e64cde938489765cf,jadudm,User,jadudm,2015-11-20T19:20:52Z,"Renaming.
+
+When we recreate the database, it should only be the dynamic database.
+
+This is a bad script to have around once in production. It should probably back
+things up first.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5292625b7eb09056135d572e64cde938489765cf
+urcpp,26e45f66d942663437e638534ea731d8978f14eb,jadudm,User,jadudm,2015-11-20T19:19:42Z,"Models for tomorrow's sprint
+
+We've developed a model. Picture in the documentation. Encoded in models.py",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/26e45f66d942663437e638534ea731d8978f14eb
+urcpp,2bb385e5a93c6d595c0fc94665c6b4db10477b94,jadudm,User,jadudm,2015-11-20T02:39:09Z,More...,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2bb385e5a93c6d595c0fc94665c6b4db10477b94
+urcpp,2ed5a14b41748e7d7ed4285659fa19e59c08c793,jadudm,User,jadudm,2015-11-20T02:34:29Z,More notes.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/2ed5a14b41748e7d7ed4285659fa19e59c08c793
+urcpp,bc69397b43327c7430f374ef32ec1d60a24834d1,jadudm,User,jadudm,2015-11-20T02:26:33Z,Adding notes.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/bc69397b43327c7430f374ef32ec1d60a24834d1
+urcpp,7a9d3ee049b6db7397f3f9918361e300a8940d85,jadudm,User,jadudm,2015-11-20T02:03:08Z,"Adding in documentation.
+
+This is written with mkdocs, which is a cute little Markdown-based
+documentation tool.
+
+Some guidelines. If we need to write more docs (we do), then this is a good
+place to do it.
+
+mkdocs serve
+
+from within the docs/urcpp directory to run a local server (port 8000) where
+you can view the documentation that is written.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7a9d3ee049b6db7397f3f9918361e300a8940d85
+urcpp,7b02a44ca76fa8397ee203cf7a86591a7145b24b,jadudm,User,jadudm,2015-11-20T00:41:21Z,Must walk away.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7b02a44ca76fa8397ee203cf7a86591a7145b24b
+urcpp,eae317352afcabdc8e4ee15e8ae56d69beb5390d,jadudm,User,jadudm,2015-11-20T00:35:26Z,"Renamed.
+
+Nothing more, really. Well, tweaked files to match new naming.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/eae317352afcabdc8e4ee15e8ae56d69beb5390d
+urcpp,63242bd9966fab582cb79cf8225530663128eb5c,jadudm,User,jadudm,2015-11-20T00:32:31Z,"Found a better REST JavaScript client library.
+
+So, I like aja.js better.
+
+http://krampstudio.com/aja.js/
+
+Cleaner. Less weird than whatever I was using before.
+
+Going to tag and remove the v1 exploration.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/63242bd9966fab582cb79cf8225530663128eb5c
+urcpp,8ec90648701f774c87d00568771851d4a1ebb47d,jadudm,User,jadudm,2015-11-19T22:52:29Z,Fixed JavaScript.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8ec90648701f774c87d00568771851d4a1ebb47d
+urcpp,27a55af6a1b3fdb33910a602da6faee9a88ba4fe,jadudm,User,jadudm,2015-11-19T22:21:18Z,"Updates, JavaScript broken.
+
+So, I'm experimenting with naming on the JavaScript side.
+
+Specifically, I want to know how easy we can make it to write
+new functions for communicating with the server.
+
+For now... meh. And, the Javascript stopped talking to the server.
+But, it's time for dinner.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/27a55af6a1b3fdb33910a602da6faee9a88ba4fe
+urcpp,8b29c04cab10d881bf561c1fd9d56edf8b196d5d,jadudm,User,jadudm,2015-11-19T21:20:22Z,"Renaming, exploring.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8b29c04cab10d881bf561c1fd9d56edf8b196d5d
+urcpp,8fde031fa04053f8bc7d9f04df0c7623ccec12c6,jadudm,User,jadudm,2015-11-19T20:59:45Z,"Deleting code related to the ""web"" version.
+
+This removes all of the old code that was part of
+my initial explorations of URCPP/Flask.
+
+The API directory is now where all good things happen.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/8fde031fa04053f8bc7d9f04df0c7623ccec12c6
+urcpp,dbec1ee8458221f16cbf1c7a35637a3aa6774baa,jadudm,User,jadudm,2015-11-19T20:49:33Z,"Fixed recreate.
+
+That probably slowed all kinds of things down.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/dbec1ee8458221f16cbf1c7a35637a3aa6774baa
+urcpp,e3a858753315f882dec4b7c3a1f082a1fbf15f33,jadudm,User,jadudm,2015-11-19T16:52:21Z,Added instructions.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e3a858753315f882dec4b7c3a1f082a1fbf15f33
+urcpp,40a212a765dd3499036653b7f1a1a318e7dfbad3,jadudm,User,jadudm,2015-11-19T16:46:15Z,"Small changes as part of demo to Scott.
+
+I don't think anything substantial changed... only a few small tweaks
+while showing Scott what I did last night.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/40a212a765dd3499036653b7f1a1a318e7dfbad3
+urcpp,9534020891d7ae7411057f26bb62e01bfebfd3b6,jadudm,User,jadudm,2015-11-19T13:42:25Z,Exploring API things.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/9534020891d7ae7411057f26bb62e01bfebfd3b6
+urcpp,55a1281b87fac75e5c15b4419e1e8e2af7b2b305,jadudm,User,jadudm,2015-11-19T06:49:42Z,Versioning.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/55a1281b87fac75e5c15b4419e1e8e2af7b2b305
+urcpp,f8c255f224ff6ff46cfc0a9216d1d7fc0eaa6a44,jadudm,User,jadudm,2015-11-19T06:48:58Z,"Modularize.
+
+This will be better.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/f8c255f224ff6ff46cfc0a9216d1d7fc0eaa6a44
+urcpp,25702b1434fb147ac6b424b70d52ebbf79473a20,jadudm,User,jadudm,2015-11-19T06:43:16Z,"Exploring APIs
+
+And, I found a REST API builder in JavaScript.
+
+Woo.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/25702b1434fb147ac6b424b70d52ebbf79473a20
+urcpp,30488a9084e608fa8078ae27cf4a470e79dded03,jadudm,User,jadudm,2015-11-19T02:08:23Z,"First two pages working (again)
+
+Having fun with JavaScript, and now have a table full of faculty.
+
+Now, really, would just need to think about how this is designed.
+
+For example, should everythign be AJAX against endpoints?
+
+Is it good to have all store operations go through FORM actions (POST), and all
+search operations (for populating elements) go through AJAX?
+
+Should it all be through the server-side with templates?
+
+Meh.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/30488a9084e608fa8078ae27cf4a470e79dded03
+urcpp,b219e94249aa910fdf609c21ec9700dd65497b39,jadudm,User,jadudm,2015-11-19T01:18:06Z,"Pulling from LDAP
+
+This lets us update a list of valid faculty.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b219e94249aa910fdf609c21ec9700dd65497b39
+urcpp,3962d152b60716caf60a30cdfb6cf9d39406d8bb,jadudm,User,jadudm,2015-11-19T00:26:03Z,"Sprinting.
+
+Moving towards completion. Working on DB sync in Python.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/3962d152b60716caf60a30cdfb6cf9d39406d8bb
+urcpp,5f26309d5d5acb6602b69627be382ca492d6ba9e,jadudm,User,jadudm,2015-11-18T12:43:48Z,"Broke out the JS
+
+Moved the JS exploration into its own file for reuse, modularized things.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5f26309d5d5acb6602b69627be382ca492d6ba9e
+urcpp,0c31f3e4342ca2fae7c1542e69c08ee358a181db,jadudm,User,jadudm,2015-11-18T02:00:09Z,"Moved code to JavaScript
+
+I was doing a lot of work to do DB queries to populate web pages with template
+variables. For example, on the start page, I wanted to look into the DB and
+pre-load the fields if someone had already visited. This required a lot of work
+in Python. The alternative: create a new endpoint in Flask that handles a JSON
+request.
+
+This approach lets me set id = ""modelField"" in my HTML for all of the text
+fields. If the fields have the same id's as the names of the model fields, then
+I can do a JSON request, get back an object, and walk the keys of that object.
+These can automatically be turned into IDs on the webpage, and I can populate
+the values of the form (if the values existed).
+
+That may have made no sense. However, the end-result is less code on the server
+(or, a simplified interface...), because now I've moved all form population
+based on old data into a GET endpoint (or a POST... I should think about that),
+and that endpoint does a query and simply JSONifies the object that is found.
+That object is walked, and the values in the object directly stuffed into
+fields.
+
+Honest. It's easier.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0c31f3e4342ca2fae7c1542e69c08ee358a181db
+urcpp,e6bd9f7426c649ea391608bcaef3f761b25769e4,jadudm,User,jadudm,2015-11-17T15:20:05Z,Where did the long commit message go?,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e6bd9f7426c649ea391608bcaef3f761b25769e4
+urcpp,04a056d02cd21278be24af4afe673d6418773c50,jadudm,User,jadudm,2015-11-17T14:51:52Z,"Updated to handle new model, fixed start()
+
+This involves some changes and learning as I updated the data model.
+
+The model has more foreign key constraints now, and a linking table.
+
+For example:
+
+    facQ = (Faculty.select()
+      .join(FacultyProjects, on = (FacultyProjects.fid == Faculty.fid))
+      .join(Projects, on = (FacultyProjects.pid == Projects.pid))
+      .where(Faculty.username == username)
+      .where(FacultyProjects.corresponding == True)
+      )
+
+This is the join to pull out the faculty member if they are a corresponding
+author on one project.
+
+projectQ = (Projects.select()
+        .join(Faculty, on = (theFaculty.fid == Projects.corresponding))
+        )
+
+pulls out all the projects which that faculty member is a corresponding member
+for... and there should be only one. I'm not sure if we can enforce that,
+except for making sure that one faculty member cannot insert more than one
+project. Hm. That is probably not handled at the moment.
+
+There's also a bunch of ""session timeout"" code that is almost entirely
+untested, but is something that we should explore/discuss further. The session
+(read: cookie) information is important, possibly, and I would like to make
+sure I know how/why I'm using it. It isn't clear how it is valuable.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/04a056d02cd21278be24af4afe673d6418773c50
+urcpp,b5bcb30d4aaff9c121195ca3541aeb371c5dc724,jadudm,User,jadudm,2015-11-17T13:22:53Z,Removing log files from git status.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b5bcb30d4aaff9c121195ca3541aeb371c5dc724
+urcpp,293564258ba9c13a66b42fad70d6513cb35204d3,jadudm,User,jadudm,2015-11-17T04:14:36Z,"Updated model, not code.
+
+Updated the data model, and now have ""recreate"" adding in some
+dummy data. However, I have not updated the web app yet.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/293564258ba9c13a66b42fad70d6513cb35204d3
+urcpp,e345e2678dfe3bae0c8633ed0ce9dd35685be3eb,jadudm,User,jadudm,2015-11-17T00:19:19Z,Added a fixme.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/e345e2678dfe3bae0c8633ed0ce9dd35685be3eb
+urcpp,5b3609cd955392f76f43a78b53819994e3aaf0f0,jadudm,User,jadudm,2015-11-17T00:17:46Z,Unchecked change... using username as primary key.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/5b3609cd955392f76f43a78b53819994e3aaf0f0
+urcpp,0992da922dd58e58f5159680cea903d9e4b32e68,jadudm,User,jadudm,2015-11-17T00:11:04Z,"Starting to store and autofill data.
+
+At this point, the code demonstrates a simple router, which serves
+as a primary switch for the application. All functionality is broken
+out into functions to handle the saving of data, and forms are
+templated with autofill where appropriate.
+
+One issue here is that we get the username, which is not necessarily
+a unique identifier, but we trust the BNumber more. We probably have
+to trust the username, because that is the authentication token. There
+is no way to authenticate a BNumber... it's a bogus piece of information
+that the user provides.
+
+The alternative is that we take the username and look up the Bnumber...
+but, at the end of the day, the thing the user gives us through
+their authetication is a username... which is probably what we should
+consider as a 'primary key.'
+
+To be debated.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/0992da922dd58e58f5159680cea903d9e4b32e68
+urcpp,7c42a778efbae51e8650a7a8f6c46f625ce49623,jadudm,User,jadudm,2015-11-16T02:00:19Z,"Starting to explore actual application.
+
+The primary change here was some naming.
+
+However, I've also begun exploring sessions and how we might grab user information
+from the environment. Nothing major, but some new learning took place for me.
+
+/start is the primary handler at this point, and it doesn't do much.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/7c42a778efbae51e8650a7a8f6c46f625ce49623
+urcpp,b1d45da5f3b6135decc37675229cb06755deb3f0,jadudm,User,jadudm,2015-11-09T21:47:51Z,"Previous interface...
+
+This commit adds in screenshots of the prior interface, as well as a new
+""secret_config"" file. This will ultimately be something kept out of the
+repository, where critical information (salts, etc.) are kept.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/b1d45da5f3b6135decc37675229cb06755deb3f0
+urcpp,d888ebcb9926b55e034ef815573abe075c7f4993,jadudm,User,jadudm,2015-11-09T18:55:26Z,Cleaning things up before moving to app proper.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/d888ebcb9926b55e034ef815573abe075c7f4993
+urcpp,800253ece9376da44c30b189980d85a62e1e6370,jadudm,User,jadudm,2015-11-09T14:15:22Z,Fix.,https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/800253ece9376da44c30b189980d85a62e1e6370
+urcpp,07764ba4d2352d674dde690100aac93db7cdf7c9,jadudm,User,jadudm,2015-11-09T14:13:18Z,"First commit.
+
+The config file needs to be removed and added to the .gitignore. It will eventually
+contain things that we don't want in our config.
+
+That, or we need a sekretconfig.yaml, which contains secret things.",https://github.com/BCStudentSoftwareDevTeam/urcpp/commit/07764ba4d2352d674dde690100aac93db7cdf7c9

@@ -1,0 +1,102 @@
+repo,number,title,author,author_type,state,created_at,updated_at,closed_at,comments_count,html_url,days_to_close
+bcsr,1,Cloud 9 integration,bryantal,User,closed,2016-03-07 17:44:43+00:00,2016-07-20T17:41:39Z,2016-07-20 17:41:39+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/1,134.99787037037038
+bcsr,2,Multi-User Navbar,bryantal,User,closed,2016-03-08 16:33:54+00:00,2016-07-22T15:26:50Z,2016-07-22 15:26:50+00:00,5,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/2,135.95342592592593
+bcsr,3,Handle Session Variables,bryantal,User,closed,2016-03-08 21:42:18+00:00,2016-08-02T17:22:31Z,2016-08-02 17:22:31+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/3,146.8195949074074
+bcsr,4,Create Archive,bryantal,User,closed,2016-06-13 15:53:39+00:00,2016-07-22T15:27:04Z,2016-07-22 15:27:04+00:00,3,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/4,38.98153935185185
+bcsr,5,Move the creation of Dictionaries into Logic,bryantal,User,closed,2016-06-13 16:02:53+00:00,2016-07-22T15:24:41Z,2016-07-22 15:24:41+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/5,38.97347222222222
+bcsr,6,Admin Options: Program Chairs,bryantal,User,closed,2016-07-20 17:45:17+00:00,2016-08-11T14:44:31Z,2016-08-11 14:44:31+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/6,21.87446759259259
+bcsr,7,Admin Options: Division Chairs,bryantal,User,closed,2016-07-20 17:45:46+00:00,2016-08-11T14:44:13Z,2016-08-11 14:44:13+00:00,6,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/7,21.87392361111111
+bcsr,8,System Management: Download All,bryantal,User,closed,2016-07-20 17:46:29+00:00,2016-07-26T14:22:38Z,2016-07-26 14:22:38+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/8,5.8584375
+bcsr,9,getAuthUser,bryantal,User,closed,2016-07-20 19:21:39+00:00,2016-07-22T15:25:08Z,2016-07-22 15:25:08+00:00,3,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/9,1.8357523148148147
+bcsr,10,READme.md,bryantal,User,closed,2016-07-21 14:12:16+00:00,2016-10-20T19:06:02Z,2016-10-20 19:06:02+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/10,91.20400462962964
+bcsr,11,If file is too big there is no way to remove it,bryantal,User,closed,2016-07-21 14:21:16+00:00,2016-08-31T16:03:44Z,2016-08-31 16:01:56+00:00,3,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/11,41.069907407407406
+bcsr,12,if faculty has no courses they are met with an empty screen,bryantal,User,closed,2016-07-21 14:57:57+00:00,2017-06-14T12:06:21Z,2017-06-14 12:06:21+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/12,327.8808333333333
+bcsr,13,Acknowledgement Page,bryantal,User,closed,2016-07-22 13:58:15+00:00,2017-06-14T12:17:09Z,2017-06-14 12:17:09+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/13,326.9297916666667
+bcsr,14,System Management: Add Semester,bryantal,User,closed,2016-07-22 15:29:16+00:00,2016-08-02T17:24:09Z,2016-08-02 17:24:09+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/14,11.079780092592593
+bcsr,15,Delete Button,bryantal,User,closed,2016-07-26 13:56:02+00:00,2016-07-26T14:18:31Z,2016-07-26 14:18:31+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/15,0.015613425925925926
+bcsr,16,Archive: Sidebar,bryantal,User,closed,2016-07-26 13:57:01+00:00,2016-08-11T20:25:43Z,2016-08-11 20:25:43+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/16,16.269930555555554
+bcsr,17,Delete Button Styling,bryantal,User,closed,2016-07-26 14:22:11+00:00,2016-08-11T20:24:32Z,2016-08-11 20:24:32+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/17,16.251631944444444
+bcsr,18,upload files,bryantal,User,closed,2016-08-02 17:20:33+00:00,2016-08-02T18:09:03Z,2016-08-02 18:09:03+00:00,6,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/18,0.033680555555555554
+bcsr,19,Single Download,bryantal,User,closed,2016-08-11 14:57:40+00:00,2016-08-11T20:19:37Z,2016-08-11 20:19:37+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/19,0.2235763888888889
+bcsr,20,Error Handling,bryantal,User,closed,2016-08-11 14:58:49+00:00,2016-08-12T18:59:48Z,2016-08-12 18:59:48+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/20,1.167349537037037
+bcsr,21,Logging,bryantal,User,closed,2016-08-11 15:00:03+00:00,2016-10-20T19:05:51Z,2016-10-20 19:05:51+00:00,3,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/21,70.17069444444445
+bcsr,22,Delete Course Syllabus,bryantal,User,closed,2016-08-11 15:26:38+00:00,2016-08-31T16:05:42Z,2016-08-31 16:05:42+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/22,20.02712962962963
+bcsr,23,Display Semester,bryantal,User,closed,2016-08-15 17:51:12+00:00,2016-08-18T18:34:21Z,2016-08-18 18:34:21+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/23,3.029965277777778
+bcsr,24,Add Semester Note,bryantal,User,closed,2016-08-15 17:53:06+00:00,2016-08-31T16:06:02Z,2016-08-31 16:06:02+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/24,15.925648148148149
+bcsr,25,Footer is fixed not dynamic,bryantal,User,closed,2016-08-16 13:54:24+00:00,2016-08-18T18:34:38Z,2016-08-18 18:34:38+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/25,2.1946064814814816
+bcsr,26,No data,bryantal,User,closed,2016-08-17 14:37:57+00:00,2016-09-01T16:25:00Z,2016-09-01 16:25:00+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/26,15.074340277777777
+bcsr,27,Add ability for a Admin to upload course list from excel sheet,bryantal,User,open,2016-08-17 15:02:57+00:00,2023-01-11T16:43:21Z,,3,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/27,
+bcsr,28,Create A Deadline,bryantal,User,closed,2016-08-17 15:56:47+00:00,2016-08-31T16:06:52Z,2016-08-31 16:06:52+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/28,14.007002314814814
+bcsr,29,Flask Admin Module,bryantal,User,closed,2016-08-23 17:08:34+00:00,2020-06-22T20:41:24Z,2019-07-08 19:15:04+00:00,5,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/29,1049.0878472222223
+bcsr,30,Error if someone has no courses?,bryantal,User,closed,2016-08-25 13:32:21+00:00,2016-10-20T19:09:26Z,2016-10-20 19:09:26+00:00,3,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/30,56.234085648148145
+bcsr,31,Sort Archive & Courses Page,bryantal,User,closed,2016-08-25 16:59:20+00:00,2016-09-05T11:00:22Z,2016-09-05 11:00:22+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/31,10.750717592592592
+bcsr,32,Deadlines,bryantal,User,closed,2016-08-26 14:18:44+00:00,2016-09-05T10:59:40Z,2016-09-05 10:59:41+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/32,9.861770833333333
+bcsr,33,Upper case letters in usernames,bryantal,User,closed,2016-08-29 20:27:00+00:00,2016-09-05T16:18:00Z,2016-09-05 16:18:00+00:00,6,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/33,6.827083333333333
+bcsr,34,Logout,bryantal,User,closed,2016-08-29 22:09:14+00:00,2016-10-20T19:06:49Z,2016-10-20 19:06:49+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/34,51.87332175925926
+bcsr,35,File names,bryantal,User,closed,2016-08-30 17:39:23+00:00,2016-09-05T11:07:11Z,2016-09-05 11:07:11+00:00,3,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/35,5.7276388888888885
+bcsr,36,Change from https to ssh on prod,bryantal,User,closed,2016-08-31 23:14:23+00:00,2023-05-18T13:05:08Z,2023-05-18 13:05:08+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/36,2450.5769097222224
+bcsr,37,Download all button does not download,bryantal,User,closed,2016-09-07 21:30:56+00:00,2016-10-20T19:11:03Z,2016-10-20 19:11:03+00:00,4,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/37,42.90285879629629
+bcsr,38,Sorting of courses,bryantal,User,closed,2016-09-12 14:51:33+00:00,2019-07-08T19:16:40Z,2019-07-08 19:16:40+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/38,1029.1841087962962
+bcsr,39,Add WEL,bryantal,User,closed,2016-09-20 14:03:07+00:00,2016-10-20T19:34:32Z,2016-10-20 19:34:32+00:00,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/39,30.230150462962964
+bcsr,40,Division Chair View,bryantal,User,closed,2016-09-20 14:05:07+00:00,2016-09-29T18:55:41Z,2016-09-29 18:55:41+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/40,9.201782407407407
+bcsr,41,Error in file upload,bryantal,User,closed,2016-09-26 20:30:18+00:00,2016-10-20T19:11:18Z,2016-10-20 19:11:18+00:00,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/41,23.945138888888888
+bcsr,43,Connie Lamb,bryantal,User,closed,2016-09-30 14:15:25+00:00,2023-05-18T13:04:25Z,2023-05-18 13:04:24+00:00,3,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/43,2420.95068287037
+bcsr,44,Military Time,bryantal,User,closed,2016-10-04 15:23:33+00:00,2017-06-14T12:15:29Z,2017-06-14 12:15:29+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/44,252.86939814814815
+bcsr,45,Modification to the upload options,bryantal,User,open,2016-10-13 18:36:35+00:00,2019-06-18T21:55:24Z,,3,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/45,
+bcsr,46,Admin interface to view only missing syllabi,bryantal,User,closed,2016-10-21 16:08:40+00:00,2017-02-09T19:33:56Z,2017-02-09 19:33:56+00:00,6,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/46,111.1425462962963
+bcsr,47,NUR 341 Linda Wray,bryantal,User,closed,2016-10-25 19:39:58+00:00,2016-10-25T19:40:50Z,2016-10-25 19:40:50+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/47,0.0006018518518518519
+bcsr,48,Update Chairs,bryantal,User,closed,2016-10-26 16:52:22+00:00,2017-06-13T19:32:28Z,2017-06-13 19:32:28+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/48,230.11118055555556
+bcsr,49,Manage Admin,bryantal,User,closed,2017-01-24 14:43:02+00:00,2017-02-15T19:45:13Z,2017-02-15 19:45:13+00:00,11,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/49,22.209849537037037
+bcsr,50,Manage Courses,bryantal,User,closed,2017-01-24 14:43:36+00:00,2017-06-14T12:23:04Z,2017-06-14 12:23:04+00:00,4,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/50,140.9024074074074
+bcsr,51,Absolute Paths,bryantal,User,closed,2017-02-02 16:22:34+00:00,2017-06-22T14:43:22Z,2017-06-22 14:43:22+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/51,139.9311111111111
+bcsr,52,Upcoming deadlines field completion alert,bryantal,User,closed,2017-06-22 00:15:13+00:00,2017-07-17T16:07:22Z,2017-07-17 16:07:22+00:00,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/52,25.661215277777778
+bcsr,53,"Integration of the Box API to improve direct access to stored syllabi, particularly archival data",bryantal,User,open,2017-06-22 17:43:23+00:00,2019-06-21T15:33:50Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/53,
+bcsr,54,Increase File Size,bryantal,User,closed,2018-01-23 13:42:00+00:00,2019-06-13T12:16:53Z,2019-06-13 12:16:54+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/54,505.94090277777775
+bcsr,55,File Management,bryantal,User,closed,2018-03-22 15:16:36+00:00,2019-06-19T19:19:53Z,2019-06-19 19:19:53+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/55,454.16894675925926
+bcsr,56,Refactor summer term,bryantal,User,closed,2018-06-12 19:17:31+00:00,2019-06-19T19:20:38Z,2019-06-19 19:20:38+00:00,4,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/56,372.00216435185183
+bcsr,57,Improve clarity about file uploads (some can't discern that it went through),bryantal,User,open,2018-08-23 14:34:03+00:00,2019-06-18T18:42:59Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/57,
+bcsr,58,Allow administrators to edit syllabi after a term has been locked,bryantal,User,closed,2018-09-28 14:12:17+00:00,2019-07-08T19:14:01Z,2019-07-08 19:14:02+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/58,283.20954861111113
+bcsr,59,New Feature: Syllabi Lookup for Students,bryantal,User,open,2019-04-15 16:47:28+00:00,2019-06-18T20:33:43Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/59,
+bcsr,60,Some prefixes are not tied to the right Programs on import of data from spreadsheet,bryantal,User,closed,2019-06-13 12:25:19+00:00,2023-01-11T16:14:48Z,2023-01-11 16:14:47+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/60,1308.1593518518519
+bcsr,61,mySQL Migration,bryantal,User,open,2019-06-19 13:50:47+00:00,2019-06-20T13:45:29Z,,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/61,
+bcsr,62,BCSR needs a footer,bryantal,User,closed,2019-06-19 14:12:03+00:00,2019-07-08T19:15:20Z,2019-07-08 19:15:20+00:00,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/62,19.210613425925924
+bcsr,63,Add placeholder to datepicker,bryantal,User,closed,2019-06-19 19:27:12+00:00,2019-06-20T15:25:54Z,2019-06-20 15:25:54+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/63,0.8324305555555556
+bcsr,64,Spacing between submit buttons and mngmt bars,bryantal,User,closed,2019-06-19 19:31:07+00:00,2019-06-20T15:27:58Z,2019-06-20 15:27:56+00:00,2,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/64,0.8311226851851852
+bcsr,65,Centering  and spacing across application,bryantal,User,open,2019-06-19 19:42:17+00:00,2019-06-19T19:42:17Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/65,
+bcsr,66,Rework User Management,bryantal,User,open,2019-06-19 19:46:34+00:00,2019-06-20T14:10:08Z,,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/66,
+bcsr,67,"Implementation of ""Import Courses"" for new terms",bryantal,User,open,2019-06-19 20:49:05+00:00,2025-05-21T13:05:33Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/67,
+bcsr,68,Refactoring  of /courses page,bryantal,User,closed,2019-06-19 21:00:25+00:00,2021-05-19T13:32:46Z,2021-05-19 13:32:46+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/68,699.6891319444444
+bcsr,69,Create Sidebar to Hold Divisions,bryantal,User,open,2019-06-20 19:05:05+00:00,2021-03-11T20:05:02Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/69,
+bcsr,42,dummy issue,bryantal,User,closed,2021-06-01 14:16:53+00:00,2021-06-01T14:16:54Z,2021-06-01 14:16:54+00:00,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/42,1.1574074074074073e-05
+bcsr,71,Zoomed in browser cannot see all content,sheggen,User,open,2022-03-28 18:48:30+00:00,2022-03-28T18:48:30Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/71,
+bcsr,76, Provide Placeholder Database Credentials for Contributors,daizenj,User,open,2023-12-27 19:18:48+00:00,2023-12-27T19:18:48Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/76,
+bcsr,77,Footer covers content on some pages,sheggen,User,open,2024-05-14 14:30:38+00:00,2024-05-14T14:30:38Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/77,
+bcsr,80,Program and Division Chairs need to remind faculty to upload syllabi,sheggen,User,open,2025-09-10 15:41:26+00:00,2025-09-10T15:41:26Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/80,
+bcsr,81,"Slow downloads of Fall/Spring terms, no user feedback",sheggen,User,open,2026-02-27 14:33:31+00:00,2026-02-27T14:33:31Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/81,
+bcsr,84,Search-by-Name functionality,bakobagassas,User,open,2026-04-14 20:54:11+00:00,2026-04-14T20:54:59Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/84,
+bcsr,85,Reduce Syllabus Upload Area Size on Courses Page,MImran2002,User,open,2026-08-11 15:53:59+00:00,2026-09-14T22:53:37Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/85,
+bcsr,86,Refactor Syllabus Upload Display After Upload,MImran2002,User,open,2026-08-11 16:01:37+00:00,2026-09-10T15:47:06Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/86,
+bcsr,87,Creating a Deadline Causes a NameError,MImran2002,User,open,2026-08-11 18:34:09+00:00,2026-09-12T22:52:32Z,,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/87,
+bcsr,88,Add Calendar Date Picker for Deadline Creation,MImran2002,User,open,2026-08-11 18:43:30+00:00,2026-09-10T15:39:14Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/88,
+bcsr,89,Clarify Input Fields on Deadline Creation Form,MImran2002,User,open,2026-08-11 18:49:09+00:00,2026-08-11T18:49:15Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/89,
+bcsr,90,Improve Upcoming Deadline Display and Date Formatting,MImran2002,User,open,2026-08-11 19:03:40+00:00,2026-09-15T13:46:16Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/90,
+bcsr,91,Add Timeout to Deadline Creation Success Message,MImran2002,User,open,2026-08-11 19:10:00+00:00,2026-09-15T14:25:50Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/91,
+bcsr,92,Pre-Populate Deadline Description When Editing,MImran2002,User,open,2026-08-11 19:16:33+00:00,2026-09-15T13:44:58Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/92,
+bcsr,93,Editing a Deadline Fails Because Deadline ID Is Not Submitted,MImran2002,User,open,2026-08-11 19:20:10+00:00,2026-09-15T13:45:49Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/93,
+bcsr,94,Update Close and Save Button Colors When Editing a Deadline,MImran2002,User,open,2026-08-11 19:22:04+00:00,2026-09-15T13:45:25Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/94,
+bcsr,95,Update Course Search Flash Message Styling and Timeout,MImran2002,User,open,2026-08-11 20:58:25+00:00,2026-09-10T19:44:59Z,,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/95,
+bcsr,96,Keep Footer Positioned at the Bottom of the Page,MImran2002,User,open,2026-08-11 21:03:37+00:00,2026-08-11T21:07:48Z,,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/96,
+bcsr,98,Fix file upload path when parent directories have spaces,MImran2002,User,open,2026-08-12 13:16:15+00:00,2026-09-10T15:54:10Z,,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/98,
+bcsr,99,Fix Semester Management Submission Error,MImran2002,User,open,2026-08-12 13:33:26+00:00,2026-09-10T15:29:26Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/99,
+bcsr,100,Update Semester Management Warning Styling,MImran2002,User,open,2026-08-12 13:35:52+00:00,2026-09-09T13:59:57Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/100,
+bcsr,101,Improve Semester Management Styling,MImran2002,User,open,2026-08-12 13:41:14+00:00,2026-09-10T14:59:01Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/101,
+bcsr,102,Improve User Management Add and Remove Actions,MImran2002,User,open,2026-08-12 14:09:24+00:00,2026-09-12T23:16:55Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/102,
+bcsr,103,Auto-Dismiss Course Management Flash Message,MImran2002,User,open,2026-08-12 14:21:45+00:00,2026-09-08T15:40:15Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/103,
+bcsr,104,Restrict Course Number Input to Numbers,MImran2002,User,open,2026-08-12 14:24:08+00:00,2026-09-08T15:41:06Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/104,
+bcsr,105,Update Missing Syllabi Download Button,MImran2002,User,open,2026-08-12 14:28:18+00:00,2026-09-08T15:46:34Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/105,
+bcsr,107,'python create_db.py' Command Error,AbdouLayeCDiop,User,closed,2026-08-29 03:54:01+00:00,2026-09-10T15:09:48Z,2026-09-10 15:09:48+00:00,1,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/107,12.469293981481481
+bcsr,108,Implement Test Coverage for Existing Functions Across the Codebase,MImran2002,User,open,2026-09-10 19:52:40+00:00,2026-09-10T19:52:47Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/108,
+bcsr,109,Add CONTRIBUTING.md for Contributor Guidelines,MImran2002,User,open,2026-09-10 20:00:40+00:00,2026-09-15T13:43:05Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/109,
+bcsr,110,Add CODE_OF_CONDUCT.md for Community Expectations,MImran2002,User,open,2026-09-10 20:02:25+00:00,2026-09-15T13:42:58Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/110,
+bcsr,111,Add LICENSE.md to Define Project Licensing,MImran2002,User,open,2026-09-10 20:02:59+00:00,2026-09-15T13:42:51Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/111,
+bcsr,115,Add Github Pull Request Template,MImran2002,User,open,2026-09-15 13:42:26+00:00,2026-09-15T13:42:40Z,,0,https://github.com/BCStudentSoftwareDevTeam/bcsr/issues/115,
